@@ -1,0 +1,93 @@
+A level and other 16 to 18 results
+Academic year 2023/24
+
+Description
+
+This document describes the data included in the ‘A level and other 16 to 18 results: 2023/24’ accredited official statistics release underlying data files.  The statistical publication complements the 16-18 school and college performance tables. This data is released under the terms of the Open Government License (opens in a new tab) (http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) and is intended to meet at least 3 stars for Open Data (opens in a new tab) (https://www.gov.uk/government/publications/2010-to-2015-government-policy-government-transparency-and-accountability/2010-to-2015-government-policy-government-transparency-and-accountability#appendix-3-releasing-data-in-open-and-anonymised-formats).
+
+The publication methodology, available on the publication report, should be referenced alongside this data. It provides information on the data sources, their coverage and quality as well as explaining methodology used in producing the data.
+
+Coverage
+
+This release provides information on A level and other 16-18 results in:
+
+- Students who have completed their 16-18 phase of education
+- Students who have entered an approved qualification in the reporting year
+
+Approved qualifications are those that are eligible for reporting in the 16-18 school and college performance tables, listed in the 16 to 18 qualifications, discount codes and point scores (opens in a new tab) (https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores).
+
+The information is based on data collected via awarding organisations, the school census, and the Individualised Learner Record.
+
+File formats and conventions
+
+Rounding
+
+This dataset has not had rounding applied.
+
+Suppression is applied to protect the disclosure of personal information or characteristics.
+
+Conventions
+
+The following conventions are used throughout the underlying data.
+
+Symbol  |  Useage                                      |  Example
+------  |  ------------------------------------------  |  ----------------------------------------------------------
+z       |  When an observation is not applicable       |  No data for males at an all female school
+x       |  When data is unavailable for other reasons  |  Data for an indicator is not collected in a certain region
+c       |  Confidential data                           |  Data has been suppressed
+
+Data files
+
+Attainment and other performance measures - rurality
+
+Filename: aggregated_attainment_by_rurality_202024.csv
+Geographic levels: Regional
+Time period: 2019/20 to 2023/24
+Content summary: Attainment by rurality.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                               |  Variable description
+----------------------------------------------------------  |  ----------------------------------------------------------------------------------
+aps_per_entry_acad                                          |  APS per academic entry
+aps_per_entry_agen                                          |  APS per applied general entry
+aps_per_entry_alev                                          |  APS per A level entry
+aps_per_entry_best3                                         |  APS per 'Best 3' entries
+aps_per_entry_grade_acad                                    |  Average academic result
+aps_per_entry_grade_agen                                    |  Average applied general result
+aps_per_entry_grade_alev                                    |  Average A level result
+aps_per_entry_grade_best3                                   |  APS per 'Best 3' entries (grade)
+aps_per_entry_grade_technicalcertificate                    |  Average technical certificate result
+aps_per_entry_grade_tlev                                    |  Average tech level result
+aps_per_entry_technicalcertificate                          |  APS per technical certificate entry
+aps_per_entry_tlev                                          |  APS per tech level entry
+entered_any_level3_vocational_excluding_applied_generals    |  Number of students entered for any level 3 vocational (excluding applied generals)
+entered_any_level3_vocational_excluding_tech_levels         |  Number of students entered for any level 3 vocational (excluding tech levels)
+entered_for_one_or_more_alev                                |  Number of students entered for ≥ 1 A level
+entered_for_one_or_more_alev_or_applied                     |  Number of students entered for ≥ 1 A level or applied A level
+number_of_students_acad                                     |  Number of academic students
+number_of_students_agen                                     |  Number of applied general students
+number_of_students_alev                                     |  Number of A level students
+number_of_students_highest_entry_was_l2                     |  Number of level 2 vocational students (without approved level 3 entry)
+number_of_students_level3                                   |  Number of level 3 students
+number_of_students_potential                                |  Number of students at end of 16-18 study
+number_of_students_technicalcertificate                     |  Number of technical certificate students
+number_of_students_tlev                                     |  Number of tech level students
+pc_achieving_3_astar_to_a_alev                              |  % achieving 3 A* to A
+pc_achieving_aab_or_better_alev                             |  % achieving ≥ AAB
+pc_achieving_aab_or_better_atleast_two_facilitating_alev    |  % achieving ≥ AAB for a minimum of 2 facilitating A levels
+pc_achieving_atleast_two_alev                               |  % achieving ≥ 2 A levels
+pc_achieving_atleast_two_substantial_lev3                   |  % achieving ≥ 2 substantial level 3 results
+pc_achieving_atleast_two_substantial_lev3_acad              |  % achieving ≥ 2 academic results
+pc_level2_vocational_students_entered_technicalcertificate  |  % level 2 students vocational students entered for technical certificate
+pc_level3_vocational_students_entered_applied_generals      |  % level 3 vocational students (excluding tech levels) who entered applied general
+pc_level3_vocational_students_entered_tech_levels           |  % level 3 vocational students (excluding applied generals) who entered tech levels
+rurality_name                                               |  Rurality
+
+Footnotes:
+
+1. Covers students at the end of advanced level study who were entered for at least one A level, applied single A level, applied double A level or combined A/AS level during 16-18 study, excluding critical thinking and general studies. This measure only includes A level students who have entered less than a total of size 1 in other academic, applied general and tech level qualifications.
+2. Covers students at the end of advanced level study who were entered for at least one A level, excluding critical thinking and general studies. Excludes those students who have entered only applied A levels or applied AS levels. This measure only includes A level students who have entered less than a total of size 1 in other academic, applied general and tech level qualifications.
+3. A level facilitating subjects are: biology, chemistry, physics, maths, further maths, geography, history, English literature, modern and classical languages.
+4. A maximum of 60 points are available for A level, 50 points for applied general and tech level and 8 points for technical certificates. More information on points, APS bands and grade boundaries can be found in the technical guide for 16 to 18 accountability measures (https://www.gov.uk/government/publications/16-to-19-accountability-headline-measures-technical-guide).
+5. A change to the trigger rules was introduced in 2020/21 such that students were no longer automatically reported after two years in 16-18 study. The introduction caused a fall in cohort size, particularly within the vocational and technical cohorts. A full impact analysis can be found in the methodology document (https://explore-education-statistics.service.gov.uk/methodology/a-level-and-other-16-to-18-results).

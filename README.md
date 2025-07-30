@@ -9,9 +9,12 @@
 ## TODO:
 notebooks:
 - add constraints in nb02
+  
 website:
 - qmd?
+  
 scripts:
 - move the meaningful things here
+  
 readme:
 - follow template

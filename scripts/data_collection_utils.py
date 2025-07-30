@@ -11,3 +11,7 @@ def set_nulls(x):
             return pd.to_numeric(x)
         except (ValueError, TypeError):
             return x
+
+## Adjust time periods to a more readable format
+def adjust_time_periods(col):
+    return str(col)[:4] + " to " + str(col)[4:]

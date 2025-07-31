@@ -494,3 +494,48 @@ time_period,region_name,characteristic_type,characteristic_value,number_of_stude
 2023 to 24,London,Disadvantage,Unknown disadvantaged status,701,4726,15.942,80.029,B-,14.833
 2023 to 24,North West,Disadvantage,Unknown disadvantaged status,339,2628,17.045,82.301,B-,12.9
 2023 to 24,Yorkshire and The Humber,Disadvantage,Unknown disadvantaged status,282,1583,15.517,68.44,C+,17.814
+2019 to 20,South West,All Students,All state-funded students,22144,53560,19.884,84.389,B-,41.344
+2019 to 20,South East,All Students,All state-funded students,42680,93115,20.835,85.614,B,45.836
+2019 to 20,West Midlands,All Students,All state-funded students,24361,64050,18.463,83.667,B-,38.034
+2019 to 20,London,All Students,All state-funded students,41579,84641,21.645,87.366,B,49.124
+2019 to 20,North West,All Students,All state-funded students,29755,77184,18.444,85.811,B,38.551
+2019 to 20,Yorkshire and The Humber,All Students,All state-funded students,21069,57803,18.179,82.633,B-,36.45
+2019 to 20,East of England,All Students,All state-funded students,27861,66294,20.779,86.203,B,42.026
+2019 to 20,East Midlands,All Students,All state-funded students,18096,42002,18.739,87.312,B-,43.084
+2019 to 20,North East,All Students,All state-funded students,9600,30345,18.706,79.958,B-,31.636
+2020 to 21,North East,All Students,All state-funded students,8965,22654,22.568,84.796,B,39.574
+2020 to 21,West Midlands,All Students,All state-funded students,24337,50704,23.062,87.02,B,47.998
+2020 to 21,South East,All Students,All state-funded students,43956,77795,26.272,86.935,B,56.502
+2020 to 21,North West,All Students,All state-funded students,29630,60380,23.36,87.158,B,49.073
+2020 to 21,Yorkshire and The Humber,All Students,All state-funded students,20667,43350,23.509,85.199,B,47.675
+2020 to 21,South West,All Students,All state-funded students,21599,42263,25.879,88.662,B,51.106
+2020 to 21,East of England,All Students,All state-funded students,27648,52657,26.422,88.697,B,52.506
+2020 to 21,East Midlands,All Students,All state-funded students,18055,34144,24.207,89.244,B,52.879
+2020 to 21,London,All Students,All state-funded students,41987,72059,27.5,89.904,B,58.268
+2021 to 22,Yorkshire and The Humber,All Students,All state-funded students,21807,55082,18.951,83.835,B-,39.59
+2021 to 22,London,All Students,All state-funded students,44609,84637,21.685,89.984,B,52.706
+2021 to 22,East Midlands,All Students,All state-funded students,19118,40963,17.042,89.392,B-,46.671
+2021 to 22,North East,All Students,All state-funded students,9548,28542,17.84,84.667,B-,33.452
+2021 to 22,West Midlands,All Students,All state-funded students,25477,62003,18.56,86.113,B-,41.09
+2021 to 22,North West,All Students,All state-funded students,31461,74714,20.629,86.965,B-,42.109
+2021 to 22,South West,All Students,All state-funded students,22056,51844,19.498,89.441,B-,42.543
+2021 to 22,South East,All Students,All state-funded students,46068,92037,22.183,86.615,B,50.054
+2021 to 22,East of England,All Students,All state-funded students,29579,65067,20.917,87.691,B-,45.459
+2022 to 23,Yorkshire and The Humber,All Students,All state-funded students,22590,56012,12.357,82.568,C+,40.331
+2022 to 23,South East,All Students,All state-funded students,47333,93213,15.382,85.23,B-,50.779
+2022 to 23,London,All Students,All state-funded students,46175,85271,15.105,88.78,C+,54.151
+2022 to 23,North West,All Students,All state-funded students,32315,75831,13.36,85.685,C+,42.614
+2022 to 23,East Midlands,All Students,All state-funded students,19798,40924,11.011,87.458,C+,48.377
+2022 to 23,South West,All Students,All state-funded students,22453,51917,12.669,87.516,C+,43.248
+2022 to 23,North East,All Students,All state-funded students,9638,28357,11.071,83.42,C+,33.988
+2022 to 23,West Midlands,All Students,All state-funded students,26050,62488,12.303,84.015,C+,41.688
+2022 to 23,East of England,All Students,All state-funded students,29654,64847,13.961,86.639,C+,45.729
+2023 to 24,North East,All Students,All state-funded students,9875,29355,12.403,81.904,C+,33.64
+2023 to 24,West Midlands,All Students,All state-funded students,26906,64420,13.688,82.339,C+,41.767
+2023 to 24,East Midlands,All Students,All state-funded students,20099,41799,11.28,86.756,C+,48.085
+2023 to 24,South West,All Students,All state-funded students,22892,52770,13.296,86.117,C+,43.381
+2023 to 24,South East,All Students,All state-funded students,48375,95158,15.976,84.688,B-,50.837
+2023 to 24,East of England,All Students,All state-funded students,30773,67239,14.403,85.871,C+,45.767
+2023 to 24,London,All Students,All state-funded students,47533,87911,16.177,88.564,B-,54.069
+2023 to 24,North West,All Students,All state-funded students,32853,78493,14.52,85.21,C+,41.855
+2023 to 24,Yorkshire and The Humber,All Students,All state-funded students,23136,57419,13.527,81.864,C+,40.293

@@ -1,316 +1,271 @@
-time_period,region_name,rurality_name,number_of_students_alev,number_of_students_potential,pc_achieving_3_astar_to_a_alev,pc_achieving_atleast_two_alev,aps_per_entry_grade_alev,number_of_students_entered,pc_entering_alev
-2019 to 20,North East,Urban - Major conurbation,4388,16513,17.538,81.472,B-,20589,21.312
-2019 to 20,West Midlands,Urban - Major conurbation,12073,33043,16.95,82.117,B-,51788,23.312
-2019 to 20,East of England,Urban - Major conurbation,2947,6759,22.976,88.497,B,10858,27.141
-2019 to 20,East Midlands,Urban - Major conurbation,47,75,14.286,65.957,B-,203,23.153
-2019 to 20,South West,Urban - Major conurbation,0,0,,,,0,
-2019 to 20,South East,Urban - Major conurbation,3801,8124,19.955,86.03,B,14776,25.724
-2019 to 20,London,Urban - Major conurbation,41481,84081,21.652,87.382,B,155608,26.657
-2019 to 20,North West,Urban - Major conurbation,17224,44446,18.177,85.735,B,67454,25.534
-2019 to 20,Yorkshire and The Humber,Urban - Major conurbation,7871,21785,17.298,82.632,B-,33484,23.507
-2020 to 21,South East,Urban - Major conurbation,4127,7885,23.601,87.352,B,15619,26.423
-2020 to 21,East of England,Urban - Major conurbation,2959,5488,27.667,90.132,B,10590,27.941
-2020 to 21,East Midlands,Urban - Major conurbation,54,69,25.0,75.926,B,204,26.471
-2020 to 21,South West,Urban - Major conurbation,0,0,,,,0,
-2020 to 21,North East,Urban - Major conurbation,3995,12177,21.662,87.359,B,17236,23.178
-2020 to 21,London,Urban - Major conurbation,41875,71632,27.491,89.922,B,153580,27.266
-2020 to 21,North West,Urban - Major conurbation,16836,33726,22.087,86.505,B,62623,26.885
-2020 to 21,Yorkshire and The Humber,Urban - Major conurbation,7811,16365,22.55,84.355,B,30183,25.879
-2020 to 21,West Midlands,Urban - Major conurbation,11990,25864,22.531,86.606,B,47934,25.014
-2021 to 22,South East,Urban - Major conurbation,4299,9282,20.404,87.346,B,16838,25.532
-2021 to 22,North West,Urban - Major conurbation,18507,43440,20.719,85.4,B-,75786,24.42
-2021 to 22,Yorkshire and The Humber,Urban - Major conurbation,8408,21503,17.913,82.647,B-,36135,23.268
-2021 to 22,North East,Urban - Major conurbation,4264,15284,16.949,86.89,B-,19247,22.154
-2021 to 22,West Midlands,Urban - Major conurbation,12499,31737,17.927,85.687,B-,53857,23.208
-2021 to 22,East of England,Urban - Major conurbation,3062,6836,21.781,90.235,B,12007,25.502
-2021 to 22,East Midlands,Urban - Major conurbation,23,38,0.0,47.826,C,112,20.536
-2021 to 22,South West,Urban - Major conurbation,0,0,,,,0,
-2021 to 22,London,Urban - Major conurbation,44474,84060,21.7,90.01,B,172532,25.777
-2022 to 23,West Midlands,Urban - Major conurbation,13054,32276,12.205,83.323,C+,57479,22.711
-2022 to 23,East Midlands,Urban - Major conurbation,61,68,16.667,50.82,C-,251,24.303
-2022 to 23,South West,Urban - Major conurbation,0,0,,,,0,
-2022 to 23,South East,Urban - Major conurbation,4394,9559,12.946,85.844,B-,17973,24.448
-2022 to 23,East of England,Urban - Major conurbation,3108,6537,13.742,88.16,C+,12544,24.777
-2022 to 23,North West,Urban - Major conurbation,18866,43634,13.578,84.427,C+,79064,23.862
-2022 to 23,Yorkshire and The Humber,Urban - Major conurbation,8826,22092,10.794,81.747,C+,38252,23.073
-2022 to 23,North East,Urban - Major conurbation,4288,15108,10.243,85.075,C+,19839,21.614
-2022 to 23,London,Urban - Major conurbation,46031,84718,15.14,88.808,C+,179781,25.604
-2023 to 24,East Midlands,Urban - Major conurbation,31,45,0.0,64.516,C,131,23.664
-2023 to 24,South West,Urban - Major conurbation,0,0,,,,0,
-2023 to 24,South East,Urban - Major conurbation,4295,9413,15.195,86.24,B-,18434,23.299
-2023 to 24,London,Urban - Major conurbation,47392,87284,16.173,88.593,B-,187245,25.31
-2023 to 24,North West,Urban - Major conurbation,19422,45710,14.532,84.811,C+,84660,22.941
-2023 to 24,Yorkshire and The Humber,Urban - Major conurbation,9024,23072,12.957,81.56,C+,40627,22.212
-2023 to 24,North East,Urban - Major conurbation,4540,15698,11.33,84.119,C+,22577,20.109
-2023 to 24,West Midlands,Urban - Major conurbation,13683,33471,13.852,81.517,C+,62763,21.801
-2023 to 24,East of England,Urban - Major conurbation,3360,7132,14.275,89.613,B-,13754,24.429
-2019 to 20,North East,Urban - Minor conurbation,0,0,,,,0,
-2019 to 20,West Midlands,Urban - Minor conurbation,0,0,,,,0,
-2019 to 20,East of England,Urban - Minor conurbation,0,0,,,,0,
-2019 to 20,East Midlands,Urban - Minor conurbation,3534,7226,20.363,86.389,B-,13151,26.872
-2019 to 20,South West,Urban - Minor conurbation,0,0,,,,0,
-2019 to 20,South East,Urban - Minor conurbation,0,0,,,,0,
-2019 to 20,London,Urban - Minor conurbation,0,0,,,,0,
-2019 to 20,North West,Urban - Minor conurbation,0,0,,,,0,
-2019 to 20,Yorkshire and The Humber,Urban - Minor conurbation,3598,12514,19.075,86.381,B-,16857,21.344
-2020 to 21,South East,Urban - Minor conurbation,0,0,,,,0,
-2020 to 21,East of England,Urban - Minor conurbation,0,0,,,,0,
-2020 to 21,East Midlands,Urban - Minor conurbation,3490,5910,24.908,89.169,B,12358,28.241
-2020 to 21,South West,Urban - Minor conurbation,0,0,,,,0,
-2020 to 21,North East,Urban - Minor conurbation,0,0,,,,0,
-2020 to 21,London,Urban - Minor conurbation,0,0,,,,0,
-2020 to 21,North West,Urban - Minor conurbation,0,0,,,,0,
-2020 to 21,Yorkshire and The Humber,Urban - Minor conurbation,3660,8657,23.747,87.268,B,14760,24.797
-2020 to 21,West Midlands,Urban - Minor conurbation,0,0,,,,0,
-2021 to 22,South East,Urban - Minor conurbation,0,0,,,,0,
-2021 to 22,North West,Urban - Minor conurbation,0,0,,,,0,
-2021 to 22,Yorkshire and The Humber,Urban - Minor conurbation,3826,13487,17.963,85.546,B-,16928,22.602
-2021 to 22,North East,Urban - Minor conurbation,0,0,,,,0,
-2021 to 22,West Midlands,Urban - Minor conurbation,0,0,,,,0,
-2021 to 22,East of England,Urban - Minor conurbation,0,0,,,,0,
-2021 to 22,East Midlands,Urban - Minor conurbation,3674,7222,19.539,90.093,B-,13442,27.332
-2021 to 22,South West,Urban - Minor conurbation,0,0,,,,0,
-2021 to 22,London,Urban - Minor conurbation,0,0,,,,0,
-2022 to 23,West Midlands,Urban - Minor conurbation,0,0,,,,0,
-2022 to 23,East Midlands,Urban - Minor conurbation,3788,7376,10.955,87.249,C+,14153,26.765
-2022 to 23,South West,Urban - Minor conurbation,0,0,,,,0,
-2022 to 23,South East,Urban - Minor conurbation,0,0,,,,0,
-2022 to 23,East of England,Urban - Minor conurbation,0,0,,,,0,
-2022 to 23,North West,Urban - Minor conurbation,0,0,,,,0,
-2022 to 23,Yorkshire and The Humber,Urban - Minor conurbation,4003,13639,13.096,82.838,C+,18401,21.754
-2022 to 23,North East,Urban - Minor conurbation,0,0,,,,0,
-2022 to 23,London,Urban - Minor conurbation,0,0,,,,0,
-2023 to 24,East Midlands,Urban - Minor conurbation,3943,7536,12.77,86.102,C+,15160,26.009
-2023 to 24,South West,Urban - Minor conurbation,0,0,,,,0,
-2023 to 24,South East,Urban - Minor conurbation,0,0,,,,0,
-2023 to 24,London,Urban - Minor conurbation,0,0,,,,0,
-2023 to 24,North West,Urban - Minor conurbation,0,0,,,,0,
-2023 to 24,Yorkshire and The Humber,Urban - Minor conurbation,4094,14015,13.301,82.56,C+,20506,19.965
-2023 to 24,North East,Urban - Minor conurbation,0,0,,,,0,
-2023 to 24,West Midlands,Urban - Minor conurbation,0,0,,,,0,
-2023 to 24,East of England,Urban - Minor conurbation,0,0,,,,0,
-2019 to 20,North East,Urban - City and town,4879,14268,19.519,78.582,B,21017,23.215
-2019 to 20,West Midlands,Urban - City and town,10622,28435,19.821,84.871,B-,43719,24.296
-2019 to 20,East of England,Urban - City and town,22237,56985,20.716,85.52,B,92870,23.944
-2019 to 20,East Midlands,Urban - City and town,11669,31458,17.837,87.197,B-,49807,23.428
-2019 to 20,South West,Urban - City and town,18095,47432,19.83,83.426,B-,74281,24.36
-2019 to 20,South East,Urban - City and town,35128,77309,21.142,85.487,B,137367,25.572
-2019 to 20,London,Urban - City and town,0,11,,,,0,
-2019 to 20,North West,Urban - City and town,11031,29217,18.894,85.985,B,42878,25.726
-2019 to 20,Yorkshire and The Humber,Urban - City and town,7874,20330,18.49,80.061,B,32415,24.291
-2020 to 21,South East,Urban - City and town,35921,63507,26.875,86.729,B,134131,26.781
-2020 to 21,East of England,Urban - City and town,22047,44399,26.452,88.393,B,86281,25.553
-2020 to 21,East Midlands,Urban - City and town,11569,25011,23.287,89.126,B,46245,25.017
-2020 to 21,South West,Urban - City and town,17423,36429,26.08,88.504,B,67774,25.707
-2020 to 21,North East,Urban - City and town,4658,10449,23.427,82.546,B,18287,25.472
-2020 to 21,London,Urban - City and town,0,0,,,,0,
-2020 to 21,North West,Urban - City and town,11277,23959,24.406,88.304,B,42813,26.34
-2020 to 21,Yorkshire and The Humber,Urban - City and town,7469,15205,24.665,84.563,B,28427,26.274
-2020 to 21,West Midlands,Urban - City and town,10681,22560,23.317,87.108,B,41785,25.562
-2021 to 22,South East,Urban - City and town,37730,75421,22.929,86.361,B,144463,26.117
-2021 to 22,North West,Urban - City and town,11398,27765,21.193,89.735,B,46700,24.407
-2021 to 22,Yorkshire and The Humber,Urban - City and town,7713,16291,20.689,83.936,B-,30954,24.918
-2021 to 22,North East,Urban - City and town,4946,13062,18.912,83.037,B-,20111,24.594
-2021 to 22,West Midlands,Urban - City and town,11182,27377,18.867,86.201,B-,46504,24.045
-2021 to 22,East of England,Urban - City and town,23818,55356,21.226,87.228,B-,95772,24.869
-2021 to 22,East Midlands,Urban - City and town,12322,30297,15.834,88.995,B-,48793,25.254
-2021 to 22,South West,Urban - City and town,17767,45559,19.777,89.565,B-,70748,25.113
-2021 to 22,London,Urban - City and town,24,33,12.5,100.0,B-,72,33.333
-2022 to 23,West Midlands,Urban - City and town,11188,27274,12.112,84.519,C+,47837,23.388
-2022 to 23,East Midlands,Urban - City and town,12913,30102,10.665,87.4,C+,53305,24.225
-2022 to 23,South West,Urban - City and town,17947,45385,12.897,87.797,C+,73355,24.466
-2022 to 23,South East,Urban - City and town,38818,76322,16.118,85.058,B-,150902,25.724
-2022 to 23,East of England,Urban - City and town,23935,55513,14.372,86.447,C+,99503,24.055
-2022 to 23,North West,Urban - City and town,11944,28627,13.254,87.81,C+,49922,23.925
-2022 to 23,Yorkshire and The Humber,Urban - City and town,7836,16875,14.042,82.67,C+,32282,24.274
-2022 to 23,North East,Urban - City and town,5065,13217,11.65,81.856,C+,21403,23.665
-2022 to 23,London,Urban - City and town,24,43,0.0,95.833,C+,72,33.333
-2023 to 24,East Midlands,Urban - City and town,12990,30739,10.573,86.721,C+,56607,22.948
-2023 to 24,South West,Urban - City and town,18490,46112,13.6,86.041,C+,79331,23.307
-2023 to 24,South East,Urban - City and town,40028,78469,16.547,84.431,B-,159484,25.098
-2023 to 24,London,Urban - City and town,39,57,30.769,100.0,B+,117,33.333
-2023 to 24,North West,Urban - City and town,12021,29429,14.688,85.9,C+,52324,22.974
-2023 to 24,Yorkshire and The Humber,Urban - City and town,8165,17012,14.636,80.698,C+,34364,23.76
-2023 to 24,North East,Urban - City and town,5012,13533,13.576,79.729,C+,22909,21.878
-2023 to 24,West Midlands,Urban - City and town,11488,28100,13.253,82.782,C+,51652,22.241
-2023 to 24,East of England,Urban - City and town,24924,57496,14.815,85.323,C+,108338,23.006
-2019 to 20,North East,Rural - Town and fringe,253,372,22.152,75.099,B,896,28.237
-2019 to 20,West Midlands,Rural - Town and fringe,1281,1617,20.855,85.324,B,4475,28.626
-2019 to 20,East of England,Rural - Town and fringe,1605,2058,18.603,87.726,B-,5481,29.283
-2019 to 20,East Midlands,Rural - Town and fringe,2563,3241,21.264,89.934,B,8873,28.885
-2019 to 20,South West,Rural - Town and fringe,2214,2700,20.236,87.579,B-,7449,29.722
-2019 to 20,South East,Rural - Town and fringe,2752,4076,17.785,88.009,B-,9469,29.063
-2019 to 20,London,Rural - Town and fringe,15,39,13.333,100.0,B,57,26.316
-2019 to 20,North West,Rural - Town and fringe,1307,1540,19.043,87.758,B-,4459,29.312
-2019 to 20,Yorkshire and The Humber,Rural - Town and fringe,1407,2023,17.528,84.577,B-,4901,28.708
-2020 to 21,South East,Rural - Town and fringe,2965,4001,23.12,89.882,B,10054,29.491
-2020 to 21,East of England,Rural - Town and fringe,1624,1950,24.068,88.239,B,5643,28.779
-2020 to 21,East Midlands,Rural - Town and fringe,2692,3164,27.506,90.007,B,9278,29.015
-2020 to 21,South West,Rural - Town and fringe,2213,2590,25.395,89.291,B,7492,29.538
-2020 to 21,North East,Rural - Town and fringe,218,294,21.711,82.569,B,759,28.722
-2020 to 21,London,Rural - Town and fringe,21,27,20.0,95.238,B+,70,30.0
-2020 to 21,North West,Rural - Town and fringe,1357,1530,31.9,87.104,B,4777,28.407
-2020 to 21,Yorkshire and The Humber,Rural - Town and fringe,1384,1938,21.067,87.066,B,4823,28.696
-2020 to 21,West Midlands,Rural - Town and fringe,1237,1520,25.185,89.006,B,4374,28.281
-2021 to 22,South East,Rural - Town and fringe,3043,4395,16.531,90.01,B-,10648,28.578
-2021 to 22,North West,Rural - Town and fringe,1364,1523,15.298,86.584,B-,4716,28.923
-2021 to 22,Yorkshire and The Humber,Rural - Town and fringe,1474,1930,17.058,84.871,B-,5404,27.276
-2021 to 22,North East,Rural - Town and fringe,224,324,13.084,78.571,C+,844,26.54
-2021 to 22,West Midlands,Rural - Town and fringe,1332,1608,19.979,87.688,B-,4722,28.208
-2021 to 22,East of England,Rural - Town and fringe,1605,1967,15.099,87.103,B-,5504,29.161
-2021 to 22,East Midlands,Rural - Town and fringe,2866,3414,19.215,90.544,B-,9697,29.556
-2021 to 22,South West,Rural - Town and fringe,2191,2643,19.676,89.274,B-,7371,29.725
-2021 to 22,London,Rural - Town and fringe,12,18,0.0,91.667,D,39,30.769
-2022 to 23,West Midlands,Rural - Town and fringe,1356,1647,12.673,85.988,C+,4733,28.65
-2022 to 23,East Midlands,Rural - Town and fringe,2782,3299,12.588,88.569,C+,9473,29.368
-2022 to 23,South West,Rural - Town and fringe,2149,2590,12.602,88.227,C+,7198,29.856
-2022 to 23,South East,Rural - Town and fringe,3098,4497,10.078,87.734,C+,10999,28.166
-2022 to 23,East of England,Rural - Town and fringe,1558,1983,9.537,85.944,C+,5513,28.26
-2022 to 23,North West,Rural - Town and fringe,1328,1514,11.791,85.693,C+,4571,29.053
-2022 to 23,Yorkshire and The Humber,Rural - Town and fringe,1566,2076,11.97,84.994,C+,5758,27.197
-2022 to 23,North East,Rural - Town and fringe,192,306,11.111,87.5,C+,697,27.547
-2022 to 23,London,Rural - Town and fringe,21,31,0.0,76.19,D-,83,25.301
-2023 to 24,East Midlands,Rural - Town and fringe,2878,3459,12.585,87.874,C+,9893,29.091
-2023 to 24,South West,Rural - Town and fringe,2039,2481,12.508,87.788,C+,6958,29.304
-2023 to 24,South East,Rural - Town and fringe,3056,4465,10.586,86.846,C+,11096,27.541
-2023 to 24,London,Rural - Town and fringe,10,36,0.0,70.0,C-,63,15.873
-2023 to 24,North West,Rural - Town and fringe,1232,1421,13.287,86.526,C+,4253,28.968
-2023 to 24,Yorkshire and The Humber,Rural - Town and fringe,1499,2038,12.181,86.124,C+,5606,26.739
-2023 to 24,North East,Rural - Town and fringe,203,315,10.092,79.803,C,759,26.746
-2023 to 24,West Midlands,Rural - Town and fringe,1315,1617,15.213,86.312,C+,4605,28.556
-2023 to 24,East of England,Rural - Town and fringe,1431,1813,10.379,84.836,C+,5133,27.878
-2019 to 20,North East,Rural - Village,0,12,,,,0,
-2019 to 20,West Midlands,Rural - Village,0,1,,,,0,
-2019 to 20,East of England,Rural - Village,677,824,18.382,88.331,B,2381,28.433
-2019 to 20,East Midlands,Rural - Village,166,223,9.735,86.747,C+,587,28.279
-2019 to 20,South West,Rural - Village,619,1141,30.882,90.307,B+,2276,27.197
-2019 to 20,South East,Rural - Village,503,1172,22.609,84.692,B,2201,22.853
-2019 to 20,London,Rural - Village,83,106,16.667,77.108,B-,322,25.776
-2019 to 20,North West,Rural - Village,107,116,10.256,75.701,C+,345,31.014
-2019 to 20,Yorkshire and The Humber,Rural - Village,222,2570,28.78,93.694,B+,2484,8.937
-2020 to 21,South East,Rural - Village,520,1061,27.735,87.5,B,2215,23.476
-2020 to 21,East of England,Rural - Village,612,773,24.426,88.235,B,2255,27.14
-2020 to 21,East Midlands,Rural - Village,136,175,12.871,95.588,B-,474,28.692
-2020 to 21,South West,Rural - Village,648,973,35.49,90.741,B+,2306,28.101
-2020 to 21,North East,Rural - Village,0,1,,,,0,
-2020 to 21,London,Rural - Village,90,117,40.0,81.111,B,370,24.324
-2020 to 21,North West,Rural - Village,91,97,24.638,87.912,B-,289,31.488
-2020 to 21,Yorkshire and The Humber,Rural - Village,213,2017,30.89,90.61,B+,2387,8.923
-2020 to 21,West Midlands,Rural - Village,0,1,,,,0,
-2021 to 22,South East,Rural - Village,578,1207,21.513,85.121,B,2318,24.935
-2021 to 22,North West,Rural - Village,74,81,7.692,90.541,C,231,32.035
-2021 to 22,Yorkshire and The Humber,Rural - Village,211,2446,36.216,95.261,B+,2290,9.214
-2021 to 22,North East,Rural - Village,0,5,,,,0,
-2021 to 22,West Midlands,Rural - Village,0,0,,,,0,
-2021 to 22,East of England,Rural - Village,670,888,21.705,87.761,B,2475,27.071
-2021 to 22,East Midlands,Rural - Village,139,217,12.389,96.403,C+,457,30.416
-2021 to 22,South West,Rural - Village,676,1168,22.924,92.308,B,2391,28.273
-2021 to 22,London,Rural - Village,98,125,17.857,75.51,B-,388,25.258
-2022 to 23,West Midlands,Rural - Village,0,0,,,,0,
-2022 to 23,East Midlands,Rural - Village,151,184,11.765,92.715,C+,509,29.666
-2022 to 23,South West,Rural - Village,605,1072,19.493,92.397,B-,2161,27.996
-2022 to 23,South East,Rural - Village,626,1314,15.139,86.102,B-,2659,23.543
-2022 to 23,East of England,Rural - Village,653,836,11.895,83.92,C+,2359,27.681
-2022 to 23,North West,Rural - Village,76,85,12.0,76.316,C,259,29.344
-2022 to 23,Yorkshire and The Humber,Rural - Village,223,2289,11.29,90.135,B-,2370,9.409
-2022 to 23,North East,Rural - Village,0,7,,,,0,
-2022 to 23,London,Rural - Village,99,117,0.0,76.768,C,360,27.5
-2023 to 24,East Midlands,Rural - Village,149,190,6.731,91.946,C+,513,29.045
-2023 to 24,South West,Rural - Village,591,1049,20.565,91.878,B-,2342,25.235
-2023 to 24,South East,Rural - Village,633,1375,14.947,85.782,B-,2888,21.918
-2023 to 24,London,Rural - Village,92,108,5.556,70.652,C,354,25.989
-2023 to 24,North West,Rural - Village,103,111,8.889,66.99,C-,364,28.297
-2023 to 24,Yorkshire and The Humber,Rural - Village,239,2204,17.172,94.142,B,3003,7.959
-2023 to 24,North East,Rural - Village,0,8,,,,0,
-2023 to 24,West Midlands,Rural - Village,0,2,,,,0,
-2023 to 24,East of England,Rural - Village,685,899,10.445,84.672,C+,2524,27.139
-2019 to 20,North East,Rural - Hamlet and isolated dwellings,90,129,27.778,84.444,B,336,26.786
-2019 to 20,West Midlands,Rural - Hamlet and isolated dwellings,400,1687,19.802,90.0,B,1967,20.336
-2019 to 20,East of England,Rural - Hamlet and isolated dwellings,407,442,20.513,94.84,B-,1376,29.578
-2019 to 20,East Midlands,Rural - Hamlet and isolated dwellings,127,185,10.938,72.441,C+,520,24.423
-2019 to 20,South West,Rural - Hamlet and isolated dwellings,1237,2753,14.501,88.359,B-,4384,28.216
-2019 to 20,South East,Rural - Hamlet and isolated dwellings,518,3396,20.844,75.676,B,3582,14.461
-2019 to 20,London,Rural - Hamlet and isolated dwellings,0,501,,,,343,0.0
-2019 to 20,North West,Rural - Hamlet and isolated dwellings,89,2815,11.765,59.551,B-,2296,3.876
-2019 to 20,Yorkshire and The Humber,Rural - Hamlet and isolated dwellings,109,142,11.111,88.073,C+,392,27.806
-2020 to 21,South East,Rural - Hamlet and isolated dwellings,432,2509,23.511,77.315,B,2753,15.692
-2020 to 21,East of England,Rural - Hamlet and isolated dwellings,413,443,27.195,95.4,B,1384,29.841
-2020 to 21,East Midlands,Rural - Hamlet and isolated dwellings,117,152,29.31,82.051,B,457,25.602
-2020 to 21,South West,Rural - Hamlet and isolated dwellings,1323,2632,19.426,88.057,B,4570,28.95
-2020 to 21,North East,Rural - Hamlet and isolated dwellings,100,120,23.077,87.0,B,353,28.329
-2020 to 21,London,Rural - Hamlet and isolated dwellings,1,369,,0.0,A,321,0.312
-2020 to 21,North West,Rural - Hamlet and isolated dwellings,74,1942,15.0,55.405,B-,1576,4.695
-2020 to 21,Yorkshire and The Humber,Rural - Hamlet and isolated dwellings,136,178,17.722,82.353,C+,512,26.562
-2020 to 21,West Midlands,Rural - Hamlet and isolated dwellings,433,1318,25.392,89.838,B,1878,23.056
-2021 to 22,South East,Rural - Hamlet and isolated dwellings,418,2956,16.429,79.426,B,2983,14.013
-2021 to 22,North West,Rural - Hamlet and isolated dwellings,118,2694,10.417,66.949,C+,2011,5.868
-2021 to 22,Yorkshire and The Humber,Rural - Hamlet and isolated dwellings,175,216,3.774,76.571,C,624,28.045
-2021 to 22,North East,Rural - Hamlet and isolated dwellings,114,141,14.493,84.211,C+,426,26.761
-2021 to 22,West Midlands,Rural - Hamlet and isolated dwellings,464,1755,23.768,90.948,B,2138,21.703
-2021 to 22,East of England,Rural - Hamlet and isolated dwellings,424,448,17.439,97.406,B-,1333,31.808
-2021 to 22,East Midlands,Rural - Hamlet and isolated dwellings,94,126,17.647,78.723,B,336,27.976
-2021 to 22,South West,Rural - Hamlet and isolated dwellings,1422,2841,13.889,86.779,B-,6151,23.118
-2021 to 22,London,Rural - Hamlet and isolated dwellings,1,481,0.0,100.0,B+,357,0.28
-2022 to 23,West Midlands,Rural - Hamlet and isolated dwellings,456,1870,18.671,84.868,B-,2323,19.63
-2022 to 23,East Midlands,Rural - Hamlet and isolated dwellings,105,153,10.204,84.762,C+,390,26.923
-2022 to 23,South West,Rural - Hamlet and isolated dwellings,1756,3231,7.422,81.948,C,7385,23.778
-2022 to 23,South East,Rural - Hamlet and isolated dwellings,398,2830,13.306,74.121,C+,3115,12.777
-2022 to 23,East of England,Rural - Hamlet and isolated dwellings,401,430,11.331,93.267,C+,1345,29.814
-2022 to 23,North West,Rural - Hamlet and isolated dwellings,104,2826,6.25,74.038,C,2198,4.732
-2022 to 23,Yorkshire and The Humber,Rural - Hamlet and isolated dwellings,142,172,6.897,78.169,C-,507,28.008
-2022 to 23,North East,Rural - Hamlet and isolated dwellings,93,125,21.875,83.871,C+,336,27.679
-2022 to 23,London,Rural - Hamlet and isolated dwellings,0,481,,,,453,0.0
-2023 to 24,East Midlands,Rural - Hamlet and isolated dwellings,114,166,15.0,80.702,C+,435,26.207
-2023 to 24,South West,Rural - Hamlet and isolated dwellings,1775,3509,8.131,82.873,C+,7683,23.103
-2023 to 24,South East,Rural - Hamlet and isolated dwellings,366,2624,10.385,74.044,C+,3153,11.608
-2023 to 24,London,Rural - Hamlet and isolated dwellings,0,543,,,,615,0.0
-2023 to 24,North West,Rural - Hamlet and isolated dwellings,77,2728,6.977,79.221,C+,2587,2.976
-2023 to 24,Yorkshire and The Humber,Rural - Hamlet and isolated dwellings,117,138,1.299,81.197,C,415,28.193
-2023 to 24,North East,Rural - Hamlet and isolated dwellings,123,158,12.5,89.431,C+,444,27.703
-2023 to 24,West Midlands,Rural - Hamlet and isolated dwellings,423,1845,14.865,83.924,B-,2499,16.927
-2023 to 24,East of England,Rural - Hamlet and isolated dwellings,376,415,11.079,94.149,C+,1257,29.912
-2019 to 20,North East,Unknown rurality,0,0,,,,0,
-2019 to 20,West Midlands,Unknown rurality,0,0,,,,0,
-2019 to 20,East of England,Unknown rurality,0,0,,,,0,
-2019 to 20,East Midlands,Unknown rurality,0,0,,,,0,
-2019 to 20,South West,Unknown rurality,0,0,,,,0,
-2019 to 20,South East,Unknown rurality,0,0,,,,0,
-2019 to 20,London,Unknown rurality,0,0,,,,0,
-2019 to 20,North West,Unknown rurality,0,0,,,,0,
-2019 to 20,Yorkshire and The Humber,Unknown rurality,0,0,,,,0,
-2020 to 21,South East,Unknown rurality,0,0,,,,0,
-2020 to 21,East of England,Unknown rurality,0,0,,,,0,
-2020 to 21,East Midlands,Unknown rurality,0,0,,,,0,
-2020 to 21,South West,Unknown rurality,0,0,,,,0,
-2020 to 21,North East,Unknown rurality,0,0,,,,0,
-2020 to 21,London,Unknown rurality,0,0,,,,0,
-2020 to 21,North West,Unknown rurality,0,0,,,,0,
-2020 to 21,Yorkshire and The Humber,Unknown rurality,0,0,,,,0,
-2020 to 21,West Midlands,Unknown rurality,0,0,,,,0,
-2021 to 22,South East,Unknown rurality,0,0,,,,0,
-2021 to 22,North West,Unknown rurality,0,0,,,,0,
-2021 to 22,Yorkshire and The Humber,Unknown rurality,0,0,,,,0,
-2021 to 22,North East,Unknown rurality,0,0,,,,0,
-2021 to 22,West Midlands,Unknown rurality,0,0,,,,0,
-2021 to 22,East of England,Unknown rurality,0,0,,,,0,
-2021 to 22,East Midlands,Unknown rurality,0,0,,,,0,
-2021 to 22,South West,Unknown rurality,0,0,,,,0,
-2021 to 22,London,Unknown rurality,0,0,,,,0,
-2022 to 23,West Midlands,Unknown rurality,0,0,,,,0,
-2022 to 23,East Midlands,Unknown rurality,0,0,,,,0,
-2022 to 23,South West,Unknown rurality,0,0,,,,0,
-2022 to 23,South East,Unknown rurality,0,0,,,,0,
-2022 to 23,East of England,Unknown rurality,0,0,,,,0,
-2022 to 23,North West,Unknown rurality,0,0,,,,0,
-2022 to 23,Yorkshire and The Humber,Unknown rurality,0,0,,,,0,
-2022 to 23,North East,Unknown rurality,0,0,,,,0,
-2022 to 23,London,Unknown rurality,0,0,,,,0,
-2023 to 24,East Midlands,Unknown rurality,0,0,,,,0,
-2023 to 24,South West,Unknown rurality,0,0,,,,0,
-2023 to 24,South East,Unknown rurality,0,0,,,,0,
-2023 to 24,London,Unknown rurality,0,0,,,,0,
-2023 to 24,North West,Unknown rurality,0,0,,,,0,
-2023 to 24,Yorkshire and The Humber,Unknown rurality,0,0,,,,0,
-2023 to 24,North East,Unknown rurality,0,0,,,,0,
-2023 to 24,West Midlands,Unknown rurality,0,0,,,,0,
-2023 to 24,East of England,Unknown rurality,0,0,,,,0,
+time_period,region_name,rurality_name,number_of_students_alev,number_of_students_potential,pc_achieving_3_astar_to_a_alev,pc_achieving_atleast_two_alev,aps_per_entry_grade_alev,pc_achieving_alev
+2019 to 20,North East,Urban - Major conurbation,4388,16513,17.538,81.472,B-,26.573
+2019 to 20,West Midlands,Urban - Major conurbation,12073,33043,16.95,82.117,B-,36.537
+2019 to 20,East of England,Urban - Major conurbation,2947,6759,22.976,88.497,B,43.601
+2019 to 20,East Midlands,Urban - Major conurbation,47,75,14.286,65.957,B-,62.667
+2019 to 20,South West,Urban - Major conurbation,0,0,,,,
+2019 to 20,South East,Urban - Major conurbation,3801,8124,19.955,86.03,B,46.787
+2019 to 20,London,Urban - Major conurbation,41481,84081,21.652,87.382,B,49.335
+2019 to 20,North West,Urban - Major conurbation,17224,44446,18.177,85.735,B,38.753
+2019 to 20,Yorkshire and The Humber,Urban - Major conurbation,7871,21785,17.298,82.632,B-,36.13
+2020 to 21,South East,Urban - Major conurbation,4127,7885,23.601,87.352,B,52.34
+2020 to 21,East of England,Urban - Major conurbation,2959,5488,27.667,90.132,B,53.918
+2020 to 21,East Midlands,Urban - Major conurbation,54,69,25.0,75.926,B,78.261
+2020 to 21,South West,Urban - Major conurbation,0,0,,,,
+2020 to 21,North East,Urban - Major conurbation,3995,12177,21.662,87.359,B,32.808
+2020 to 21,London,Urban - Major conurbation,41875,71632,27.491,89.922,B,58.459
+2020 to 21,North West,Urban - Major conurbation,16836,33726,22.087,86.505,B,49.92
+2020 to 21,Yorkshire and The Humber,Urban - Major conurbation,7811,16365,22.55,84.355,B,47.73
+2020 to 21,West Midlands,Urban - Major conurbation,11990,25864,22.531,86.606,B,46.358
+2021 to 22,South East,Urban - Major conurbation,4299,9282,20.404,87.346,B,46.315
+2021 to 22,North West,Urban - Major conurbation,18507,43440,20.719,85.4,B-,42.604
+2021 to 22,Yorkshire and The Humber,Urban - Major conurbation,8408,21503,17.913,82.647,B-,39.102
+2021 to 22,North East,Urban - Major conurbation,4264,15284,16.949,86.89,B-,27.898
+2021 to 22,West Midlands,Urban - Major conurbation,12499,31737,17.927,85.687,B-,39.383
+2021 to 22,East of England,Urban - Major conurbation,3062,6836,21.781,90.235,B,44.792
+2021 to 22,East Midlands,Urban - Major conurbation,23,38,0.0,47.826,C,60.526
+2021 to 22,South West,Urban - Major conurbation,0,0,,,,
+2021 to 22,London,Urban - Major conurbation,44474,84060,21.7,90.01,B,52.907
+2022 to 23,West Midlands,Urban - Major conurbation,13054,32276,12.205,83.323,C+,40.445
+2022 to 23,East Midlands,Urban - Major conurbation,61,68,16.667,50.82,C-,89.706
+2022 to 23,South West,Urban - Major conurbation,0,0,,,,
+2022 to 23,South East,Urban - Major conurbation,4394,9559,12.946,85.844,B-,45.967
+2022 to 23,East of England,Urban - Major conurbation,3108,6537,13.742,88.16,C+,47.545
+2022 to 23,North West,Urban - Major conurbation,18866,43634,13.578,84.427,C+,43.237
+2022 to 23,Yorkshire and The Humber,Urban - Major conurbation,8826,22092,10.794,81.747,C+,39.951
+2022 to 23,North East,Urban - Major conurbation,4288,15108,10.243,85.075,C+,28.382
+2022 to 23,London,Urban - Major conurbation,46031,84718,15.14,88.808,C+,54.334
+2023 to 24,East Midlands,Urban - Major conurbation,31,45,0.0,64.516,C,68.889
+2023 to 24,South West,Urban - Major conurbation,0,0,,,,
+2023 to 24,South East,Urban - Major conurbation,4295,9413,15.195,86.24,B-,45.628
+2023 to 24,London,Urban - Major conurbation,47392,87284,16.173,88.593,B-,54.296
+2023 to 24,North West,Urban - Major conurbation,19422,45710,14.532,84.811,C+,42.49
+2023 to 24,Yorkshire and The Humber,Urban - Major conurbation,9024,23072,12.957,81.56,C+,39.112
+2023 to 24,North East,Urban - Major conurbation,4540,15698,11.33,84.119,C+,28.921
+2023 to 24,West Midlands,Urban - Major conurbation,13683,33471,13.852,81.517,C+,40.88
+2023 to 24,East of England,Urban - Major conurbation,3360,7132,14.275,89.613,B-,47.112
+2019 to 20,North East,Urban - Minor conurbation,0,0,,,,
+2019 to 20,West Midlands,Urban - Minor conurbation,0,0,,,,
+2019 to 20,East of England,Urban - Minor conurbation,0,0,,,,
+2019 to 20,East Midlands,Urban - Minor conurbation,3534,7226,20.363,86.389,B-,48.907
+2019 to 20,South West,Urban - Minor conurbation,0,0,,,,
+2019 to 20,South East,Urban - Minor conurbation,0,0,,,,
+2019 to 20,London,Urban - Minor conurbation,0,0,,,,
+2019 to 20,North West,Urban - Minor conurbation,0,0,,,,
+2019 to 20,Yorkshire and The Humber,Urban - Minor conurbation,3598,12514,19.075,86.381,B-,28.752
+2020 to 21,South East,Urban - Minor conurbation,0,0,,,,
+2020 to 21,East of England,Urban - Minor conurbation,0,0,,,,
+2020 to 21,East Midlands,Urban - Minor conurbation,3490,5910,24.908,89.169,B,59.052
+2020 to 21,South West,Urban - Minor conurbation,0,0,,,,
+2020 to 21,North East,Urban - Minor conurbation,0,0,,,,
+2020 to 21,London,Urban - Minor conurbation,0,0,,,,
+2020 to 21,North West,Urban - Minor conurbation,0,0,,,,
+2020 to 21,Yorkshire and The Humber,Urban - Minor conurbation,3660,8657,23.747,87.268,B,42.278
+2020 to 21,West Midlands,Urban - Minor conurbation,0,0,,,,
+2021 to 22,South East,Urban - Minor conurbation,0,0,,,,
+2021 to 22,North West,Urban - Minor conurbation,0,0,,,,
+2021 to 22,Yorkshire and The Humber,Urban - Minor conurbation,3826,13487,17.963,85.546,B-,28.368
+2021 to 22,North East,Urban - Minor conurbation,0,0,,,,
+2021 to 22,West Midlands,Urban - Minor conurbation,0,0,,,,
+2021 to 22,East of England,Urban - Minor conurbation,0,0,,,,
+2021 to 22,East Midlands,Urban - Minor conurbation,3674,7222,19.539,90.093,B-,50.872
+2021 to 22,South West,Urban - Minor conurbation,0,0,,,,
+2021 to 22,London,Urban - Minor conurbation,0,0,,,,
+2022 to 23,West Midlands,Urban - Minor conurbation,0,0,,,,
+2022 to 23,East Midlands,Urban - Minor conurbation,3788,7376,10.955,87.249,C+,51.356
+2022 to 23,South West,Urban - Minor conurbation,0,0,,,,
+2022 to 23,South East,Urban - Minor conurbation,0,0,,,,
+2022 to 23,East of England,Urban - Minor conurbation,0,0,,,,
+2022 to 23,North West,Urban - Minor conurbation,0,0,,,,
+2022 to 23,Yorkshire and The Humber,Urban - Minor conurbation,4003,13639,13.096,82.838,C+,29.35
+2022 to 23,North East,Urban - Minor conurbation,0,0,,,,
+2022 to 23,London,Urban - Minor conurbation,0,0,,,,
+2023 to 24,East Midlands,Urban - Minor conurbation,3943,7536,12.77,86.102,C+,52.322
+2023 to 24,South West,Urban - Minor conurbation,0,0,,,,
+2023 to 24,South East,Urban - Minor conurbation,0,0,,,,
+2023 to 24,London,Urban - Minor conurbation,0,0,,,,
+2023 to 24,North West,Urban - Minor conurbation,0,0,,,,
+2023 to 24,Yorkshire and The Humber,Urban - Minor conurbation,4094,14015,13.301,82.56,C+,29.212
+2023 to 24,North East,Urban - Minor conurbation,0,0,,,,
+2023 to 24,West Midlands,Urban - Minor conurbation,0,0,,,,
+2023 to 24,East of England,Urban - Minor conurbation,0,0,,,,
+2019 to 20,North East,Urban - City and town,4879,14268,19.519,78.582,B,34.195
+2019 to 20,West Midlands,Urban - City and town,10622,28435,19.821,84.871,B-,37.355
+2019 to 20,East of England,Urban - City and town,22237,56985,20.716,85.52,B,39.023
+2019 to 20,East Midlands,Urban - City and town,11669,31458,17.837,87.197,B-,37.094
+2019 to 20,South West,Urban - City and town,18095,47432,19.83,83.426,B-,38.149
+2019 to 20,South East,Urban - City and town,35128,77309,21.142,85.487,B,45.438
+2019 to 20,London,Urban - City and town,0,11,,,,0.0
+2019 to 20,North West,Urban - City and town,11031,29217,18.894,85.985,B,37.755
+2019 to 20,Yorkshire and The Humber,Urban - City and town,7874,20330,18.49,80.061,B,38.731
+2020 to 21,South East,Urban - City and town,35921,63507,26.875,86.729,B,56.562
+2020 to 21,East of England,Urban - City and town,22047,44399,26.452,88.393,B,49.657
+2020 to 21,East Midlands,Urban - City and town,11569,25011,23.287,89.126,B,46.256
+2020 to 21,South West,Urban - City and town,17423,36429,26.08,88.504,B,47.827
+2020 to 21,North East,Urban - City and town,4658,10449,23.427,82.546,B,44.578
+2020 to 21,London,Urban - City and town,0,0,,,,
+2020 to 21,North West,Urban - City and town,11277,23959,24.406,88.304,B,47.068
+2020 to 21,Yorkshire and The Humber,Urban - City and town,7469,15205,24.665,84.563,B,49.122
+2020 to 21,West Midlands,Urban - City and town,10681,22560,23.317,87.108,B,47.345
+2021 to 22,South East,Urban - City and town,37730,75421,22.929,86.361,B,50.026
+2021 to 22,North West,Urban - City and town,11398,27765,21.193,89.735,B,41.052
+2021 to 22,Yorkshire and The Humber,Urban - City and town,7713,16291,20.689,83.936,B-,47.345
+2021 to 22,North East,Urban - City and town,4946,13062,18.912,83.037,B-,37.866
+2021 to 22,West Midlands,Urban - City and town,11182,27377,18.867,86.201,B-,40.845
+2021 to 22,East of England,Urban - City and town,23818,55356,21.226,87.228,B-,43.027
+2021 to 22,East Midlands,Urban - City and town,12322,30297,15.834,88.995,B-,40.671
+2021 to 22,South West,Urban - City and town,17767,45559,19.777,89.565,B-,38.998
+2021 to 22,London,Urban - City and town,24,33,12.5,100.0,B-,72.727
+2022 to 23,West Midlands,Urban - City and town,11188,27274,12.112,84.519,C+,41.021
+2022 to 23,East Midlands,Urban - City and town,12913,30102,10.665,87.4,C+,42.897
+2022 to 23,South West,Urban - City and town,17947,45385,12.897,87.797,C+,39.544
+2022 to 23,South East,Urban - City and town,38818,76322,16.118,85.058,B-,50.861
+2022 to 23,East of England,Urban - City and town,23935,55513,14.372,86.447,C+,43.116
+2022 to 23,North West,Urban - City and town,11944,28627,13.254,87.81,C+,41.723
+2022 to 23,Yorkshire and The Humber,Urban - City and town,7836,16875,14.042,82.67,C+,46.436
+2022 to 23,North East,Urban - City and town,5065,13217,11.65,81.856,C+,38.322
+2022 to 23,London,Urban - City and town,24,43,0.0,95.833,C+,55.814
+2023 to 24,East Midlands,Urban - City and town,12990,30739,10.573,86.721,C+,42.259
+2023 to 24,South West,Urban - City and town,18490,46112,13.6,86.041,C+,40.098
+2023 to 24,South East,Urban - City and town,40028,78469,16.547,84.431,B-,51.011
+2023 to 24,London,Urban - City and town,39,57,30.769,100.0,B+,68.421
+2023 to 24,North West,Urban - City and town,12021,29429,14.688,85.9,C+,40.847
+2023 to 24,Yorkshire and The Humber,Urban - City and town,8165,17012,14.636,80.698,C+,47.996
+2023 to 24,North East,Urban - City and town,5012,13533,13.576,79.729,C+,37.035
+2023 to 24,West Midlands,Urban - City and town,11488,28100,13.253,82.782,C+,40.883
+2023 to 24,East of England,Urban - City and town,24924,57496,14.815,85.323,C+,43.349
+2019 to 20,North East,Rural - Town and fringe,253,372,22.152,75.099,B,68.011
+2019 to 20,West Midlands,Rural - Town and fringe,1281,1617,20.855,85.324,B,79.221
+2019 to 20,East of England,Rural - Town and fringe,1605,2058,18.603,87.726,B-,77.988
+2019 to 20,East Midlands,Rural - Town and fringe,2563,3241,21.264,89.934,B,79.081
+2019 to 20,South West,Rural - Town and fringe,2214,2700,20.236,87.579,B-,82.0
+2019 to 20,South East,Rural - Town and fringe,2752,4076,17.785,88.009,B-,67.517
+2019 to 20,London,Rural - Town and fringe,15,39,13.333,100.0,B,38.462
+2019 to 20,North West,Rural - Town and fringe,1307,1540,19.043,87.758,B-,84.87
+2019 to 20,Yorkshire and The Humber,Rural - Town and fringe,1407,2023,17.528,84.577,B-,69.55
+2020 to 21,South East,Rural - Town and fringe,2965,4001,23.12,89.882,B,74.106
+2020 to 21,East of England,Rural - Town and fringe,1624,1950,24.068,88.239,B,83.282
+2020 to 21,East Midlands,Rural - Town and fringe,2692,3164,27.506,90.007,B,85.082
+2020 to 21,South West,Rural - Town and fringe,2213,2590,25.395,89.291,B,85.444
+2020 to 21,North East,Rural - Town and fringe,218,294,21.711,82.569,B,74.15
+2020 to 21,London,Rural - Town and fringe,21,27,20.0,95.238,B+,77.778
+2020 to 21,North West,Rural - Town and fringe,1357,1530,31.9,87.104,B,88.693
+2020 to 21,Yorkshire and The Humber,Rural - Town and fringe,1384,1938,21.067,87.066,B,71.414
+2020 to 21,West Midlands,Rural - Town and fringe,1237,1520,25.185,89.006,B,81.382
+2021 to 22,South East,Rural - Town and fringe,3043,4395,16.531,90.01,B-,69.238
+2021 to 22,North West,Rural - Town and fringe,1364,1523,15.298,86.584,B-,89.56
+2021 to 22,Yorkshire and The Humber,Rural - Town and fringe,1474,1930,17.058,84.871,B-,76.373
+2021 to 22,North East,Rural - Town and fringe,224,324,13.084,78.571,C+,69.136
+2021 to 22,West Midlands,Rural - Town and fringe,1332,1608,19.979,87.688,B-,82.836
+2021 to 22,East of England,Rural - Town and fringe,1605,1967,15.099,87.103,B-,81.596
+2021 to 22,East Midlands,Rural - Town and fringe,2866,3414,19.215,90.544,B-,83.948
+2021 to 22,South West,Rural - Town and fringe,2191,2643,19.676,89.274,B-,82.898
+2021 to 22,London,Rural - Town and fringe,12,18,0.0,91.667,D,66.667
+2022 to 23,West Midlands,Rural - Town and fringe,1356,1647,12.673,85.988,C+,82.332
+2022 to 23,East Midlands,Rural - Town and fringe,2782,3299,12.588,88.569,C+,84.329
+2022 to 23,South West,Rural - Town and fringe,2149,2590,12.602,88.227,C+,82.973
+2022 to 23,South East,Rural - Town and fringe,3098,4497,10.078,87.734,C+,68.89
+2022 to 23,East of England,Rural - Town and fringe,1558,1983,9.537,85.944,C+,78.568
+2022 to 23,North West,Rural - Town and fringe,1328,1514,11.791,85.693,C+,87.715
+2022 to 23,Yorkshire and The Humber,Rural - Town and fringe,1566,2076,11.97,84.994,C+,75.434
+2022 to 23,North East,Rural - Town and fringe,192,306,11.111,87.5,C+,62.745
+2022 to 23,London,Rural - Town and fringe,21,31,0.0,76.19,D-,67.742
+2023 to 24,East Midlands,Rural - Town and fringe,2878,3459,12.585,87.874,C+,83.203
+2023 to 24,South West,Rural - Town and fringe,2039,2481,12.508,87.788,C+,82.185
+2023 to 24,South East,Rural - Town and fringe,3056,4465,10.586,86.846,C+,68.443
+2023 to 24,London,Rural - Town and fringe,10,36,0.0,70.0,C-,27.778
+2023 to 24,North West,Rural - Town and fringe,1232,1421,13.287,86.526,C+,86.7
+2023 to 24,Yorkshire and The Humber,Rural - Town and fringe,1499,2038,12.181,86.124,C+,73.553
+2023 to 24,North East,Rural - Town and fringe,203,315,10.092,79.803,C,64.444
+2023 to 24,West Midlands,Rural - Town and fringe,1315,1617,15.213,86.312,C+,81.323
+2023 to 24,East of England,Rural - Town and fringe,1431,1813,10.379,84.836,C+,78.93
+2019 to 20,North East,Rural - Village,0,12,,,,0.0
+2019 to 20,West Midlands,Rural - Village,0,1,,,,0.0
+2019 to 20,East of England,Rural - Village,677,824,18.382,88.331,B,82.16
+2019 to 20,East Midlands,Rural - Village,166,223,9.735,86.747,C+,74.439
+2019 to 20,South West,Rural - Village,619,1141,30.882,90.307,B+,54.251
+2019 to 20,South East,Rural - Village,503,1172,22.609,84.692,B,42.918
+2019 to 20,London,Rural - Village,83,106,16.667,77.108,B-,78.302
+2019 to 20,North West,Rural - Village,107,116,10.256,75.701,C+,92.241
+2019 to 20,Yorkshire and The Humber,Rural - Village,222,2570,28.78,93.694,B+,8.638
+2020 to 21,South East,Rural - Village,520,1061,27.735,87.5,B,49.01
+2020 to 21,East of England,Rural - Village,612,773,24.426,88.235,B,79.172
+2020 to 21,East Midlands,Rural - Village,136,175,12.871,95.588,B-,77.714
+2020 to 21,South West,Rural - Village,648,973,35.49,90.741,B+,66.598
+2020 to 21,North East,Rural - Village,0,1,,,,0.0
+2020 to 21,London,Rural - Village,90,117,40.0,81.111,B,76.923
+2020 to 21,North West,Rural - Village,91,97,24.638,87.912,B-,93.814
+2020 to 21,Yorkshire and The Humber,Rural - Village,213,2017,30.89,90.61,B+,10.56
+2020 to 21,West Midlands,Rural - Village,0,1,,,,0.0
+2021 to 22,South East,Rural - Village,578,1207,21.513,85.121,B,47.887
+2021 to 22,North West,Rural - Village,74,81,7.692,90.541,C,91.358
+2021 to 22,Yorkshire and The Humber,Rural - Village,211,2446,36.216,95.261,B+,8.626
+2021 to 22,North East,Rural - Village,0,5,,,,0.0
+2021 to 22,West Midlands,Rural - Village,0,0,,,,
+2021 to 22,East of England,Rural - Village,670,888,21.705,87.761,B,75.45
+2021 to 22,East Midlands,Rural - Village,139,217,12.389,96.403,C+,64.055
+2021 to 22,South West,Rural - Village,676,1168,22.924,92.308,B,57.877
+2021 to 22,London,Rural - Village,98,125,17.857,75.51,B-,78.4
+2022 to 23,West Midlands,Rural - Village,0,0,,,,
+2022 to 23,East Midlands,Rural - Village,151,184,11.765,92.715,C+,82.065
+2022 to 23,South West,Rural - Village,605,1072,19.493,92.397,B-,56.437
+2022 to 23,South East,Rural - Village,626,1314,15.139,86.102,B-,47.641
+2022 to 23,East of England,Rural - Village,653,836,11.895,83.92,C+,78.11
+2022 to 23,North West,Rural - Village,76,85,12.0,76.316,C,89.412
+2022 to 23,Yorkshire and The Humber,Rural - Village,223,2289,11.29,90.135,B-,9.742
+2022 to 23,North East,Rural - Village,0,7,,,,0.0
+2022 to 23,London,Rural - Village,99,117,0.0,76.768,C,84.615
+2023 to 24,East Midlands,Rural - Village,149,190,6.731,91.946,C+,78.421
+2023 to 24,South West,Rural - Village,591,1049,20.565,91.878,B-,56.339
+2023 to 24,South East,Rural - Village,633,1375,14.947,85.782,B-,46.036
+2023 to 24,London,Rural - Village,92,108,5.556,70.652,C,85.185
+2023 to 24,North West,Rural - Village,103,111,8.889,66.99,C-,92.793
+2023 to 24,Yorkshire and The Humber,Rural - Village,239,2204,17.172,94.142,B,10.844
+2023 to 24,North East,Rural - Village,0,8,,,,0.0
+2023 to 24,West Midlands,Rural - Village,0,2,,,,0.0
+2023 to 24,East of England,Rural - Village,685,899,10.445,84.672,C+,76.196
+2019 to 20,North East,Rural - Hamlet and isolated dwellings,90,129,27.778,84.444,B,69.767
+2019 to 20,West Midlands,Rural - Hamlet and isolated dwellings,400,1687,19.802,90.0,B,23.711
+2019 to 20,East of England,Rural - Hamlet and isolated dwellings,407,442,20.513,94.84,B-,92.081
+2019 to 20,East Midlands,Rural - Hamlet and isolated dwellings,127,185,10.938,72.441,C+,68.649
+2019 to 20,South West,Rural - Hamlet and isolated dwellings,1237,2753,14.501,88.359,B-,44.933
+2019 to 20,South East,Rural - Hamlet and isolated dwellings,518,3396,20.844,75.676,B,15.253
+2019 to 20,London,Rural - Hamlet and isolated dwellings,0,501,,,,0.0
+2019 to 20,North West,Rural - Hamlet and isolated dwellings,89,2815,11.765,59.551,B-,3.162
+2019 to 20,Yorkshire and The Humber,Rural - Hamlet and isolated dwellings,109,142,11.111,88.073,C+,76.761
+2020 to 21,South East,Rural - Hamlet and isolated dwellings,432,2509,23.511,77.315,B,17.218
+2020 to 21,East of England,Rural - Hamlet and isolated dwellings,413,443,27.195,95.4,B,93.228
+2020 to 21,East Midlands,Rural - Hamlet and isolated dwellings,117,152,29.31,82.051,B,76.974
+2020 to 21,South West,Rural - Hamlet and isolated dwellings,1323,2632,19.426,88.057,B,50.266
+2020 to 21,North East,Rural - Hamlet and isolated dwellings,100,120,23.077,87.0,B,83.333
+2020 to 21,London,Rural - Hamlet and isolated dwellings,1,369,,0.0,A,0.271
+2020 to 21,North West,Rural - Hamlet and isolated dwellings,74,1942,15.0,55.405,B-,3.811
+2020 to 21,Yorkshire and The Humber,Rural - Hamlet and isolated dwellings,136,178,17.722,82.353,C+,76.404
+2020 to 21,West Midlands,Rural - Hamlet and isolated dwellings,433,1318,25.392,89.838,B,32.853
+2021 to 22,South East,Rural - Hamlet and isolated dwellings,418,2956,16.429,79.426,B,14.141
+2021 to 22,North West,Rural - Hamlet and isolated dwellings,118,2694,10.417,66.949,C+,4.38
+2021 to 22,Yorkshire and The Humber,Rural - Hamlet and isolated dwellings,175,216,3.774,76.571,C,81.019
+2021 to 22,North East,Rural - Hamlet and isolated dwellings,114,141,14.493,84.211,C+,80.851
+2021 to 22,West Midlands,Rural - Hamlet and isolated dwellings,464,1755,23.768,90.948,B,26.439
+2021 to 22,East of England,Rural - Hamlet and isolated dwellings,424,448,17.439,97.406,B-,94.643
+2021 to 22,East Midlands,Rural - Hamlet and isolated dwellings,94,126,17.647,78.723,B,74.603
+2021 to 22,South West,Rural - Hamlet and isolated dwellings,1422,2841,13.889,86.779,B-,50.053
+2021 to 22,London,Rural - Hamlet and isolated dwellings,1,481,0.0,100.0,B+,0.208
+2022 to 23,West Midlands,Rural - Hamlet and isolated dwellings,456,1870,18.671,84.868,B-,24.385
+2022 to 23,East Midlands,Rural - Hamlet and isolated dwellings,105,153,10.204,84.762,C+,68.627
+2022 to 23,South West,Rural - Hamlet and isolated dwellings,1756,3231,7.422,81.948,C,54.348
+2022 to 23,South East,Rural - Hamlet and isolated dwellings,398,2830,13.306,74.121,C+,14.064
+2022 to 23,East of England,Rural - Hamlet and isolated dwellings,401,430,11.331,93.267,C+,93.256
+2022 to 23,North West,Rural - Hamlet and isolated dwellings,104,2826,6.25,74.038,C,3.68
+2022 to 23,Yorkshire and The Humber,Rural - Hamlet and isolated dwellings,142,172,6.897,78.169,C-,82.558
+2022 to 23,North East,Rural - Hamlet and isolated dwellings,93,125,21.875,83.871,C+,74.4
+2022 to 23,London,Rural - Hamlet and isolated dwellings,0,481,,,,0.0
+2023 to 24,East Midlands,Rural - Hamlet and isolated dwellings,114,166,15.0,80.702,C+,68.675
+2023 to 24,South West,Rural - Hamlet and isolated dwellings,1775,3509,8.131,82.873,C+,50.584
+2023 to 24,South East,Rural - Hamlet and isolated dwellings,366,2624,10.385,74.044,C+,13.948
+2023 to 24,London,Rural - Hamlet and isolated dwellings,0,543,,,,0.0
+2023 to 24,North West,Rural - Hamlet and isolated dwellings,77,2728,6.977,79.221,C+,2.823
+2023 to 24,Yorkshire and The Humber,Rural - Hamlet and isolated dwellings,117,138,1.299,81.197,C,84.783
+2023 to 24,North East,Rural - Hamlet and isolated dwellings,123,158,12.5,89.431,C+,77.848
+2023 to 24,West Midlands,Rural - Hamlet and isolated dwellings,423,1845,14.865,83.924,B-,22.927
+2023 to 24,East of England,Rural - Hamlet and isolated dwellings,376,415,11.079,94.149,C+,90.602

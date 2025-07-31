@@ -1,496 +1,496 @@
-time_period,region_name,characteristic_type,characteristic_value,number_of_students_alev,number_of_students_potential,pc_achieving_3_astar_to_a_alev,pc_achieving_atleast_two_alev,aps_per_entry_grade_alev,number_of_students_entered,pc_entering_alev
-2019 to 20,South West,Sex,Female,12492,26649,20.016,84.982,B,48791.0,25.603
-2019 to 20,South East,Sex,Female,23423,45630,21.069,86.449,B,89988.0,26.029
-2019 to 20,West Midlands,Sex,Female,14017,31957,18.07,84.398,B-,57659.0,24.31
-2019 to 20,London,Sex,Female,23195,41479,21.85,88.562,B,84645.0,27.403
-2019 to 20,North West,Sex,Female,16790,38168,19.192,86.278,B,64967.0,25.844
-2019 to 20,Yorkshire and The Humber,Sex,Female,12093,28830,17.871,82.833,B,51038.0,23.694
-2019 to 20,East of England,Sex,Female,15284,32268,20.724,86.856,B,61132.0,25.002
-2019 to 20,East Midlands,Sex,Female,10228,20914,18.623,87.378,B-,40598.0,25.193
-2019 to 20,North East,Sex,Female,5540,14997,18.782,79.675,B,24212.0,22.881
-2020 to 21,North East,Sex,Female,5120,11495,22.808,84.727,B,20950.0,24.439
-2020 to 21,West Midlands,Sex,Female,13727,25893,23.85,86.88,B,53586.0,25.617
-2020 to 21,South East,Sex,Female,24045,39582,27.664,87.407,B+,89193.0,26.958
-2020 to 21,North West,Sex,Female,16974,31513,24.555,87.557,B,63152.0,26.878
-2020 to 21,Yorkshire and The Humber,Sex,Female,11831,22549,24.899,85.208,B,46400.0,25.498
-2020 to 21,South West,Sex,Female,11947,21531,26.668,89.311,B,44811.0,26.661
-2020 to 21,East of England,Sex,Female,15146,26925,26.978,89.298,B+,57745.0,26.229
-2020 to 21,East Midlands,Sex,Female,10270,17718,25.528,89.396,B,38771.0,26.489
-2020 to 21,London,Sex,Female,23530,36457,27.767,90.82,B+,84006.0,28.01
-2021 to 22,Yorkshire and The Humber,Sex,Female,12370,27682,18.773,83.5,B-,51927.0,23.822
-2021 to 22,London,Sex,Female,24758,41756,20.897,90.581,B,92302.0,26.823
-2021 to 22,East Midlands,Sex,Female,10639,20406,16.586,90.14,B-,39945.0,26.634
-2021 to 22,North East,Sex,Female,5484,14299,17.639,85.12,B-,22845.0,24.005
-2021 to 22,West Midlands,Sex,Female,14386,31113,18.216,86.376,B-,59372.0,24.23
-2021 to 22,North West,Sex,Female,17893,37846,21.087,87.336,B,72198.0,24.783
-2021 to 22,South West,Sex,Female,12268,25922,19.86,90.007,B,47321.0,25.925
-2021 to 22,South East,Sex,Female,24924,45338,22.275,86.928,B,94524.0,26.368
-2021 to 22,East of England,Sex,Female,16325,32071,21.064,88.3,B,63603.0,25.667
-2022 to 23,Yorkshire and The Humber,Sex,Female,12888,28091,12.118,82.876,C+,54187.0,23.784
-2022 to 23,South East,Sex,Female,25387,45784,14.695,85.705,B-,97075.0,26.152
-2022 to 23,London,Sex,Female,25335,41806,13.92,89.734,B-,94714.0,26.749
-2022 to 23,North West,Sex,Female,18143,37905,13.102,86.48,B-,73627.0,24.642
-2022 to 23,East Midlands,Sex,Female,10862,20526,10.367,87.82,C+,41989.0,25.869
-2022 to 23,South West,Sex,Female,12201,25465,11.926,88.116,C+,47806.0,25.522
-2022 to 23,North East,Sex,Female,5450,14197,10.121,83.835,C+,22949.0,23.748
-2022 to 23,West Midlands,Sex,Female,14610,30902,11.667,84.832,C+,60690.0,24.073
-2022 to 23,East of England,Sex,Female,16043,31548,13.4,87.259,C+,63532.0,25.252
-2023 to 24,North East,Sex,Female,5562,14613,11.26,81.32,C+,25128.0,22.135
-2023 to 24,West Midlands,Sex,Female,15170,32360,13.138,82.96,C+,66457.0,22.827
-2023 to 24,East Midlands,Sex,Female,11229,21185,10.537,87.016,C+,45271.0,24.804
-2023 to 24,South West,Sex,Female,12513,26314,12.311,86.422,C+,51459.0,24.316
-2023 to 24,South East,Sex,Female,25968,46917,15.049,85.182,B-,102427.0,25.353
-2023 to 24,East of England,Sex,Female,16699,33046,14.15,86.335,C+,69086.0,24.171
-2023 to 24,London,Sex,Female,25802,43011,15.492,89.187,B-,97891.0,26.358
-2023 to 24,North West,Sex,Female,18237,39359,14.107,85.76,B-,77707.0,23.469
-2023 to 24,Yorkshire and The Humber,Sex,Female,13001,28765,13.153,81.617,C+,57417.0,22.643
-2019 to 20,South West,Sex,Male,9652,26901,19.713,83.62,B-,39484.0,24.445
-2019 to 20,South East,Sex,Male,19257,47428,20.548,84.598,B,77225.0,24.936
-2019 to 20,West Midlands,Sex,Male,10344,32076,18.996,82.676,B-,44138.0,23.436
-2019 to 20,London,Sex,Male,18384,43161,21.376,85.857,B-,71680.0,25.647
-2019 to 20,North West,Sex,Male,12965,39008,17.475,85.206,B-,52359.0,24.762
-2019 to 20,Yorkshire and The Humber,Sex,Male,8976,28970,18.592,82.364,B-,39276.0,22.854
-2019 to 20,East of England,Sex,Male,12577,34019,20.846,85.41,B-,51740.0,24.308
-2019 to 20,East Midlands,Sex,Male,7868,21087,18.89,87.227,B-,32471.0,24.231
-2019 to 20,North East,Sex,Male,4060,15347,18.603,80.345,B-,18381.0,22.088
-2020 to 21,North East,Sex,Male,3845,11159,22.253,84.889,B,15628.0,24.603
-2020 to 21,West Midlands,Sex,Male,10610,24810,22.073,87.201,B-,42337.0,25.061
-2020 to 21,South East,Sex,Male,19911,38191,24.616,86.364,B,75414.0,26.402
-2020 to 21,North West,Sex,Male,12656,28862,21.782,86.623,B,48868.0,25.898
-2020 to 21,Yorkshire and The Humber,Sex,Male,8836,20800,21.745,85.186,B,34577.0,25.555
-2020 to 21,South West,Sex,Male,9652,20729,24.921,87.857,B,37284.0,25.888
-2020 to 21,East of England,Sex,Male,12502,25730,25.749,87.97,B,48353.0,25.856
-2020 to 21,East Midlands,Sex,Male,7785,16424,22.482,89.043,B,30197.0,25.781
-2020 to 21,London,Sex,Male,18457,35591,27.153,88.736,B,70323.0,26.246
-2021 to 22,Yorkshire and The Humber,Sex,Male,9437,27396,19.175,84.275,B-,40404.0,23.357
-2021 to 22,London,Sex,Male,19851,42872,22.68,89.24,B-,81083.0,24.482
-2021 to 22,East Midlands,Sex,Male,8479,20554,17.608,88.454,B-,32892.0,25.778
-2021 to 22,North East,Sex,Male,4064,14243,18.111,84.055,B-,17782.0,22.855
-2021 to 22,West Midlands,Sex,Male,11091,30887,18.993,85.772,B-,47848.0,23.18
-2021 to 22,North West,Sex,Male,13568,36859,20.047,86.476,B-,57243.0,23.702
-2021 to 22,South West,Sex,Male,9788,25911,19.053,88.731,B-,39337.0,24.882
-2021 to 22,South East,Sex,Male,21144,46690,22.077,86.247,B-,82720.0,25.561
-2021 to 22,East of England,Sex,Male,13254,32994,20.739,86.94,B-,53487.0,24.78
-2022 to 23,Yorkshire and The Humber,Sex,Male,9702,27919,12.659,82.158,C+,43280.0,22.417
-2022 to 23,South East,Sex,Male,21946,47417,16.166,84.681,C+,88228.0,24.874
-2022 to 23,London,Sex,Male,20840,43463,16.572,87.62,C+,86028.0,24.225
-2022 to 23,North West,Sex,Male,14171,37920,13.675,84.666,C+,62332.0,22.735
-2022 to 23,East Midlands,Sex,Male,8936,20398,11.774,87.019,C+,36081.0,24.766
-2022 to 23,South West,Sex,Male,10252,26450,13.528,86.803,C+,42276.0,24.25
-2022 to 23,North East,Sex,Male,4188,14160,12.288,82.88,C+,19318.0,21.679
-2022 to 23,West Midlands,Sex,Male,11440,31585,13.102,82.972,C+,51639.0,22.154
-2022 to 23,East of England,Sex,Male,13611,33294,14.614,85.908,C+,57698.0,23.59
-2023 to 24,North East,Sex,Male,4313,14741,13.824,82.657,C+,21490.0,20.07
-2023 to 24,West Midlands,Sex,Male,11735,32058,14.378,81.534,C+,54951.0,21.355
-2023 to 24,East Midlands,Sex,Male,8870,20614,12.181,86.426,C,37412.0,23.709
-2023 to 24,South West,Sex,Male,10379,26453,14.45,85.75,C+,44794.0,23.171
-2023 to 24,South East,Sex,Male,22406,48058,17.018,84.12,C+,92370.0,24.257
-2023 to 24,East of England,Sex,Male,14074,34185,14.696,85.32,C+,61841.0,22.758
-2023 to 24,London,Sex,Male,21731,44895,16.998,87.824,C+,90489.0,24.015
-2023 to 24,North West,Sex,Male,14615,39128,15.01,84.53,C+,66357.0,22.025
-2023 to 24,Yorkshire and The Humber,Sex,Male,10135,28648,13.976,82.181,C+,46921.0,21.6
-2019 to 20,South West,Ethnicity,Black or Black British,304,732,7.86,77.632,C+,1251.0,24.301
-2019 to 20,South East,Ethnicity,Black or Black British,1209,2625,12.281,84.119,B-,5079.0,23.804
-2019 to 20,West Midlands,Ethnicity,Black or Black British,1165,3258,12.598,74.077,C+,5259.0,22.153
-2019 to 20,London,Ethnicity,Black or Black British,7756,17292,12.726,85.315,B-,31583.0,24.558
-2019 to 20,North West,Ethnicity,Black or Black British,751,2049,10.518,87.883,B-,3000.0,25.033
-2019 to 20,Yorkshire and The Humber,Ethnicity,Black or Black British,444,1248,11.146,78.378,C+,2020.0,21.98
-2019 to 20,East of England,Ethnicity,Black or Black British,1040,2349,11.617,85.769,B-,4172.0,24.928
-2019 to 20,East Midlands,Ethnicity,Black or Black British,599,1377,10.577,84.808,C+,2480.0,24.153
-2019 to 20,North East,Ethnicity,Black or Black British,121,469,16.667,78.512,B-,549.0,22.04
-2020 to 21,North East,Ethnicity,Black or Black British,119,354,12.766,84.034,B-,469.0,25.373
-2020 to 21,West Midlands,Ethnicity,Black or Black British,1167,2631,14.198,82.177,B-,4964.0,23.509
-2020 to 21,South East,Ethnicity,Black or Black British,1304,2265,16.822,84.893,B-,5181.0,25.169
-2020 to 21,North West,Ethnicity,Black or Black British,819,1599,10.345,84.005,B-,3049.0,26.861
-2020 to 21,Yorkshire and The Humber,Ethnicity,Black or Black British,490,963,16.092,82.245,B-,1974.0,24.823
-2020 to 21,South West,Ethnicity,Black or Black British,320,573,10.849,83.125,C+,1265.0,25.296
-2020 to 21,East of England,Ethnicity,Black or Black British,1064,1912,16.865,87.218,B-,4093.0,25.996
-2020 to 21,East Midlands,Ethnicity,Black or Black British,616,1145,13.857,83.604,B-,2473.0,24.909
-2020 to 21,London,Ethnicity,Black or Black British,7733,14413,17.756,87.65,B-,30687.0,25.2
-2021 to 22,Yorkshire and The Humber,Ethnicity,Black or Black British,560,1386,7.803,76.25,C,2611.0,21.448
-2021 to 22,London,Ethnicity,Black or Black British,8355,17606,12.586,86.152,C+,36301.0,23.016
-2021 to 22,East Midlands,Ethnicity,Black or Black British,752,1562,10.517,84.574,C+,3054.0,24.623
-2021 to 22,North East,Ethnicity,Black or Black British,131,523,9.877,74.046,C,670.0,19.552
-2021 to 22,West Midlands,Ethnicity,Black or Black British,1384,3553,10.858,81.864,C+,6446.0,21.471
-2021 to 22,North West,Ethnicity,Black or Black British,930,2189,15.69,84.839,B-,4278.0,21.739
-2021 to 22,South West,Ethnicity,Black or Black British,384,845,8.582,84.635,C,1617.0,23.748
-2021 to 22,South East,Ethnicity,Black or Black British,1502,2964,11.385,82.49,C+,6160.0,24.383
-2021 to 22,East of England,Ethnicity,Black or Black British,1262,2501,12.245,86.45,C+,5159.0,24.462
-2022 to 23,Yorkshire and The Humber,Ethnicity,Black or Black British,661,1412,6.522,77.458,C,2965.0,22.293
-2022 to 23,South East,Ethnicity,Black or Black British,1780,3160,7.208,80.787,C,7264.0,24.504
-2022 to 23,London,Ethnicity,Black or Black British,8680,17440,8.046,84.931,C,37556.0,23.112
-2022 to 23,North West,Ethnicity,Black or Black British,1150,2386,9.496,81.478,C,5021.0,22.904
-2022 to 23,East Midlands,Ethnicity,Black or Black British,882,1660,7.273,80.385,C,3673.0,24.013
-2022 to 23,South West,Ethnicity,Black or Black British,404,812,5.282,79.208,C-,1671.0,24.177
-2022 to 23,North East,Ethnicity,Black or Black British,163,588,3.571,84.663,C,815.0,20.0
-2022 to 23,West Midlands,Ethnicity,Black or Black British,1507,3713,8.065,77.107,C,7324.0,20.576
-2022 to 23,East of England,Ethnicity,Black or Black British,1383,2528,7.037,82.646,C,5636.0,24.539
-2023 to 24,North East,Ethnicity,Black or Black British,178,661,6.4,79.775,C,954.0,18.658
-2023 to 24,West Midlands,Ethnicity,Black or Black British,1748,3933,8.868,76.03,C,8363.0,20.902
-2023 to 24,East Midlands,Ethnicity,Black or Black British,914,1710,5.939,81.619,C-,3864.0,23.654
-2023 to 24,South West,Ethnicity,Black or Black British,453,853,4.87,81.457,C-,1886.0,24.019
-2023 to 24,South East,Ethnicity,Black or Black British,1927,3278,8.327,81.837,C,7843.0,24.57
-2023 to 24,East of England,Ethnicity,Black or Black British,1612,2876,10.672,84.367,C,6572.0,24.528
-2023 to 24,London,Ethnicity,Black or Black British,8593,17182,8.697,84.592,C,37398.0,22.977
-2023 to 24,North West,Ethnicity,Black or Black British,1287,2665,9.308,83.528,C+,5700.0,22.579
-2023 to 24,Yorkshire and The Humber,Ethnicity,Black or Black British,685,1549,6.667,78.54,C,3240.0,21.142
-2019 to 20,South West,Ethnicity,Mixed Dual background,732,1528,19.444,86.475,B-,2707.0,27.041
-2019 to 20,South East,Ethnicity,Mixed Dual background,2073,4207,21.538,86.686,B,7857.0,26.384
-2019 to 20,West Midlands,Ethnicity,Mixed Dual background,1111,3072,19.355,82.358,B-,4750.0,23.389
-2019 to 20,London,Ethnicity,Mixed Dual background,3477,6992,21.826,87.834,B,12971.0,26.806
-2019 to 20,North West,Ethnicity,Mixed Dual background,982,2450,18.519,89.817,B-,3706.0,26.498
-2019 to 20,Yorkshire and The Humber,Ethnicity,Mixed Dual background,685,1819,21.033,83.066,B,2830.0,24.205
-2019 to 20,East of England,Ethnicity,Mixed Dual background,1368,2994,20.671,87.061,B,5321.0,25.709
-2019 to 20,East Midlands,Ethnicity,Mixed Dual background,738,1736,16.207,88.889,B-,2928.0,25.205
-2019 to 20,North East,Ethnicity,Mixed Dual background,213,579,18.023,84.977,B-,850.0,25.059
-2020 to 21,North East,Ethnicity,Mixed Dual background,208,516,22.024,89.423,B,795.0,26.164
-2020 to 21,West Midlands,Ethnicity,Mixed Dual background,1222,2549,23.75,85.352,B,4875.0,25.067
-2020 to 21,South East,Ethnicity,Mixed Dual background,2291,3808,26.866,88.477,B,8438.0,27.151
-2020 to 21,North West,Ethnicity,Mixed Dual background,1104,2040,21.872,89.493,B,4059.0,27.199
-2020 to 21,Yorkshire and The Humber,Ethnicity,Mixed Dual background,748,1447,25.719,87.834,B,2841.0,26.329
-2020 to 21,South West,Ethnicity,Mixed Dual background,767,1335,27.331,90.743,B,2724.0,28.157
-2020 to 21,East of England,Ethnicity,Mixed Dual background,1365,2467,26.5,90.403,B,5087.0,26.833
-2020 to 21,East Midlands,Ethnicity,Mixed Dual background,751,1438,22.298,89.747,B,2785.0,26.966
-2020 to 21,London,Ethnicity,Mixed Dual background,3649,6220,26.606,89.86,B,13398.0,27.235
-2021 to 22,Yorkshire and The Humber,Ethnicity,Mixed Dual background,817,1954,21.079,85.557,B-,3352.0,24.374
-2021 to 22,London,Ethnicity,Mixed Dual background,3941,7264,21.322,89.901,B,14982.0,26.305
-2021 to 22,East Midlands,Ethnicity,Mixed Dual background,855,1852,18.006,90.409,B-,3228.0,26.487
-2021 to 22,North East,Ethnicity,Mixed Dual background,286,689,22.791,87.762,B,1145.0,24.978
-2021 to 22,West Midlands,Ethnicity,Mixed Dual background,1238,3168,16.994,85.541,B-,5222.0,23.707
-2021 to 22,North West,Ethnicity,Mixed Dual background,1265,2695,21.687,87.431,B-,5050.0,25.05
-2021 to 22,South West,Ethnicity,Mixed Dual background,828,1691,21.719,89.493,B-,3057.0,27.085
-2021 to 22,South East,Ethnicity,Mixed Dual background,2524,4632,21.44,87.48,B,9563.0,26.393
-2021 to 22,East of England,Ethnicity,Mixed Dual background,1631,3185,21.868,88.719,B-,6235.0,26.159
-2022 to 23,Yorkshire and The Humber,Ethnicity,Mixed Dual background,972,2217,12.593,81.79,C+,4085.0,23.794
-2022 to 23,South East,Ethnicity,Mixed Dual background,2789,4950,15.301,86.411,C+,10631.0,26.235
-2022 to 23,London,Ethnicity,Mixed Dual background,4072,7620,15.214,89.17,B-,15798.0,25.775
-2022 to 23,North West,Ethnicity,Mixed Dual background,1330,2911,13.713,86.241,C+,5431.0,24.489
-2022 to 23,East Midlands,Ethnicity,Mixed Dual background,981,1991,13.235,88.379,C+,3785.0,25.918
-2022 to 23,South West,Ethnicity,Mixed Dual background,954,1865,12.783,87.107,C+,3631.0,26.274
-2022 to 23,North East,Ethnicity,Mixed Dual background,252,659,10.811,87.302,C+,1064.0,23.684
-2022 to 23,West Midlands,Ethnicity,Mixed Dual background,1309,3310,12.729,85.256,C+,5759.0,22.73
-2022 to 23,East of England,Ethnicity,Mixed Dual background,1712,3372,14.452,87.15,C+,6729.0,25.442
-2023 to 24,North East,Ethnicity,Mixed Dual background,294,792,12.054,88.095,B-,1300.0,22.615
-2023 to 24,West Midlands,Ethnicity,Mixed Dual background,1490,3570,14.718,80.872,C+,6769.0,22.012
-2023 to 24,East Midlands,Ethnicity,Mixed Dual background,1057,2137,12.189,87.512,C+,4275.0,24.725
-2023 to 24,South West,Ethnicity,Mixed Dual background,963,1980,13.19,88.266,C+,3808.0,25.289
-2023 to 24,South East,Ethnicity,Mixed Dual background,3012,5347,15.262,84.993,C+,11598.0,25.97
-2023 to 24,East of England,Ethnicity,Mixed Dual background,1817,3707,14.11,86.791,C+,7533.0,24.121
-2023 to 24,London,Ethnicity,Mixed Dual background,4315,8233,16.057,88.505,B-,17130.0,25.19
-2023 to 24,North West,Ethnicity,Mixed Dual background,1473,3095,14.53,84.521,C+,6128.0,24.037
-2023 to 24,Yorkshire and The Humber,Ethnicity,Mixed Dual background,1054,2419,14.42,84.345,C+,4568.0,23.074
-2019 to 20,South West,Ethnicity,Unknown ethnicity,1329,4165,16.472,76.674,B-,5195.0,25.582
-2019 to 20,South East,Ethnicity,Unknown ethnicity,3338,7696,19.404,81.666,B,12024.0,27.761
-2019 to 20,West Midlands,Ethnicity,Unknown ethnicity,1273,4899,16.684,81.775,B-,5151.0,24.714
-2019 to 20,London,Ethnicity,Unknown ethnicity,2763,9494,24.004,83.569,B,10428.0,26.496
-2019 to 20,North West,Ethnicity,Unknown ethnicity,1392,5210,17.453,82.04,B-,5432.0,25.626
-2019 to 20,Yorkshire and The Humber,Ethnicity,Unknown ethnicity,964,3837,20.951,75.415,B-,4137.0,23.302
-2019 to 20,East of England,Ethnicity,Unknown ethnicity,1381,4433,25.067,85.663,B,5660.0,24.399
-2019 to 20,East Midlands,Ethnicity,Unknown ethnicity,657,2511,19.785,79.909,B-,2723.0,24.128
-2019 to 20,North East,Ethnicity,Unknown ethnicity,304,2170,19.231,66.447,B,1405.0,21.637
-2020 to 21,North East,Ethnicity,Unknown ethnicity,286,1505,24.876,73.427,B,1151.0,24.848
-2020 to 21,West Midlands,Ethnicity,Unknown ethnicity,1230,3611,20.311,87.561,B,4710.0,26.115
-2020 to 21,South East,Ethnicity,Unknown ethnicity,3635,6940,25.693,84.182,B,12908.0,28.161
-2020 to 21,North West,Ethnicity,Unknown ethnicity,1413,4220,21.886,86.27,B,5268.0,26.822
-2020 to 21,Yorkshire and The Humber,Ethnicity,Unknown ethnicity,888,2791,26.78,79.279,B,3488.0,25.459
-2020 to 21,South West,Ethnicity,Unknown ethnicity,1359,3520,22.266,81.678,B,5136.0,26.46
-2020 to 21,East of England,Ethnicity,Unknown ethnicity,1456,3587,24.558,88.599,B,5497.0,26.487
-2020 to 21,East Midlands,Ethnicity,Unknown ethnicity,741,1992,20.789,83.536,B,2793.0,26.531
-2020 to 21,London,Ethnicity,Unknown ethnicity,2710,7425,29.006,87.048,B,10041.0,26.989
-2021 to 22,Yorkshire and The Humber,Ethnicity,Unknown ethnicity,929,3520,19.858,86.975,B-,3923.0,23.681
-2021 to 22,London,Ethnicity,Unknown ethnicity,2698,8519,24.662,90.437,B,10709.0,25.194
-2021 to 22,East Midlands,Ethnicity,Unknown ethnicity,672,2295,19.485,90.774,B-,2692.0,24.963
-2021 to 22,North East,Ethnicity,Unknown ethnicity,264,1854,18.841,84.091,B,1251.0,21.103
-2021 to 22,West Midlands,Ethnicity,Unknown ethnicity,1280,4472,21.86,87.578,B-,5427.0,23.586
-2021 to 22,North West,Ethnicity,Unknown ethnicity,1390,4966,22.303,89.424,B,5688.0,24.437
-2021 to 22,South West,Ethnicity,Unknown ethnicity,1331,4317,18.402,91.285,B,5487.0,24.257
-2021 to 22,South East,Ethnicity,Unknown ethnicity,3541,7863,22.23,89.24,B,12966.0,27.31
-2021 to 22,East of England,Ethnicity,Unknown ethnicity,1573,4415,23.412,90.401,B,6240.0,25.208
-2022 to 23,Yorkshire and The Humber,Ethnicity,Unknown ethnicity,965,3857,14.847,83.316,C+,4307.0,22.405
-2022 to 23,South East,Ethnicity,Unknown ethnicity,3485,7799,15.902,86.6,B-,13104.0,26.595
-2022 to 23,London,Ethnicity,Unknown ethnicity,2935,8748,18.022,87.462,B-,12045.0,24.367
-2022 to 23,North West,Ethnicity,Unknown ethnicity,1493,5256,14.572,86.805,C+,6478.0,23.047
-2022 to 23,East Midlands,Ethnicity,Unknown ethnicity,649,2269,11.503,89.831,C+,2833.0,22.909
-2022 to 23,South West,Ethnicity,Unknown ethnicity,1221,4307,13.433,88.78,C+,5236.0,23.319
-2022 to 23,North East,Ethnicity,Unknown ethnicity,280,1849,9.813,79.286,C+,1393.0,20.101
-2022 to 23,West Midlands,Ethnicity,Unknown ethnicity,1367,4545,12.475,82.59,C+,6088.0,22.454
-2022 to 23,East of England,Ethnicity,Unknown ethnicity,1612,4684,15.217,90.012,B-,6702.0,24.053
-2023 to 24,North East,Ethnicity,Unknown ethnicity,397,2293,11.864,76.322,C+,2096.0,18.941
-2023 to 24,West Midlands,Ethnicity,Unknown ethnicity,1620,5435,12.604,81.914,C+,7530.0,21.514
-2023 to 24,East Midlands,Ethnicity,Unknown ethnicity,839,2734,14.264,86.293,C+,3705.0,22.645
-2023 to 24,South West,Ethnicity,Unknown ethnicity,1446,4451,11.649,82.573,C+,6287.0,23.0
-2023 to 24,South East,Ethnicity,Unknown ethnicity,4072,8945,17.139,83.276,B-,15670.0,25.986
-2023 to 24,East of England,Ethnicity,Unknown ethnicity,2035,5600,15.534,87.42,B-,8600.0,23.663
-2023 to 24,London,Ethnicity,Unknown ethnicity,3175,9493,18.324,86.803,B-,13300.0,23.872
-2023 to 24,North West,Ethnicity,Unknown ethnicity,1687,6008,15.911,85.24,B-,7717.0,21.861
-2023 to 24,Yorkshire and The Humber,Ethnicity,Unknown ethnicity,1081,4070,12.968,78.908,C+,5157.0,20.962
-2019 to 20,South West,Ethnicity,White,18813,45452,20.302,85.037,B,75508.0,24.915
-2019 to 20,South East,Ethnicity,White,31689,71702,21.241,85.657,B,126414.0,25.068
-2019 to 20,West Midlands,Ethnicity,White,15219,41073,19.796,84.854,B-,63952.0,23.798
-2019 to 20,London,Ethnicity,White,14299,28685,24.803,87.677,B,53121.0,26.918
-2019 to 20,North West,Ethnicity,White,22462,58327,18.975,85.847,B,89466.0,25.107
-2019 to 20,Yorkshire and The Humber,Ethnicity,White,15831,43224,19.025,83.4,B,67460.0,23.467
-2019 to 20,East of England,Ethnicity,White,21242,51644,20.706,85.839,B,87504.0,24.275
-2019 to 20,East Midlands,Ethnicity,White,13631,31925,19.305,87.624,B-,55315.0,24.643
-2019 to 20,North East,Ethnicity,White,8264,25740,18.405,80.252,B-,37064.0,22.297
-2020 to 21,North East,Ethnicity,White,7741,19195,22.37,84.886,B,31811.0,24.334
-2020 to 21,West Midlands,Ethnicity,White,15115,32463,24.015,87.231,B,60051.0,25.17
-2020 to 21,South East,Ethnicity,White,31901,58353,26.278,86.759,B,121157.0,26.33
-2020 to 21,North West,Ethnicity,White,21983,45415,24.505,86.913,B,84387.0,26.05
-2020 to 21,Yorkshire and The Humber,Ethnicity,White,15423,32312,24.286,85.904,B,60227.0,25.608
-2020 to 21,South West,Ethnicity,White,18200,35539,26.003,89.016,B,69629.0,26.139
-2020 to 21,East of England,Ethnicity,White,20875,40586,26.933,88.46,B,81428.0,25.636
-2020 to 21,East Midlands,Ethnicity,White,13456,25859,24.772,89.878,B,51725.0,26.014
-2020 to 21,London,Ethnicity,White,14330,24258,31.362,90.007,B+,51954.0,27.582
-2021 to 22,Yorkshire and The Humber,Ethnicity,White,16027,40691,19.556,84.37,B-,66672.0,24.039
-2021 to 22,London,Ethnicity,White,15051,28298,24.826,90.811,B,56225.0,26.769
-2021 to 22,East Midlands,Ethnicity,White,14107,30660,17.132,89.778,B-,53535.0,26.351
-2021 to 22,North East,Ethnicity,White,8180,24095,17.627,84.719,B-,34732.0,23.552
-2021 to 22,West Midlands,Ethnicity,White,15604,39117,18.907,86.503,B-,64973.0,24.016
-2021 to 22,North West,Ethnicity,White,23198,55759,20.517,86.766,B,94816.0,24.466
-2021 to 22,South West,Ethnicity,White,18517,43383,19.502,89.28,B-,72835.0,25.423
-2021 to 22,South East,Ethnicity,White,33217,68938,22.165,86.007,B,129496.0,25.651
-2021 to 22,East of England,Ethnicity,White,21899,49863,20.548,87.41,B-,87434.0,25.046
-2022 to 23,Yorkshire and The Humber,Ethnicity,White,16223,40872,12.933,83.345,C+,69448.0,23.36
-2022 to 23,South East,Ethnicity,White,33547,69280,15.272,84.83,B-,133693.0,25.093
-2022 to 23,London,Ethnicity,White,15317,28167,17.529,89.13,B-,58233.0,26.303
-2022 to 23,North West,Ethnicity,White,23239,55657,13.09,85.593,C+,97611.0,23.808
-2022 to 23,East Midlands,Ethnicity,White,14376,30278,10.86,87.604,C+,56442.0,25.47
-2022 to 23,South West,Ethnicity,White,18748,43140,12.613,87.519,C+,75416.0,24.859
-2022 to 23,North East,Ethnicity,White,8205,23843,10.956,83.193,C+,35961.0,22.816
-2022 to 23,West Midlands,Ethnicity,White,15468,38823,12.504,84.807,C+,66130.0,23.39
-2022 to 23,East of England,Ethnicity,White,21570,48964,13.598,86.509,C+,89320.0,24.149
-2023 to 24,North East,Ethnicity,White,8145,24022,12.482,81.78,C+,38743.0,21.023
-2023 to 24,West Midlands,Ethnicity,White,15260,38821,13.801,82.896,C+,69535.0,21.946
-2023 to 24,East Midlands,Ethnicity,White,14203,30265,11.183,86.827,C+,58819.0,24.147
-2023 to 24,South West,Ethnicity,White,18765,43524,13.392,86.091,C+,79650.0,23.559
-2023 to 24,South East,Ethnicity,White,33244,69105,15.84,84.469,B-,137791.0,24.126
-2023 to 24,East of England,Ethnicity,White,21832,49609,14.055,85.462,C+,94863.0,23.014
-2023 to 24,London,Ethnicity,White,15451,28436,18.442,89.528,B-,60036.0,25.736
-2023 to 24,North West,Ethnicity,White,22965,56537,14.468,84.86,C+,101537.0,22.617
-2023 to 24,Yorkshire and The Humber,Ethnicity,White,16346,41183,14.019,82.332,C+,73589.0,22.213
-2019 to 20,South West,Ethnicity,Any other ethnic group,131,297,15.385,83.969,B-,526.0,24.905
-2019 to 20,South East,Ethnicity,Any other ethnic group,416,775,16.517,85.337,B-,1538.0,27.048
-2019 to 20,West Midlands,Ethnicity,Any other ethnic group,363,907,17.082,82.92,B-,1552.0,23.389
-2019 to 20,London,Ethnicity,Any other ethnic group,2484,4710,18.846,85.064,B,9432.0,26.336
-2019 to 20,North West,Ethnicity,Any other ethnic group,335,859,20.415,84.179,B,1312.0,25.534
-2019 to 20,Yorkshire and The Humber,Ethnicity,Any other ethnic group,195,548,13.194,76.41,B-,859.0,22.701
-2019 to 20,East of England,Ethnicity,Any other ethnic group,263,543,24.615,83.27,B,1020.0,25.784
-2019 to 20,East Midlands,Ethnicity,Any other ethnic group,129,255,18.692,89.147,B,508.0,25.394
-2019 to 20,North East,Ethnicity,Any other ethnic group,97,231,23.377,79.381,B,386.0,25.13
-2020 to 21,North East,Ethnicity,Any other ethnic group,99,213,34.94,90.909,B,379.0,26.121
-2020 to 21,West Midlands,Ethnicity,Any other ethnic group,418,746,22.985,85.646,B,1576.0,26.523
-2020 to 21,South East,Ethnicity,Any other ethnic group,453,714,24.789,86.093,B,1648.0,27.488
-2020 to 21,North West,Ethnicity,Any other ethnic group,403,711,20.414,88.089,B,1471.0,27.396
-2020 to 21,Yorkshire and The Humber,Ethnicity,Any other ethnic group,221,392,20.732,85.52,B,847.0,26.092
-2020 to 21,South West,Ethnicity,Any other ethnic group,112,181,25.556,88.393,B-,414.0,27.053
-2020 to 21,East of England,Ethnicity,Any other ethnic group,302,499,21.739,92.715,B-,1075.0,28.093
-2020 to 21,East Midlands,Ethnicity,Any other ethnic group,133,245,17.757,90.226,B,491.0,27.088
-2020 to 21,London,Ethnicity,Any other ethnic group,2505,4110,23.869,88.024,B,9256.0,27.064
-2021 to 22,Yorkshire and The Humber,Ethnicity,Any other ethnic group,252,536,16.043,82.937,B-,1060.0,23.774
-2021 to 22,London,Ethnicity,Any other ethnic group,2793,5133,17.229,87.648,B-,11287.0,24.745
-2021 to 22,East Midlands,Ethnicity,Any other ethnic group,180,344,13.333,87.222,C+,691.0,26.049
-2021 to 22,North East,Ethnicity,Any other ethnic group,109,279,23.256,88.991,B,460.0,23.696
-2021 to 22,West Midlands,Ethnicity,Any other ethnic group,516,1094,21.333,85.659,B-,2175.0,23.724
-2021 to 22,North West,Ethnicity,Any other ethnic group,485,975,23.2,90.309,B-,1939.0,25.013
-2021 to 22,South West,Ethnicity,Any other ethnic group,132,291,21.569,92.424,B-,541.0,24.399
-2021 to 22,South East,Ethnicity,Any other ethnic group,493,863,18.568,89.047,B-,1858.0,26.534
-2021 to 22,East of England,Ethnicity,Any other ethnic group,321,590,19.216,87.85,B-,1192.0,26.93
-2022 to 23,Yorkshire and The Humber,Ethnicity,Any other ethnic group,316,635,11.489,84.81,C+,1306.0,24.196
-2022 to 23,South East,Ethnicity,Any other ethnic group,542,934,10.817,85.793,C,2086.0,25.983
-2022 to 23,London,Ethnicity,Any other ethnic group,2985,5219,10.905,87.873,C+,11850.0,25.19
-2022 to 23,North West,Ethnicity,Any other ethnic group,540,1155,11.278,84.259,C+,2316.0,23.316
-2022 to 23,East Midlands,Ethnicity,Any other ethnic group,179,322,13.846,84.916,C+,688.0,26.017
-2022 to 23,South West,Ethnicity,Any other ethnic group,161,308,8.759,85.093,C+,631.0,25.515
-2022 to 23,North East,Ethnicity,Any other ethnic group,95,267,13.235,83.158,C+,436.0,21.789
-2022 to 23,West Midlands,Ethnicity,Any other ethnic group,538,1183,12.189,85.502,C+,2360.0,22.797
-2022 to 23,East of England,Ethnicity,Any other ethnic group,322,579,15.625,87.888,C+,1228.0,26.221
-2023 to 24,North East,Ethnicity,Any other ethnic group,130,327,9.804,81.538,C+,572.0,22.727
-2023 to 24,West Midlands,Ethnicity,Any other ethnic group,566,1164,12.776,80.565,C+,2494.0,22.694
-2023 to 24,East Midlands,Ethnicity,Any other ethnic group,196,357,13.816,87.245,C+,778.0,25.193
-2023 to 24,South West,Ethnicity,Any other ethnic group,172,339,8.148,85.465,C+,694.0,24.784
-2023 to 24,South East,Ethnicity,Any other ethnic group,643,1052,12.627,85.381,C+,2461.0,26.128
-2023 to 24,East of England,Ethnicity,Any other ethnic group,328,613,13.06,86.585,C+,1320.0,24.848
-2023 to 24,London,Ethnicity,Any other ethnic group,3152,5515,13.315,86.992,C+,12690.0,24.838
-2023 to 24,North West,Ethnicity,Any other ethnic group,597,1224,15.884,87.102,C+,2493.0,23.947
-2023 to 24,Yorkshire and The Humber,Ethnicity,Any other ethnic group,321,702,16.738,80.374,C+,1395.0,23.011
-2019 to 20,South West,Ethnicity,Asian or Asian British,835,1386,20.633,82.754,B-,3088.0,27.04
-2019 to 20,South East,Ethnicity,Asian or Asian British,3955,6110,21.311,88.521,B-,14316.0,27.626
-2019 to 20,West Midlands,Ethnicity,Asian or Asian British,5230,10841,16.135,83.136,B-,21133.0,24.748
-2019 to 20,London,Ethnicity,Asian or Asian British,10800,17468,23.491,89.778,B,38790.0,27.842
-2019 to 20,North West,Ethnicity,Asian or Asian British,3833,8289,17.279,85.677,B-,14410.0,26.6
-2019 to 20,Yorkshire and The Humber,Ethnicity,Asian or Asian British,2950,7127,13.112,81.831,C+,13009.0,22.677
-2019 to 20,East of England,Ethnicity,Asian or Asian British,2567,4331,22.333,89.521,B,9195.0,27.917
-2019 to 20,East Midlands,Ethnicity,Asian or Asian British,2342,4198,17.898,87.617,B-,9115.0,25.694
-2019 to 20,North East,Ethnicity,Asian or Asian British,601,1156,22.246,81.364,B,2337.0,25.717
-2020 to 21,North East,Ethnicity,Asian or Asian British,512,871,24.235,86.914,B,1973.0,25.95
-2020 to 21,West Midlands,Ethnicity,Asian or Asian British,5185,8704,22.768,87.869,B,19747.0,26.257
-2020 to 21,South East,Ethnicity,Asian or Asian British,4372,5715,29.055,90.393,B,15282.0,28.609
-2020 to 21,North West,Ethnicity,Asian or Asian British,3908,6395,21.414,88.767,B,13786.0,28.348
-2020 to 21,Yorkshire and The Humber,Ethnicity,Asian or Asian British,2897,5445,18.986,83.051,B-,11600.0,24.974
-2020 to 21,South West,Ethnicity,Asian or Asian British,841,1115,31.857,92.509,B,2927.0,28.732
-2020 to 21,East of England,Ethnicity,Asian or Asian British,2586,3606,27.887,89.907,B,8918.0,28.998
-2020 to 21,East Midlands,Ethnicity,Asian or Asian British,2358,3465,25.53,88.677,B,8699.0,27.107
-2020 to 21,London,Ethnicity,Asian or Asian British,11060,15633,29.548,92.486,B,38995.0,28.363
-2021 to 22,Yorkshire and The Humber,Ethnicity,Asian or Asian British,3222,6995,17.019,81.223,C+,14716.0,21.895
-2021 to 22,London,Ethnicity,Asian or Asian British,11771,17817,23.996,92.125,B,43883.0,26.824
-2021 to 22,East Midlands,Ethnicity,Asian or Asian British,2552,4250,17.587,88.127,B-,9636.0,26.484
-2021 to 22,North East,Ethnicity,Asian or Asian British,578,1102,18.093,84.256,B-,2366.0,24.429
-2021 to 22,West Midlands,Ethnicity,Asian or Asian British,5455,10599,18.64,85.903,B-,22977.0,23.741
-2021 to 22,North West,Ethnicity,Asian or Asian British,4193,8130,20.916,87.193,B-,17672.0,23.727
-2021 to 22,South West,Ethnicity,Asian or Asian British,864,1317,22.822,91.667,B-,3120.0,27.692
-2021 to 22,South East,Ethnicity,Asian or Asian British,4791,6777,25.968,89.48,B-,17205.0,27.847
-2021 to 22,East of England,Ethnicity,Asian or Asian British,2893,4513,25.226,88.282,B,10828.0,26.718
-2022 to 23,Yorkshire and The Humber,Ethnicity,Asian or Asian British,3453,7019,10.025,79.699,C,15356.0,22.486
-2022 to 23,South East,Ethnicity,Asian or Asian British,5190,7090,18.555,87.726,C+,18530.0,28.009
-2022 to 23,London,Ethnicity,Asian or Asian British,12186,18077,16.911,91.49,B-,45260.0,26.924
-2022 to 23,North West,Ethnicity,Asian or Asian British,4563,8466,15.098,86.851,C+,19112.0,23.875
-2022 to 23,East Midlands,Ethnicity,Asian or Asian British,2731,4404,11.722,88.246,C+,10645.0,25.655
-2022 to 23,South West,Ethnicity,Asian or Asian British,965,1485,15.848,90.155,C+,3492.0,27.635
-2022 to 23,North East,Ethnicity,Asian or Asian British,643,1151,14.402,86.314,C+,2596.0,24.769
-2022 to 23,West Midlands,Ethnicity,Asian or Asian British,5861,10914,12.604,83.621,C+,24646.0,23.781
-2022 to 23,East of England,Ethnicity,Asian or Asian British,3055,4720,18.019,87.169,C+,11601.0,26.334
-2023 to 24,North East,Ethnicity,Asian or Asian British,731,1260,13.962,84.405,C+,2952.0,24.763
-2023 to 24,West Midlands,Ethnicity,Asian or Asian British,6222,11497,14.73,83.365,C+,26720.0,23.286
-2023 to 24,East Midlands,Ethnicity,Asian or Asian British,2890,4596,11.836,87.855,C+,11242.0,25.707
-2023 to 24,South West,Ethnicity,Asian or Asian British,1093,1623,17.438,91.4,B-,3928.0,27.826
-2023 to 24,South East,Ethnicity,Asian or Asian British,5477,7431,18.93,87.822,C+,19478.0,28.119
-2023 to 24,East of England,Ethnicity,Asian or Asian British,3149,4834,17.906,87.869,C+,12039.0,26.157
-2023 to 24,London,Ethnicity,Asian or Asian British,12847,19052,18.19,90.901,B-,47826.0,26.862
-2023 to 24,North West,Ethnicity,Asian or Asian British,4844,8964,15.319,87.283,C+,20496.0,23.634
-2023 to 24,Yorkshire and The Humber,Ethnicity,Asian or Asian British,3649,7496,12.164,80.68,C+,16392.0,22.261
-2019 to 20,South West,Disadvantage,Disadvantaged,2272,10502,12.952,75.352,C+,11527.0,19.71
-2019 to 20,South East,Disadvantage,Disadvantaged,3816,17129,11.211,76.887,C+,19506.0,19.563
-2019 to 20,West Midlands,Disadvantage,Disadvantaged,4243,17974,10.839,75.583,C+,21340.0,19.883
-2019 to 20,London,Disadvantage,Disadvantaged,11204,28679,13.862,84.345,B-,46384.0,24.155
-2019 to 20,North West,Disadvantage,Disadvantaged,4709,21687,10.418,79.55,B-,22806.0,20.648
-2019 to 20,Yorkshire and The Humber,Disadvantage,Disadvantaged,2940,15223,10.268,74.252,C+,16347.0,17.985
-2019 to 20,East of England,Disadvantage,Disadvantaged,3089,13831,10.797,77.209,C+,15806.0,19.543
-2019 to 20,East Midlands,Disadvantage,Disadvantaged,2219,9070,10.544,80.442,C+,11008.0,20.158
-2019 to 20,North East,Disadvantage,Disadvantaged,1453,9046,10.811,70.613,C+,8769.0,16.57
-2020 to 21,North East,Disadvantage,Disadvantaged,1324,5845,15.017,77.719,B-,6593.0,20.082
-2020 to 21,West Midlands,Disadvantage,Disadvantaged,4077,12370,15.468,80.182,B-,18486.0,22.055
-2020 to 21,South East,Disadvantage,Disadvantaged,3796,11648,15.485,79.031,B-,17009.0,22.318
-2020 to 21,North West,Disadvantage,Disadvantaged,4513,14131,14.011,81.121,B-,19306.0,23.376
-2020 to 21,Yorkshire and The Humber,Disadvantage,Disadvantaged,2830,9551,12.96,79.329,B-,12928.0,21.89
-2020 to 21,South West,Disadvantage,Disadvantaged,1908,6509,13.864,81.813,B-,8746.0,21.816
-2020 to 21,East of England,Disadvantage,Disadvantaged,2844,8976,15.15,81.329,B-,12859.0,22.117
-2020 to 21,East Midlands,Disadvantage,Disadvantaged,2145,6232,13.965,83.543,B-,9462.0,22.67
-2020 to 21,London,Disadvantage,Disadvantaged,10663,22109,18.241,86.917,B-,42715.0,24.963
-2021 to 22,Yorkshire and The Humber,Disadvantage,Disadvantaged,3006,14070,8.946,75.516,C+,15749.0,19.087
-2021 to 22,London,Disadvantage,Disadvantaged,10781,26325,12.947,86.532,C+,47265.0,22.81
-2021 to 22,East Midlands,Disadvantage,Disadvantaged,2195,8405,9.14,82.415,C+,9706.0,22.615
-2021 to 22,North East,Disadvantage,Disadvantaged,1412,8325,9.339,77.833,C+,7552.0,18.697
-2021 to 22,West Midlands,Disadvantage,Disadvantaged,4260,16559,11.157,80.657,C+,21117.0,20.173
-2021 to 22,North West,Disadvantage,Disadvantaged,4548,19620,11.131,79.683,C+,22747.0,19.994
-2021 to 22,South West,Disadvantage,Disadvantaged,2120,9677,10.16,82.547,C+,9771.0,21.697
-2021 to 22,South East,Disadvantage,Disadvantaged,4123,15764,10.453,77.08,C+,19119.0,21.565
-2021 to 22,East of England,Disadvantage,Disadvantaged,3146,12609,10.142,79.784,C+,14996.0,20.979
-2022 to 23,Yorkshire and The Humber,Disadvantage,Disadvantaged,3178,14241,6.176,74.638,C,17129.0,18.553
-2022 to 23,South East,Disadvantage,Disadvantaged,4225,16114,6.299,75.077,C,20455.0,20.655
-2022 to 23,London,Disadvantage,Disadvantaged,10912,25519,8.489,84.577,C,48067.0,22.702
-2022 to 23,North West,Disadvantage,Disadvantaged,4831,19836,6.798,78.948,C,25308.0,19.089
-2022 to 23,East Midlands,Disadvantage,Disadvantaged,2311,8490,5.86,79.576,C,10868.0,21.264
-2022 to 23,South West,Disadvantage,Disadvantaged,2248,9784,6.193,78.47,C,11113.0,20.229
-2022 to 23,North East,Disadvantage,Disadvantaged,1394,8155,6.913,75.251,C,8086.0,17.24
-2022 to 23,West Midlands,Disadvantage,Disadvantaged,4447,16759,6.895,76.186,C,23162.0,19.2
-2022 to 23,East of England,Disadvantage,Disadvantaged,2915,12367,6.705,76.878,C,15231.0,19.139
-2023 to 24,North East,Disadvantage,Disadvantaged,1464,8480,7.323,73.224,C,9644.0,15.18
-2023 to 24,West Midlands,Disadvantage,Disadvantaged,4877,17858,8.042,74.164,C,26947.0,18.098
-2023 to 24,East Midlands,Disadvantage,Disadvantaged,2360,8583,7.124,79.873,C,12033.0,19.613
-2023 to 24,South West,Disadvantage,Disadvantaged,2218,9992,6.275,78.224,C,12198.0,18.183
-2023 to 24,South East,Disadvantage,Disadvantaged,4169,15978,7.28,73.807,C,21872.0,19.061
-2023 to 24,East of England,Disadvantage,Disadvantaged,3032,12658,5.925,76.682,C,17054.0,17.779
-2023 to 24,London,Disadvantage,Disadvantaged,10659,25633,9.015,84.342,C,48421.0,22.013
-2023 to 24,North West,Disadvantage,Disadvantaged,4952,20651,8.229,78.13,C,28158.0,17.586
-2023 to 24,Yorkshire and The Humber,Disadvantage,Disadvantaged,3180,14489,7.532,75.723,C,18653.0,17.048
-2019 to 20,South West,Disadvantage,Non-Disadvantaged,19470,41534,20.652,86.02,B,75201.0,25.891
-2019 to 20,South East,Disadvantage,Non-Disadvantaged,37985,73088,21.641,87.016,B,144528.0,26.282
-2019 to 20,West Midlands,Disadvantage,Non-Disadvantaged,19703,43695,19.915,85.596,B-,78758.0,25.017
-2019 to 20,London,Disadvantage,Non-Disadvantaged,29767,51010,24.396,88.857,B,107402.0,27.715
-2019 to 20,North West,Disadvantage,Non-Disadvantaged,24792,53133,19.813,87.129,B,93361.0,26.555
-2019 to 20,Yorkshire and The Humber,Disadvantage,Non-Disadvantaged,17882,41048,19.258,84.409,B,72896.0,24.531
-2019 to 20,East of England,Disadvantage,Non-Disadvantaged,24530,50751,21.792,87.428,B,95800.0,25.605
-2019 to 20,East Midlands,Disadvantage,Non-Disadvantaged,15679,31661,19.702,88.641,B-,61213.0,25.614
-2019 to 20,North East,Disadvantage,Non-Disadvantaged,8069,20119,19.866,82.018,B,33409.0,24.152
-2020 to 21,North East,Disadvantage,Non-Disadvantaged,7569,16103,23.725,86.379,B,29687.0,25.496
-2020 to 21,West Midlands,Disadvantage,Non-Disadvantaged,19869,36782,24.418,88.444,B,75932.0,26.167
-2020 to 21,South East,Disadvantage,Non-Disadvantaged,39418,64053,27.171,88.132,B,144905.0,27.203
-2020 to 21,North West,Disadvantage,Non-Disadvantaged,24875,44626,24.819,88.318,B,91687.0,27.13
-2020 to 21,Yorkshire and The Humber,Disadvantage,Non-Disadvantaged,17637,32858,24.943,86.489,B,67270.0,26.218
-2020 to 21,South West,Disadvantage,Non-Disadvantaged,19323,34629,26.929,89.888,B,71985.0,26.843
-2020 to 21,East of England,Disadvantage,Non-Disadvantaged,24594,42648,27.572,89.619,B,92276.0,26.653
-2020 to 21,East Midlands,Disadvantage,Non-Disadvantaged,15712,27174,25.417,90.364,B,58757.0,26.741
-2020 to 21,London,Disadvantage,Non-Disadvantaged,30845,46640,30.469,91.182,B+,109598.0,28.144
-2021 to 22,Yorkshire and The Humber,Disadvantage,Non-Disadvantaged,18667,39949,20.274,85.118,B-,75942.0,24.581
-2021 to 22,London,Disadvantage,Non-Disadvantaged,33437,54635,24.308,91.186,B,124033.0,26.958
-2021 to 22,East Midlands,Disadvantage,Non-Disadvantaged,16823,31771,17.92,90.299,B-,62665.0,26.846
-2021 to 22,North East,Disadvantage,Non-Disadvantaged,8081,19432,19.088,85.942,B-,32777.0,24.654
-2021 to 22,West Midlands,Disadvantage,Non-Disadvantaged,20866,43652,19.728,87.238,B-,84573.0,24.672
-2021 to 22,North West,Disadvantage,Non-Disadvantaged,26710,53194,21.933,88.237,B,105645.0,25.283
-2021 to 22,South West,Disadvantage,Non-Disadvantaged,19714,40954,20.364,90.154,B-,75881.0,25.98
-2021 to 22,South East,Disadvantage,Non-Disadvantaged,41365,73964,23.208,87.557,B,155881.0,26.536
-2021 to 22,East of England,Disadvantage,Non-Disadvantaged,26247,51187,21.994,88.643,B,101130.0,25.954
-2022 to 23,Yorkshire and The Humber,Disadvantage,Non-Disadvantaged,19256,40531,13.195,83.943,C+,79605.0,24.189
-2022 to 23,South East,Disadvantage,Non-Disadvantaged,42450,74539,16.174,86.325,B-,162200.0,26.171
-2022 to 23,London,Disadvantage,Non-Disadvantaged,34764,55712,16.977,90.26,B-,129785.0,26.786
-2022 to 23,North West,Disadvantage,Non-Disadvantaged,27233,53828,14.281,86.869,C+,109316.0,24.912
-2022 to 23,East Midlands,Disadvantage,Non-Disadvantaged,17356,31577,11.628,88.494,C+,66483.0,26.106
-2022 to 23,South West,Disadvantage,Non-Disadvantaged,19923,40730,13.27,88.606,C+,77660.0,25.654
-2022 to 23,North East,Disadvantage,Non-Disadvantaged,8167,19392,11.738,84.915,C+,33775.0,24.181
-2022 to 23,West Midlands,Disadvantage,Non-Disadvantaged,21165,43693,13.255,85.689,C+,87124.0,24.293
-2022 to 23,East of England,Disadvantage,Non-Disadvantaged,26492,51020,14.611,87.683,C+,104806.0,25.277
-2023 to 24,North East,Disadvantage,Non-Disadvantaged,8276,19770,13.102,83.688,C+,36221.0,22.849
-2023 to 24,West Midlands,Disadvantage,Non-Disadvantaged,21509,43957,14.835,84.327,C+,91817.0,23.426
-2023 to 24,East Midlands,Disadvantage,Non-Disadvantaged,17486,31937,11.723,87.79,C+,69466.0,25.172
-2023 to 24,South West,Disadvantage,Non-Disadvantaged,20249,41114,13.983,87.298,C+,82112.0,24.66
-2023 to 24,South East,Disadvantage,Non-Disadvantaged,43213,75740,16.698,86.094,B-,168847.0,25.593
-2023 to 24,East of England,Disadvantage,Non-Disadvantaged,27384,52618,15.167,86.956,C+,112056.0,24.438
-2023 to 24,London,Disadvantage,Non-Disadvantaged,36173,57552,18.119,89.973,B-,136189.0,26.561
-2023 to 24,North West,Disadvantage,Non-Disadvantaged,27562,55214,15.444,86.518,B-,114025.0,24.172
-2023 to 24,Yorkshire and The Humber,Disadvantage,Non-Disadvantaged,19674,41347,14.329,83.049,C+,84335.0,23.328
-2019 to 20,South West,Disadvantage,Unknown disadvantaged status,402,1524,14.762,56.468,C+,1547.0,25.986
-2019 to 20,South East,Disadvantage,Unknown disadvantaged status,879,2898,22.33,62.912,B-,3194.0,27.52
-2019 to 20,West Midlands,Disadvantage,Unknown disadvantaged status,415,2381,17.276,74.699,B-,1699.0,24.426
-2019 to 20,London,Disadvantage,Unknown disadvantaged status,608,4952,21.56,70.066,B,2539.0,23.946
-2019 to 20,North West,Disadvantage,Unknown disadvantaged status,254,2364,22.857,73.228,B,1159.0,21.915
-2019 to 20,Yorkshire and The Humber,Disadvantage,Unknown disadvantaged status,247,1532,25.62,53.846,B-,1072.0,23.041
-2019 to 20,East of England,Disadvantage,Unknown disadvantaged status,242,1712,29.143,76.86,B,1266.0,19.115
-2019 to 20,East Midlands,Disadvantage,Unknown disadvantaged status,198,1271,25.714,59.091,C+,848.0,23.349
-2019 to 20,North East,Disadvantage,Unknown disadvantaged status,78,1180,25.0,41.026,B-,416.0,18.75
-2020 to 21,North East,Disadvantage,Unknown disadvantaged status,72,706,22.222,48.611,B,298.0,24.161
-2020 to 21,West Midlands,Disadvantage,Unknown disadvantaged status,391,1552,22.867,85.934,B,1505.0,25.98
-2020 to 21,South East,Disadvantage,Unknown disadvantaged status,742,2094,24.694,63.747,B,2700.0,27.481
-2020 to 21,North West,Disadvantage,Unknown disadvantaged status,242,1623,33.714,80.579,B,1027.0,23.564
-2020 to 21,Yorkshire and The Humber,Disadvantage,Unknown disadvantaged status,200,941,27.083,54.5,B-,779.0,25.674
-2020 to 21,South West,Disadvantage,Unknown disadvantaged status,368,1125,24.742,59.783,B,1364.0,26.979
-2020 to 21,East of England,Disadvantage,Unknown disadvantaged status,210,1033,25.974,80.476,B,963.0,21.807
-2020 to 21,East Midlands,Disadvantage,Unknown disadvantaged status,198,738,23.009,62.121,B-,749.0,26.435
-2020 to 21,London,Disadvantage,Unknown disadvantaged status,479,3310,26.822,74.113,B,2018.0,23.736
-2021 to 22,Yorkshire and The Humber,Disadvantage,Unknown disadvantaged status,134,1063,22.124,91.791,B-,643.0,20.84
-2021 to 22,London,Disadvantage,Unknown disadvantaged status,391,3677,21.875,82.353,B-,2089.0,18.717
-2021 to 22,East Midlands,Disadvantage,Unknown disadvantaged status,100,787,21.429,90.0,B-,466.0,21.459
-2021 to 22,North East,Disadvantage,Unknown disadvantaged status,55,785,26.19,72.727,B-,298.0,18.456
-2021 to 22,West Midlands,Disadvantage,Unknown disadvantaged status,351,1792,26.909,85.47,B,1530.0,22.941
-2021 to 22,North West,Disadvantage,Unknown disadvantaged status,203,1900,25.949,82.759,B-,1051.0,19.315
-2021 to 22,South West,Disadvantage,Unknown disadvantaged status,222,1213,19.251,91.892,B,1008.0,22.024
-2021 to 22,South East,Disadvantage,Unknown disadvantaged status,580,2309,18.103,87.241,B-,2248.0,25.801
-2021 to 22,East of England,Disadvantage,Unknown disadvantaged status,186,1271,23.684,87.097,B-,964.0,19.295
-2022 to 23,Yorkshire and The Humber,Disadvantage,Unknown disadvantaged status,156,1240,14.953,74.359,C+,733.0,21.282
-2022 to 23,South East,Disadvantage,Unknown disadvantaged status,658,2560,13.646,79.787,B-,2653.0,24.802
-2022 to 23,London,Disadvantage,Unknown disadvantaged status,499,4040,17.452,77.555,C+,2890.0,17.266
-2022 to 23,North West,Disadvantage,Unknown disadvantaged status,251,2167,18.905,86.853,B-,1345.0,18.662
-2022 to 23,East Midlands,Disadvantage,Unknown disadvantaged status,131,857,11.009,89.313,C+,719.0,18.22
-2022 to 23,South West,Disadvantage,Unknown disadvantaged status,282,1403,15.0,82.624,B-,1309.0,21.543
-2022 to 23,North East,Disadvantage,Unknown disadvantaged status,77,810,6.25,72.727,C+,406.0,18.966
-2022 to 23,West Midlands,Disadvantage,Unknown disadvantaged status,438,2036,13.636,82.648,C+,2043.0,21.439
-2022 to 23,East of England,Disadvantage,Unknown disadvantaged status,247,1460,16.588,89.879,C+,1193.0,20.704
-2023 to 24,North East,Disadvantage,Unknown disadvantaged status,135,1105,17.045,66.667,C+,753.0,17.928
-2023 to 24,West Midlands,Disadvantage,Unknown disadvantaged status,520,2605,11.346,76.731,C+,2647.0,19.645
-2023 to 24,East Midlands,Disadvantage,Unknown disadvantaged status,253,1279,14.674,79.447,C+,1184.0,21.368
-2023 to 24,South West,Disadvantage,Unknown disadvantaged status,425,1664,12.195,71.059,C,1943.0,21.873
-2023 to 24,South East,Disadvantage,Unknown disadvantaged status,993,3440,14.0,69.184,C+,4122.0,24.09
-2023 to 24,East of England,Disadvantage,Unknown disadvantaged status,357,1963,16.605,80.672,C+,1817.0,19.648
-2023 to 24,London,Disadvantage,Unknown disadvantaged status,701,4726,15.942,80.029,B-,3770.0,18.594
-2023 to 24,North West,Disadvantage,Unknown disadvantaged status,339,2628,17.045,82.301,B-,1888.0,17.956
-2023 to 24,Yorkshire and The Humber,Disadvantage,Unknown disadvantaged status,282,1583,15.517,68.44,C+,1353.0,20.843
+time_period,region_name,characteristic_type,characteristic_value,number_of_students_alev,number_of_students_potential,pc_achieving_3_astar_to_a_alev,pc_achieving_atleast_two_alev,aps_per_entry_grade_alev,pc_achieving_alev
+2019 to 20,South West,Sex,Female,12492,26649,20.016,84.982,B,46.876
+2019 to 20,South East,Sex,Female,23423,45630,21.069,86.449,B,51.332
+2019 to 20,West Midlands,Sex,Female,14017,31957,18.07,84.398,B-,43.862
+2019 to 20,London,Sex,Female,23195,41479,21.85,88.562,B,55.92
+2019 to 20,North West,Sex,Female,16790,38168,19.192,86.278,B,43.99
+2019 to 20,Yorkshire and The Humber,Sex,Female,12093,28830,17.871,82.833,B,41.946
+2019 to 20,East of England,Sex,Female,15284,32268,20.724,86.856,B,47.366
+2019 to 20,East Midlands,Sex,Female,10228,20914,18.623,87.378,B-,48.905
+2019 to 20,North East,Sex,Female,5540,14997,18.782,79.675,B,36.941
+2020 to 21,North East,Sex,Female,5120,11495,22.808,84.727,B,44.541
+2020 to 21,West Midlands,Sex,Female,13727,25893,23.85,86.88,B,53.014
+2020 to 21,South East,Sex,Female,24045,39582,27.664,87.407,B+,60.747
+2020 to 21,North West,Sex,Female,16974,31513,24.555,87.557,B,53.863
+2020 to 21,Yorkshire and The Humber,Sex,Female,11831,22549,24.899,85.208,B,52.468
+2020 to 21,South West,Sex,Female,11947,21531,26.668,89.311,B,55.487
+2020 to 21,East of England,Sex,Female,15146,26925,26.978,89.298,B+,56.253
+2020 to 21,East Midlands,Sex,Female,10270,17718,25.528,89.396,B,57.964
+2020 to 21,London,Sex,Female,23530,36457,27.767,90.82,B+,64.542
+2021 to 22,Yorkshire and The Humber,Sex,Female,12370,27682,18.773,83.5,B-,44.686
+2021 to 22,London,Sex,Female,24758,41756,20.897,90.581,B,59.292
+2021 to 22,East Midlands,Sex,Female,10639,20406,16.586,90.14,B-,52.137
+2021 to 22,North East,Sex,Female,5484,14299,17.639,85.12,B-,38.352
+2021 to 22,West Midlands,Sex,Female,14386,31113,18.216,86.376,B-,46.238
+2021 to 22,North West,Sex,Female,17893,37846,21.087,87.336,B,47.278
+2021 to 22,South West,Sex,Female,12268,25922,19.86,90.007,B,47.327
+2021 to 22,South East,Sex,Female,24924,45338,22.275,86.928,B,54.974
+2021 to 22,East of England,Sex,Female,16325,32071,21.064,88.3,B,50.903
+2022 to 23,Yorkshire and The Humber,Sex,Female,12888,28091,12.118,82.876,C+,45.879
+2022 to 23,South East,Sex,Female,25387,45784,14.695,85.705,B-,55.45
+2022 to 23,London,Sex,Female,25335,41806,13.92,89.734,B-,60.601
+2022 to 23,North West,Sex,Female,18143,37905,13.102,86.48,B-,47.864
+2022 to 23,East Midlands,Sex,Female,10862,20526,10.367,87.82,C+,52.918
+2022 to 23,South West,Sex,Female,12201,25465,11.926,88.116,C+,47.913
+2022 to 23,North East,Sex,Female,5450,14197,10.121,83.835,C+,38.388
+2022 to 23,West Midlands,Sex,Female,14610,30902,11.667,84.832,C+,47.278
+2022 to 23,East of England,Sex,Female,16043,31548,13.4,87.259,C+,50.853
+2023 to 24,North East,Sex,Female,5562,14613,11.26,81.32,C+,38.062
+2023 to 24,West Midlands,Sex,Female,15170,32360,13.138,82.96,C+,46.879
+2023 to 24,East Midlands,Sex,Female,11229,21185,10.537,87.016,C+,53.004
+2023 to 24,South West,Sex,Female,12513,26314,12.311,86.422,C+,47.553
+2023 to 24,South East,Sex,Female,25968,46917,15.049,85.182,B-,55.349
+2023 to 24,East of England,Sex,Female,16699,33046,14.15,86.335,C+,50.533
+2023 to 24,London,Sex,Female,25802,43011,15.492,89.187,B-,59.989
+2023 to 24,North West,Sex,Female,18237,39359,14.107,85.76,B-,46.335
+2023 to 24,Yorkshire and The Humber,Sex,Female,13001,28765,13.153,81.617,C+,45.197
+2019 to 20,South West,Sex,Male,9652,26901,19.713,83.62,B-,35.88
+2019 to 20,South East,Sex,Male,19257,47428,20.548,84.598,B,40.603
+2019 to 20,West Midlands,Sex,Male,10344,32076,18.996,82.676,B-,32.248
+2019 to 20,London,Sex,Male,18384,43161,21.376,85.857,B-,42.594
+2019 to 20,North West,Sex,Male,12965,39008,17.475,85.206,B-,33.237
+2019 to 20,Yorkshire and The Humber,Sex,Male,8976,28970,18.592,82.364,B-,30.984
+2019 to 20,East of England,Sex,Male,12577,34019,20.846,85.41,B-,36.971
+2019 to 20,East Midlands,Sex,Male,7868,21087,18.89,87.227,B-,37.312
+2019 to 20,North East,Sex,Male,4060,15347,18.603,80.345,B-,26.455
+2020 to 21,North East,Sex,Male,3845,11159,22.253,84.889,B,34.456
+2020 to 21,West Midlands,Sex,Male,10610,24810,22.073,87.201,B-,42.765
+2020 to 21,South East,Sex,Male,19911,38191,24.616,86.364,B,52.135
+2020 to 21,North West,Sex,Male,12656,28862,21.782,86.623,B,43.85
+2020 to 21,Yorkshire and The Humber,Sex,Male,8836,20800,21.745,85.186,B,42.481
+2020 to 21,South West,Sex,Male,9652,20729,24.921,87.857,B,46.563
+2020 to 21,East of England,Sex,Male,12502,25730,25.749,87.97,B,48.589
+2020 to 21,East Midlands,Sex,Male,7785,16424,22.482,89.043,B,47.4
+2020 to 21,London,Sex,Male,18457,35591,27.153,88.736,B,51.859
+2021 to 22,Yorkshire and The Humber,Sex,Male,9437,27396,19.175,84.275,B-,34.447
+2021 to 22,London,Sex,Male,19851,42872,22.68,89.24,B-,46.303
+2021 to 22,East Midlands,Sex,Male,8479,20554,17.608,88.454,B-,41.252
+2021 to 22,North East,Sex,Male,4064,14243,18.111,84.055,B-,28.533
+2021 to 22,West Midlands,Sex,Male,11091,30887,18.993,85.772,B-,35.908
+2021 to 22,North West,Sex,Male,13568,36859,20.047,86.476,B-,36.811
+2021 to 22,South West,Sex,Male,9788,25911,19.053,88.731,B-,37.775
+2021 to 22,South East,Sex,Male,21144,46690,22.077,86.247,B-,45.286
+2021 to 22,East of England,Sex,Male,13254,32994,20.739,86.94,B-,40.171
+2022 to 23,Yorkshire and The Humber,Sex,Male,9702,27919,12.659,82.158,C+,34.751
+2022 to 23,South East,Sex,Male,21946,47417,16.166,84.681,C+,46.283
+2022 to 23,London,Sex,Male,20840,43463,16.572,87.62,C+,47.949
+2022 to 23,North West,Sex,Male,14171,37920,13.675,84.666,C+,37.371
+2022 to 23,East Midlands,Sex,Male,8936,20398,11.774,87.019,C+,43.808
+2022 to 23,South West,Sex,Male,10252,26450,13.528,86.803,C+,38.76
+2022 to 23,North East,Sex,Male,4188,14160,12.288,82.88,C+,29.576
+2022 to 23,West Midlands,Sex,Male,11440,31585,13.102,82.972,C+,36.22
+2022 to 23,East of England,Sex,Male,13611,33294,14.614,85.908,C+,40.881
+2023 to 24,North East,Sex,Male,4313,14741,13.824,82.657,C+,29.259
+2023 to 24,West Midlands,Sex,Male,11735,32058,14.378,81.534,C+,36.606
+2023 to 24,East Midlands,Sex,Male,8870,20614,12.181,86.426,C,43.029
+2023 to 24,South West,Sex,Male,10379,26453,14.45,85.75,C+,39.236
+2023 to 24,South East,Sex,Male,22406,48058,17.018,84.12,C+,46.623
+2023 to 24,East of England,Sex,Male,14074,34185,14.696,85.32,C+,41.17
+2023 to 24,London,Sex,Male,21731,44895,16.998,87.824,C+,48.404
+2023 to 24,North West,Sex,Male,14615,39128,15.01,84.53,C+,37.352
+2023 to 24,Yorkshire and The Humber,Sex,Male,10135,28648,13.976,82.181,C+,35.378
+2019 to 20,South West,Ethnicity,Black or Black British,304,732,7.86,77.632,C+,41.53
+2019 to 20,South East,Ethnicity,Black or Black British,1209,2625,12.281,84.119,B-,46.057
+2019 to 20,West Midlands,Ethnicity,Black or Black British,1165,3258,12.598,74.077,C+,35.758
+2019 to 20,London,Ethnicity,Black or Black British,7756,17292,12.726,85.315,B-,44.853
+2019 to 20,North West,Ethnicity,Black or Black British,751,2049,10.518,87.883,B-,36.652
+2019 to 20,Yorkshire and The Humber,Ethnicity,Black or Black British,444,1248,11.146,78.378,C+,35.577
+2019 to 20,East of England,Ethnicity,Black or Black British,1040,2349,11.617,85.769,B-,44.274
+2019 to 20,East Midlands,Ethnicity,Black or Black British,599,1377,10.577,84.808,C+,43.5
+2019 to 20,North East,Ethnicity,Black or Black British,121,469,16.667,78.512,B-,25.8
+2020 to 21,North East,Ethnicity,Black or Black British,119,354,12.766,84.034,B-,33.616
+2020 to 21,West Midlands,Ethnicity,Black or Black British,1167,2631,14.198,82.177,B-,44.356
+2020 to 21,South East,Ethnicity,Black or Black British,1304,2265,16.822,84.893,B-,57.572
+2020 to 21,North West,Ethnicity,Black or Black British,819,1599,10.345,84.005,B-,51.22
+2020 to 21,Yorkshire and The Humber,Ethnicity,Black or Black British,490,963,16.092,82.245,B-,50.883
+2020 to 21,South West,Ethnicity,Black or Black British,320,573,10.849,83.125,C+,55.846
+2020 to 21,East of England,Ethnicity,Black or Black British,1064,1912,16.865,87.218,B-,55.649
+2020 to 21,East Midlands,Ethnicity,Black or Black British,616,1145,13.857,83.604,B-,53.799
+2020 to 21,London,Ethnicity,Black or Black British,7733,14413,17.756,87.65,B-,53.653
+2021 to 22,Yorkshire and The Humber,Ethnicity,Black or Black British,560,1386,7.803,76.25,C,40.404
+2021 to 22,London,Ethnicity,Black or Black British,8355,17606,12.586,86.152,C+,47.455
+2021 to 22,East Midlands,Ethnicity,Black or Black British,752,1562,10.517,84.574,C+,48.143
+2021 to 22,North East,Ethnicity,Black or Black British,131,523,9.877,74.046,C,25.048
+2021 to 22,West Midlands,Ethnicity,Black or Black British,1384,3553,10.858,81.864,C+,38.953
+2021 to 22,North West,Ethnicity,Black or Black British,930,2189,15.69,84.839,B-,42.485
+2021 to 22,South West,Ethnicity,Black or Black British,384,845,8.582,84.635,C,45.444
+2021 to 22,South East,Ethnicity,Black or Black British,1502,2964,11.385,82.49,C+,50.675
+2021 to 22,East of England,Ethnicity,Black or Black British,1262,2501,12.245,86.45,C+,50.46
+2022 to 23,Yorkshire and The Humber,Ethnicity,Black or Black British,661,1412,6.522,77.458,C,46.813
+2022 to 23,South East,Ethnicity,Black or Black British,1780,3160,7.208,80.787,C,56.329
+2022 to 23,London,Ethnicity,Black or Black British,8680,17440,8.046,84.931,C,49.771
+2022 to 23,North West,Ethnicity,Black or Black British,1150,2386,9.496,81.478,C,48.198
+2022 to 23,East Midlands,Ethnicity,Black or Black British,882,1660,7.273,80.385,C,53.133
+2022 to 23,South West,Ethnicity,Black or Black British,404,812,5.282,79.208,C-,49.754
+2022 to 23,North East,Ethnicity,Black or Black British,163,588,3.571,84.663,C,27.721
+2022 to 23,West Midlands,Ethnicity,Black or Black British,1507,3713,8.065,77.107,C,40.587
+2022 to 23,East of England,Ethnicity,Black or Black British,1383,2528,7.037,82.646,C,54.707
+2023 to 24,North East,Ethnicity,Black or Black British,178,661,6.4,79.775,C,26.929
+2023 to 24,West Midlands,Ethnicity,Black or Black British,1748,3933,8.868,76.03,C,44.444
+2023 to 24,East Midlands,Ethnicity,Black or Black British,914,1710,5.939,81.619,C-,53.45
+2023 to 24,South West,Ethnicity,Black or Black British,453,853,4.87,81.457,C-,53.107
+2023 to 24,South East,Ethnicity,Black or Black British,1927,3278,8.327,81.837,C,58.786
+2023 to 24,East of England,Ethnicity,Black or Black British,1612,2876,10.672,84.367,C,56.05
+2023 to 24,London,Ethnicity,Black or Black British,8593,17182,8.697,84.592,C,50.012
+2023 to 24,North West,Ethnicity,Black or Black British,1287,2665,9.308,83.528,C+,48.293
+2023 to 24,Yorkshire and The Humber,Ethnicity,Black or Black British,685,1549,6.667,78.54,C,44.222
+2019 to 20,South West,Ethnicity,Mixed Dual background,732,1528,19.444,86.475,B-,47.906
+2019 to 20,South East,Ethnicity,Mixed Dual background,2073,4207,21.538,86.686,B,49.275
+2019 to 20,West Midlands,Ethnicity,Mixed Dual background,1111,3072,19.355,82.358,B-,36.165
+2019 to 20,London,Ethnicity,Mixed Dual background,3477,6992,21.826,87.834,B,49.728
+2019 to 20,North West,Ethnicity,Mixed Dual background,982,2450,18.519,89.817,B-,40.082
+2019 to 20,Yorkshire and The Humber,Ethnicity,Mixed Dual background,685,1819,21.033,83.066,B,37.658
+2019 to 20,East of England,Ethnicity,Mixed Dual background,1368,2994,20.671,87.061,B,45.691
+2019 to 20,East Midlands,Ethnicity,Mixed Dual background,738,1736,16.207,88.889,B-,42.512
+2019 to 20,North East,Ethnicity,Mixed Dual background,213,579,18.023,84.977,B-,36.788
+2020 to 21,North East,Ethnicity,Mixed Dual background,208,516,22.024,89.423,B,40.31
+2020 to 21,West Midlands,Ethnicity,Mixed Dual background,1222,2549,23.75,85.352,B,47.94
+2020 to 21,South East,Ethnicity,Mixed Dual background,2291,3808,26.866,88.477,B,60.163
+2020 to 21,North West,Ethnicity,Mixed Dual background,1104,2040,21.872,89.493,B,54.118
+2020 to 21,Yorkshire and The Humber,Ethnicity,Mixed Dual background,748,1447,25.719,87.834,B,51.693
+2020 to 21,South West,Ethnicity,Mixed Dual background,767,1335,27.331,90.743,B,57.453
+2020 to 21,East of England,Ethnicity,Mixed Dual background,1365,2467,26.5,90.403,B,55.33
+2020 to 21,East Midlands,Ethnicity,Mixed Dual background,751,1438,22.298,89.747,B,52.225
+2020 to 21,London,Ethnicity,Mixed Dual background,3649,6220,26.606,89.86,B,58.666
+2021 to 22,Yorkshire and The Humber,Ethnicity,Mixed Dual background,817,1954,21.079,85.557,B-,41.812
+2021 to 22,London,Ethnicity,Mixed Dual background,3941,7264,21.322,89.901,B,54.254
+2021 to 22,East Midlands,Ethnicity,Mixed Dual background,855,1852,18.006,90.409,B-,46.166
+2021 to 22,North East,Ethnicity,Mixed Dual background,286,689,22.791,87.762,B,41.509
+2021 to 22,West Midlands,Ethnicity,Mixed Dual background,1238,3168,16.994,85.541,B-,39.078
+2021 to 22,North West,Ethnicity,Mixed Dual background,1265,2695,21.687,87.431,B-,46.939
+2021 to 22,South West,Ethnicity,Mixed Dual background,828,1691,21.719,89.493,B-,48.965
+2021 to 22,South East,Ethnicity,Mixed Dual background,2524,4632,21.44,87.48,B,54.491
+2021 to 22,East of England,Ethnicity,Mixed Dual background,1631,3185,21.868,88.719,B-,51.209
+2022 to 23,Yorkshire and The Humber,Ethnicity,Mixed Dual background,972,2217,12.593,81.79,C+,43.843
+2022 to 23,South East,Ethnicity,Mixed Dual background,2789,4950,15.301,86.411,C+,56.343
+2022 to 23,London,Ethnicity,Mixed Dual background,4072,7620,15.214,89.17,B-,53.438
+2022 to 23,North West,Ethnicity,Mixed Dual background,1330,2911,13.713,86.241,C+,45.689
+2022 to 23,East Midlands,Ethnicity,Mixed Dual background,981,1991,13.235,88.379,C+,49.272
+2022 to 23,South West,Ethnicity,Mixed Dual background,954,1865,12.783,87.107,C+,51.153
+2022 to 23,North East,Ethnicity,Mixed Dual background,252,659,10.811,87.302,C+,38.24
+2022 to 23,West Midlands,Ethnicity,Mixed Dual background,1309,3310,12.729,85.256,C+,39.547
+2022 to 23,East of England,Ethnicity,Mixed Dual background,1712,3372,14.452,87.15,C+,50.771
+2023 to 24,North East,Ethnicity,Mixed Dual background,294,792,12.054,88.095,B-,37.121
+2023 to 24,West Midlands,Ethnicity,Mixed Dual background,1490,3570,14.718,80.872,C+,41.737
+2023 to 24,East Midlands,Ethnicity,Mixed Dual background,1057,2137,12.189,87.512,C+,49.462
+2023 to 24,South West,Ethnicity,Mixed Dual background,963,1980,13.19,88.266,C+,48.636
+2023 to 24,South East,Ethnicity,Mixed Dual background,3012,5347,15.262,84.993,C+,56.331
+2023 to 24,East of England,Ethnicity,Mixed Dual background,1817,3707,14.11,86.791,C+,49.015
+2023 to 24,London,Ethnicity,Mixed Dual background,4315,8233,16.057,88.505,B-,52.411
+2023 to 24,North West,Ethnicity,Mixed Dual background,1473,3095,14.53,84.521,C+,47.593
+2023 to 24,Yorkshire and The Humber,Ethnicity,Mixed Dual background,1054,2419,14.42,84.345,C+,43.572
+2019 to 20,South West,Ethnicity,Unknown ethnicity,1329,4165,16.472,76.674,B-,31.909
+2019 to 20,South East,Ethnicity,Unknown ethnicity,3338,7696,19.404,81.666,B,43.373
+2019 to 20,West Midlands,Ethnicity,Unknown ethnicity,1273,4899,16.684,81.775,B-,25.985
+2019 to 20,London,Ethnicity,Unknown ethnicity,2763,9494,24.004,83.569,B,29.103
+2019 to 20,North West,Ethnicity,Unknown ethnicity,1392,5210,17.453,82.04,B-,26.718
+2019 to 20,Yorkshire and The Humber,Ethnicity,Unknown ethnicity,964,3837,20.951,75.415,B-,25.124
+2019 to 20,East of England,Ethnicity,Unknown ethnicity,1381,4433,25.067,85.663,B,31.153
+2019 to 20,East Midlands,Ethnicity,Unknown ethnicity,657,2511,19.785,79.909,B-,26.165
+2019 to 20,North East,Ethnicity,Unknown ethnicity,304,2170,19.231,66.447,B,14.009
+2020 to 21,North East,Ethnicity,Unknown ethnicity,286,1505,24.876,73.427,B,19.003
+2020 to 21,West Midlands,Ethnicity,Unknown ethnicity,1230,3611,20.311,87.561,B,34.063
+2020 to 21,South East,Ethnicity,Unknown ethnicity,3635,6940,25.693,84.182,B,52.378
+2020 to 21,North West,Ethnicity,Unknown ethnicity,1413,4220,21.886,86.27,B,33.483
+2020 to 21,Yorkshire and The Humber,Ethnicity,Unknown ethnicity,888,2791,26.78,79.279,B,31.817
+2020 to 21,South West,Ethnicity,Unknown ethnicity,1359,3520,22.266,81.678,B,38.608
+2020 to 21,East of England,Ethnicity,Unknown ethnicity,1456,3587,24.558,88.599,B,40.591
+2020 to 21,East Midlands,Ethnicity,Unknown ethnicity,741,1992,20.789,83.536,B,37.199
+2020 to 21,London,Ethnicity,Unknown ethnicity,2710,7425,29.006,87.048,B,36.498
+2021 to 22,Yorkshire and The Humber,Ethnicity,Unknown ethnicity,929,3520,19.858,86.975,B-,26.392
+2021 to 22,London,Ethnicity,Unknown ethnicity,2698,8519,24.662,90.437,B,31.67
+2021 to 22,East Midlands,Ethnicity,Unknown ethnicity,672,2295,19.485,90.774,B-,29.281
+2021 to 22,North East,Ethnicity,Unknown ethnicity,264,1854,18.841,84.091,B,14.239
+2021 to 22,West Midlands,Ethnicity,Unknown ethnicity,1280,4472,21.86,87.578,B-,28.623
+2021 to 22,North West,Ethnicity,Unknown ethnicity,1390,4966,22.303,89.424,B,27.99
+2021 to 22,South West,Ethnicity,Unknown ethnicity,1331,4317,18.402,91.285,B,30.832
+2021 to 22,South East,Ethnicity,Unknown ethnicity,3541,7863,22.23,89.24,B,45.034
+2021 to 22,East of England,Ethnicity,Unknown ethnicity,1573,4415,23.412,90.401,B,35.629
+2022 to 23,Yorkshire and The Humber,Ethnicity,Unknown ethnicity,965,3857,14.847,83.316,C+,25.019
+2022 to 23,South East,Ethnicity,Unknown ethnicity,3485,7799,15.902,86.6,B-,44.685
+2022 to 23,London,Ethnicity,Unknown ethnicity,2935,8748,18.022,87.462,B-,33.551
+2022 to 23,North West,Ethnicity,Unknown ethnicity,1493,5256,14.572,86.805,C+,28.406
+2022 to 23,East Midlands,Ethnicity,Unknown ethnicity,649,2269,11.503,89.831,C+,28.603
+2022 to 23,South West,Ethnicity,Unknown ethnicity,1221,4307,13.433,88.78,C+,28.349
+2022 to 23,North East,Ethnicity,Unknown ethnicity,280,1849,9.813,79.286,C+,15.143
+2022 to 23,West Midlands,Ethnicity,Unknown ethnicity,1367,4545,12.475,82.59,C+,30.077
+2022 to 23,East of England,Ethnicity,Unknown ethnicity,1612,4684,15.217,90.012,B-,34.415
+2023 to 24,North East,Ethnicity,Unknown ethnicity,397,2293,11.864,76.322,C+,17.314
+2023 to 24,West Midlands,Ethnicity,Unknown ethnicity,1620,5435,12.604,81.914,C+,29.807
+2023 to 24,East Midlands,Ethnicity,Unknown ethnicity,839,2734,14.264,86.293,C+,30.688
+2023 to 24,South West,Ethnicity,Unknown ethnicity,1446,4451,11.649,82.573,C+,32.487
+2023 to 24,South East,Ethnicity,Unknown ethnicity,4072,8945,17.139,83.276,B-,45.523
+2023 to 24,East of England,Ethnicity,Unknown ethnicity,2035,5600,15.534,87.42,B-,36.339
+2023 to 24,London,Ethnicity,Unknown ethnicity,3175,9493,18.324,86.803,B-,33.446
+2023 to 24,North West,Ethnicity,Unknown ethnicity,1687,6008,15.911,85.24,B-,28.079
+2023 to 24,Yorkshire and The Humber,Ethnicity,Unknown ethnicity,1081,4070,12.968,78.908,C+,26.56
+2019 to 20,South West,Ethnicity,White,18813,45452,20.302,85.037,B,41.391
+2019 to 20,South East,Ethnicity,White,31689,71702,21.241,85.657,B,44.195
+2019 to 20,West Midlands,Ethnicity,White,15219,41073,19.796,84.854,B-,37.054
+2019 to 20,London,Ethnicity,White,14299,28685,24.803,87.677,B,49.848
+2019 to 20,North West,Ethnicity,White,22462,58327,18.975,85.847,B,38.51
+2019 to 20,Yorkshire and The Humber,Ethnicity,White,15831,43224,19.025,83.4,B,36.625
+2019 to 20,East of England,Ethnicity,White,21242,51644,20.706,85.839,B,41.132
+2019 to 20,East Midlands,Ethnicity,White,13631,31925,19.305,87.624,B-,42.697
+2019 to 20,North East,Ethnicity,White,8264,25740,18.405,80.252,B-,32.106
+2020 to 21,North East,Ethnicity,White,7741,19195,22.37,84.886,B,40.328
+2020 to 21,West Midlands,Ethnicity,White,15115,32463,24.015,87.231,B,46.561
+2020 to 21,South East,Ethnicity,White,31901,58353,26.278,86.759,B,54.669
+2020 to 21,North West,Ethnicity,White,21983,45415,24.505,86.913,B,48.405
+2020 to 21,Yorkshire and The Humber,Ethnicity,White,15423,32312,24.286,85.904,B,47.731
+2020 to 21,South West,Ethnicity,White,18200,35539,26.003,89.016,B,51.211
+2020 to 21,East of England,Ethnicity,White,20875,40586,26.933,88.46,B,51.434
+2020 to 21,East Midlands,Ethnicity,White,13456,25859,24.772,89.878,B,52.036
+2020 to 21,London,Ethnicity,White,14330,24258,31.362,90.007,B+,59.073
+2021 to 22,Yorkshire and The Humber,Ethnicity,White,16027,40691,19.556,84.37,B-,39.387
+2021 to 22,London,Ethnicity,White,15051,28298,24.826,90.811,B,53.188
+2021 to 22,East Midlands,Ethnicity,White,14107,30660,17.132,89.778,B-,46.011
+2021 to 22,North East,Ethnicity,White,8180,24095,17.627,84.719,B-,33.949
+2021 to 22,West Midlands,Ethnicity,White,15604,39117,18.907,86.503,B-,39.891
+2021 to 22,North West,Ethnicity,White,23198,55759,20.517,86.766,B,41.604
+2021 to 22,South West,Ethnicity,White,18517,43383,19.502,89.28,B-,42.683
+2021 to 22,South East,Ethnicity,White,33217,68938,22.165,86.007,B,48.184
+2021 to 22,East of England,Ethnicity,White,21899,49863,20.548,87.41,B-,43.918
+2022 to 23,Yorkshire and The Humber,Ethnicity,White,16223,40872,12.933,83.345,C+,39.692
+2022 to 23,South East,Ethnicity,White,33547,69280,15.272,84.83,B-,48.422
+2022 to 23,London,Ethnicity,White,15317,28167,17.529,89.13,B-,54.379
+2022 to 23,North West,Ethnicity,White,23239,55657,13.09,85.593,C+,41.754
+2022 to 23,East Midlands,Ethnicity,White,14376,30278,10.86,87.604,C+,47.48
+2022 to 23,South West,Ethnicity,White,18748,43140,12.613,87.519,C+,43.459
+2022 to 23,North East,Ethnicity,White,8205,23843,10.956,83.193,C+,34.413
+2022 to 23,West Midlands,Ethnicity,White,15468,38823,12.504,84.807,C+,39.842
+2022 to 23,East of England,Ethnicity,White,21570,48964,13.598,86.509,C+,44.053
+2023 to 24,North East,Ethnicity,White,8145,24022,12.482,81.78,C+,33.906
+2023 to 24,West Midlands,Ethnicity,White,15260,38821,13.801,82.896,C+,39.309
+2023 to 24,East Midlands,Ethnicity,White,14203,30265,11.183,86.827,C+,46.929
+2023 to 24,South West,Ethnicity,White,18765,43524,13.392,86.091,C+,43.114
+2023 to 24,South East,Ethnicity,White,33244,69105,15.84,84.469,B-,48.107
+2023 to 24,East of England,Ethnicity,White,21832,49609,14.055,85.462,C+,44.008
+2023 to 24,London,Ethnicity,White,15451,28436,18.442,89.528,B-,54.336
+2023 to 24,North West,Ethnicity,White,22965,56537,14.468,84.86,C+,40.619
+2023 to 24,Yorkshire and The Humber,Ethnicity,White,16346,41183,14.019,82.332,C+,39.691
+2019 to 20,South West,Ethnicity,Any other ethnic group,131,297,15.385,83.969,B-,44.108
+2019 to 20,South East,Ethnicity,Any other ethnic group,416,775,16.517,85.337,B-,53.677
+2019 to 20,West Midlands,Ethnicity,Any other ethnic group,363,907,17.082,82.92,B-,40.022
+2019 to 20,London,Ethnicity,Any other ethnic group,2484,4710,18.846,85.064,B,52.739
+2019 to 20,North West,Ethnicity,Any other ethnic group,335,859,20.415,84.179,B,38.999
+2019 to 20,Yorkshire and The Humber,Ethnicity,Any other ethnic group,195,548,13.194,76.41,B-,35.584
+2019 to 20,East of England,Ethnicity,Any other ethnic group,263,543,24.615,83.27,B,48.435
+2019 to 20,East Midlands,Ethnicity,Any other ethnic group,129,255,18.692,89.147,B,50.588
+2019 to 20,North East,Ethnicity,Any other ethnic group,97,231,23.377,79.381,B,41.991
+2020 to 21,North East,Ethnicity,Any other ethnic group,99,213,34.94,90.909,B,46.479
+2020 to 21,West Midlands,Ethnicity,Any other ethnic group,418,746,22.985,85.646,B,56.032
+2020 to 21,South East,Ethnicity,Any other ethnic group,453,714,24.789,86.093,B,63.445
+2020 to 21,North West,Ethnicity,Any other ethnic group,403,711,20.414,88.089,B,56.681
+2020 to 21,Yorkshire and The Humber,Ethnicity,Any other ethnic group,221,392,20.732,85.52,B,56.378
+2020 to 21,South West,Ethnicity,Any other ethnic group,112,181,25.556,88.393,B-,61.878
+2020 to 21,East of England,Ethnicity,Any other ethnic group,302,499,21.739,92.715,B-,60.521
+2020 to 21,East Midlands,Ethnicity,Any other ethnic group,133,245,17.757,90.226,B,54.286
+2020 to 21,London,Ethnicity,Any other ethnic group,2505,4110,23.869,88.024,B,60.949
+2021 to 22,Yorkshire and The Humber,Ethnicity,Any other ethnic group,252,536,16.043,82.937,B-,47.015
+2021 to 22,London,Ethnicity,Any other ethnic group,2793,5133,17.229,87.648,B-,54.413
+2021 to 22,East Midlands,Ethnicity,Any other ethnic group,180,344,13.333,87.222,C+,52.326
+2021 to 22,North East,Ethnicity,Any other ethnic group,109,279,23.256,88.991,B,39.068
+2021 to 22,West Midlands,Ethnicity,Any other ethnic group,516,1094,21.333,85.659,B-,47.166
+2021 to 22,North West,Ethnicity,Any other ethnic group,485,975,23.2,90.309,B-,49.744
+2021 to 22,South West,Ethnicity,Any other ethnic group,132,291,21.569,92.424,B-,45.361
+2021 to 22,South East,Ethnicity,Any other ethnic group,493,863,18.568,89.047,B-,57.126
+2021 to 22,East of England,Ethnicity,Any other ethnic group,321,590,19.216,87.85,B-,54.407
+2022 to 23,Yorkshire and The Humber,Ethnicity,Any other ethnic group,316,635,11.489,84.81,C+,49.764
+2022 to 23,South East,Ethnicity,Any other ethnic group,542,934,10.817,85.793,C,58.03
+2022 to 23,London,Ethnicity,Any other ethnic group,2985,5219,10.905,87.873,C+,57.195
+2022 to 23,North West,Ethnicity,Any other ethnic group,540,1155,11.278,84.259,C+,46.753
+2022 to 23,East Midlands,Ethnicity,Any other ethnic group,179,322,13.846,84.916,C+,55.59
+2022 to 23,South West,Ethnicity,Any other ethnic group,161,308,8.759,85.093,C+,52.273
+2022 to 23,North East,Ethnicity,Any other ethnic group,95,267,13.235,83.158,C+,35.581
+2022 to 23,West Midlands,Ethnicity,Any other ethnic group,538,1183,12.189,85.502,C+,45.478
+2022 to 23,East of England,Ethnicity,Any other ethnic group,322,579,15.625,87.888,C+,55.613
+2023 to 24,North East,Ethnicity,Any other ethnic group,130,327,9.804,81.538,C+,39.755
+2023 to 24,West Midlands,Ethnicity,Any other ethnic group,566,1164,12.776,80.565,C+,48.625
+2023 to 24,East Midlands,Ethnicity,Any other ethnic group,196,357,13.816,87.245,C+,54.902
+2023 to 24,South West,Ethnicity,Any other ethnic group,172,339,8.148,85.465,C+,50.737
+2023 to 24,South East,Ethnicity,Any other ethnic group,643,1052,12.627,85.381,C+,61.122
+2023 to 24,East of England,Ethnicity,Any other ethnic group,328,613,13.06,86.585,C+,53.507
+2023 to 24,London,Ethnicity,Any other ethnic group,3152,5515,13.315,86.992,C+,57.153
+2023 to 24,North West,Ethnicity,Any other ethnic group,597,1224,15.884,87.102,C+,48.775
+2023 to 24,Yorkshire and The Humber,Ethnicity,Any other ethnic group,321,702,16.738,80.374,C+,45.726
+2019 to 20,South West,Ethnicity,Asian or Asian British,835,1386,20.633,82.754,B-,60.245
+2019 to 20,South East,Ethnicity,Asian or Asian British,3955,6110,21.311,88.521,B-,64.73
+2019 to 20,West Midlands,Ethnicity,Asian or Asian British,5230,10841,16.135,83.136,B-,48.243
+2019 to 20,London,Ethnicity,Asian or Asian British,10800,17468,23.491,89.778,B,61.827
+2019 to 20,North West,Ethnicity,Asian or Asian British,3833,8289,17.279,85.677,B-,46.242
+2019 to 20,Yorkshire and The Humber,Ethnicity,Asian or Asian British,2950,7127,13.112,81.831,C+,41.392
+2019 to 20,East of England,Ethnicity,Asian or Asian British,2567,4331,22.333,89.521,B,59.27
+2019 to 20,East Midlands,Ethnicity,Asian or Asian British,2342,4198,17.898,87.617,B-,55.788
+2019 to 20,North East,Ethnicity,Asian or Asian British,601,1156,22.246,81.364,B,51.99
+2020 to 21,North East,Ethnicity,Asian or Asian British,512,871,24.235,86.914,B,58.783
+2020 to 21,West Midlands,Ethnicity,Asian or Asian British,5185,8704,22.768,87.869,B,59.57
+2020 to 21,South East,Ethnicity,Asian or Asian British,4372,5715,29.055,90.393,B,76.5
+2020 to 21,North West,Ethnicity,Asian or Asian British,3908,6395,21.414,88.767,B,61.11
+2020 to 21,Yorkshire and The Humber,Ethnicity,Asian or Asian British,2897,5445,18.986,83.051,B-,53.205
+2020 to 21,South West,Ethnicity,Asian or Asian British,841,1115,31.857,92.509,B,75.426
+2020 to 21,East of England,Ethnicity,Asian or Asian British,2586,3606,27.887,89.907,B,71.714
+2020 to 21,East Midlands,Ethnicity,Asian or Asian British,2358,3465,25.53,88.677,B,68.052
+2020 to 21,London,Ethnicity,Asian or Asian British,11060,15633,29.548,92.486,B,70.748
+2021 to 22,Yorkshire and The Humber,Ethnicity,Asian or Asian British,3222,6995,17.019,81.223,C+,46.061
+2021 to 22,London,Ethnicity,Asian or Asian British,11771,17817,23.996,92.125,B,66.066
+2021 to 22,East Midlands,Ethnicity,Asian or Asian British,2552,4250,17.587,88.127,B-,60.047
+2021 to 22,North East,Ethnicity,Asian or Asian British,578,1102,18.093,84.256,B-,52.45
+2021 to 22,West Midlands,Ethnicity,Asian or Asian British,5455,10599,18.64,85.903,B-,51.467
+2021 to 22,North West,Ethnicity,Asian or Asian British,4193,8130,20.916,87.193,B-,51.574
+2021 to 22,South West,Ethnicity,Asian or Asian British,864,1317,22.822,91.667,B-,65.604
+2021 to 22,South East,Ethnicity,Asian or Asian British,4791,6777,25.968,89.48,B-,70.695
+2021 to 22,East of England,Ethnicity,Asian or Asian British,2893,4513,25.226,88.282,B,64.104
+2022 to 23,Yorkshire and The Humber,Ethnicity,Asian or Asian British,3453,7019,10.025,79.699,C,49.195
+2022 to 23,South East,Ethnicity,Asian or Asian British,5190,7090,18.555,87.726,C+,73.202
+2022 to 23,London,Ethnicity,Asian or Asian British,12186,18077,16.911,91.49,B-,67.412
+2022 to 23,North West,Ethnicity,Asian or Asian British,4563,8466,15.098,86.851,C+,53.898
+2022 to 23,East Midlands,Ethnicity,Asian or Asian British,2731,4404,11.722,88.246,C+,62.012
+2022 to 23,South West,Ethnicity,Asian or Asian British,965,1485,15.848,90.155,C+,64.983
+2022 to 23,North East,Ethnicity,Asian or Asian British,643,1151,14.402,86.314,C+,55.864
+2022 to 23,West Midlands,Ethnicity,Asian or Asian British,5861,10914,12.604,83.621,C+,53.702
+2022 to 23,East of England,Ethnicity,Asian or Asian British,3055,4720,18.019,87.169,C+,64.725
+2023 to 24,North East,Ethnicity,Asian or Asian British,731,1260,13.962,84.405,C+,58.016
+2023 to 24,West Midlands,Ethnicity,Asian or Asian British,6222,11497,14.73,83.365,C+,54.118
+2023 to 24,East Midlands,Ethnicity,Asian or Asian British,2890,4596,11.836,87.855,C+,62.881
+2023 to 24,South West,Ethnicity,Asian or Asian British,1093,1623,17.438,91.4,B-,67.344
+2023 to 24,South East,Ethnicity,Asian or Asian British,5477,7431,18.93,87.822,C+,73.705
+2023 to 24,East of England,Ethnicity,Asian or Asian British,3149,4834,17.906,87.869,C+,65.143
+2023 to 24,London,Ethnicity,Asian or Asian British,12847,19052,18.19,90.901,B-,67.431
+2023 to 24,North West,Ethnicity,Asian or Asian British,4844,8964,15.319,87.283,C+,54.038
+2023 to 24,Yorkshire and The Humber,Ethnicity,Asian or Asian British,3649,7496,12.164,80.68,C+,48.679
+2019 to 20,South West,Disadvantage,Disadvantaged,2272,10502,12.952,75.352,C+,21.634
+2019 to 20,South East,Disadvantage,Disadvantaged,3816,17129,11.211,76.887,C+,22.278
+2019 to 20,West Midlands,Disadvantage,Disadvantaged,4243,17974,10.839,75.583,C+,23.606
+2019 to 20,London,Disadvantage,Disadvantaged,11204,28679,13.862,84.345,B-,39.067
+2019 to 20,North West,Disadvantage,Disadvantaged,4709,21687,10.418,79.55,B-,21.713
+2019 to 20,Yorkshire and The Humber,Disadvantage,Disadvantaged,2940,15223,10.268,74.252,C+,19.313
+2019 to 20,East of England,Disadvantage,Disadvantaged,3089,13831,10.797,77.209,C+,22.334
+2019 to 20,East Midlands,Disadvantage,Disadvantaged,2219,9070,10.544,80.442,C+,24.465
+2019 to 20,North East,Disadvantage,Disadvantaged,1453,9046,10.811,70.613,C+,16.062
+2020 to 21,North East,Disadvantage,Disadvantaged,1324,5845,15.017,77.719,B-,22.652
+2020 to 21,West Midlands,Disadvantage,Disadvantaged,4077,12370,15.468,80.182,B-,32.959
+2020 to 21,South East,Disadvantage,Disadvantaged,3796,11648,15.485,79.031,B-,32.589
+2020 to 21,North West,Disadvantage,Disadvantaged,4513,14131,14.011,81.121,B-,31.937
+2020 to 21,Yorkshire and The Humber,Disadvantage,Disadvantaged,2830,9551,12.96,79.329,B-,29.63
+2020 to 21,South West,Disadvantage,Disadvantaged,1908,6509,13.864,81.813,B-,29.313
+2020 to 21,East of England,Disadvantage,Disadvantaged,2844,8976,15.15,81.329,B-,31.684
+2020 to 21,East Midlands,Disadvantage,Disadvantaged,2145,6232,13.965,83.543,B-,34.419
+2020 to 21,London,Disadvantage,Disadvantaged,10663,22109,18.241,86.917,B-,48.229
+2021 to 22,Yorkshire and The Humber,Disadvantage,Disadvantaged,3006,14070,8.946,75.516,C+,21.365
+2021 to 22,London,Disadvantage,Disadvantaged,10781,26325,12.947,86.532,C+,40.953
+2021 to 22,East Midlands,Disadvantage,Disadvantaged,2195,8405,9.14,82.415,C+,26.115
+2021 to 22,North East,Disadvantage,Disadvantaged,1412,8325,9.339,77.833,C+,16.961
+2021 to 22,West Midlands,Disadvantage,Disadvantaged,4260,16559,11.157,80.657,C+,25.726
+2021 to 22,North West,Disadvantage,Disadvantaged,4548,19620,11.131,79.683,C+,23.18
+2021 to 22,South West,Disadvantage,Disadvantaged,2120,9677,10.16,82.547,C+,21.908
+2021 to 22,South East,Disadvantage,Disadvantaged,4123,15764,10.453,77.08,C+,26.155
+2021 to 22,East of England,Disadvantage,Disadvantaged,3146,12609,10.142,79.784,C+,24.95
+2022 to 23,Yorkshire and The Humber,Disadvantage,Disadvantaged,3178,14241,6.176,74.638,C,22.316
+2022 to 23,South East,Disadvantage,Disadvantaged,4225,16114,6.299,75.077,C,26.219
+2022 to 23,London,Disadvantage,Disadvantaged,10912,25519,8.489,84.577,C,42.76
+2022 to 23,North West,Disadvantage,Disadvantaged,4831,19836,6.798,78.948,C,24.355
+2022 to 23,East Midlands,Disadvantage,Disadvantaged,2311,8490,5.86,79.576,C,27.22
+2022 to 23,South West,Disadvantage,Disadvantaged,2248,9784,6.193,78.47,C,22.976
+2022 to 23,North East,Disadvantage,Disadvantaged,1394,8155,6.913,75.251,C,17.094
+2022 to 23,West Midlands,Disadvantage,Disadvantaged,4447,16759,6.895,76.186,C,26.535
+2022 to 23,East of England,Disadvantage,Disadvantaged,2915,12367,6.705,76.878,C,23.571
+2023 to 24,North East,Disadvantage,Disadvantaged,1464,8480,7.323,73.224,C,17.264
+2023 to 24,West Midlands,Disadvantage,Disadvantaged,4877,17858,8.042,74.164,C,27.31
+2023 to 24,East Midlands,Disadvantage,Disadvantaged,2360,8583,7.124,79.873,C,27.496
+2023 to 24,South West,Disadvantage,Disadvantaged,2218,9992,6.275,78.224,C,22.198
+2023 to 24,South East,Disadvantage,Disadvantaged,4169,15978,7.28,73.807,C,26.092
+2023 to 24,East of England,Disadvantage,Disadvantaged,3032,12658,5.925,76.682,C,23.953
+2023 to 24,London,Disadvantage,Disadvantaged,10659,25633,9.015,84.342,C,41.583
+2023 to 24,North West,Disadvantage,Disadvantaged,4952,20651,8.229,78.13,C,23.979
+2023 to 24,Yorkshire and The Humber,Disadvantage,Disadvantaged,3180,14489,7.532,75.723,C,21.948
+2019 to 20,South West,Disadvantage,Non-Disadvantaged,19470,41534,20.652,86.02,B,46.877
+2019 to 20,South East,Disadvantage,Non-Disadvantaged,37985,73088,21.641,87.016,B,51.972
+2019 to 20,West Midlands,Disadvantage,Non-Disadvantaged,19703,43695,19.915,85.596,B-,45.092
+2019 to 20,London,Disadvantage,Non-Disadvantaged,29767,51010,24.396,88.857,B,58.355
+2019 to 20,North West,Disadvantage,Non-Disadvantaged,24792,53133,19.813,87.129,B,46.66
+2019 to 20,Yorkshire and The Humber,Disadvantage,Non-Disadvantaged,17882,41048,19.258,84.409,B,43.564
+2019 to 20,East of England,Disadvantage,Non-Disadvantaged,24530,50751,21.792,87.428,B,48.334
+2019 to 20,East Midlands,Disadvantage,Non-Disadvantaged,15679,31661,19.702,88.641,B-,49.521
+2019 to 20,North East,Disadvantage,Non-Disadvantaged,8069,20119,19.866,82.018,B,40.106
+2020 to 21,North East,Disadvantage,Non-Disadvantaged,7569,16103,23.725,86.379,B,47.004
+2020 to 21,West Midlands,Disadvantage,Non-Disadvantaged,19869,36782,24.418,88.444,B,54.018
+2020 to 21,South East,Disadvantage,Non-Disadvantaged,39418,64053,27.171,88.132,B,61.54
+2020 to 21,North West,Disadvantage,Non-Disadvantaged,24875,44626,24.819,88.318,B,55.741
+2020 to 21,Yorkshire and The Humber,Disadvantage,Non-Disadvantaged,17637,32858,24.943,86.489,B,53.676
+2020 to 21,South West,Disadvantage,Non-Disadvantaged,19323,34629,26.929,89.888,B,55.8
+2020 to 21,East of England,Disadvantage,Non-Disadvantaged,24594,42648,27.572,89.619,B,57.667
+2020 to 21,East Midlands,Disadvantage,Non-Disadvantaged,15712,27174,25.417,90.364,B,57.82
+2020 to 21,London,Disadvantage,Non-Disadvantaged,30845,46640,30.469,91.182,B+,66.134
+2021 to 22,Yorkshire and The Humber,Disadvantage,Non-Disadvantaged,18667,39949,20.274,85.118,B-,46.727
+2021 to 22,London,Disadvantage,Non-Disadvantaged,33437,54635,24.308,91.186,B,61.201
+2021 to 22,East Midlands,Disadvantage,Non-Disadvantaged,16823,31771,17.92,90.299,B-,52.951
+2021 to 22,North East,Disadvantage,Non-Disadvantaged,8081,19432,19.088,85.942,B-,41.586
+2021 to 22,West Midlands,Disadvantage,Non-Disadvantaged,20866,43652,19.728,87.238,B-,47.801
+2021 to 22,North West,Disadvantage,Non-Disadvantaged,26710,53194,21.933,88.237,B,50.212
+2021 to 22,South West,Disadvantage,Non-Disadvantaged,19714,40954,20.364,90.154,B-,48.137
+2021 to 22,South East,Disadvantage,Non-Disadvantaged,41365,73964,23.208,87.557,B,55.926
+2021 to 22,East of England,Disadvantage,Non-Disadvantaged,26247,51187,21.994,88.643,B,51.277
+2022 to 23,Yorkshire and The Humber,Disadvantage,Non-Disadvantaged,19256,40531,13.195,83.943,C+,47.509
+2022 to 23,South East,Disadvantage,Non-Disadvantaged,42450,74539,16.174,86.325,B-,56.95
+2022 to 23,London,Disadvantage,Non-Disadvantaged,34764,55712,16.977,90.26,B-,62.399
+2022 to 23,North West,Disadvantage,Non-Disadvantaged,27233,53828,14.281,86.869,C+,50.593
+2022 to 23,East Midlands,Disadvantage,Non-Disadvantaged,17356,31577,11.628,88.494,C+,54.964
+2022 to 23,South West,Disadvantage,Non-Disadvantaged,19923,40730,13.27,88.606,C+,48.915
+2022 to 23,North East,Disadvantage,Non-Disadvantaged,8167,19392,11.738,84.915,C+,42.115
+2022 to 23,West Midlands,Disadvantage,Non-Disadvantaged,21165,43693,13.255,85.689,C+,48.44
+2022 to 23,East of England,Disadvantage,Non-Disadvantaged,26492,51020,14.611,87.683,C+,51.925
+2023 to 24,North East,Disadvantage,Non-Disadvantaged,8276,19770,13.102,83.688,C+,41.861
+2023 to 24,West Midlands,Disadvantage,Non-Disadvantaged,21509,43957,14.835,84.327,C+,48.932
+2023 to 24,East Midlands,Disadvantage,Non-Disadvantaged,17486,31937,11.723,87.79,C+,54.752
+2023 to 24,South West,Disadvantage,Non-Disadvantaged,20249,41114,13.983,87.298,C+,49.251
+2023 to 24,South East,Disadvantage,Non-Disadvantaged,43213,75740,16.698,86.094,B-,57.054
+2023 to 24,East of England,Disadvantage,Non-Disadvantaged,27384,52618,15.167,86.956,C+,52.043
+2023 to 24,London,Disadvantage,Non-Disadvantaged,36173,57552,18.119,89.973,B-,62.853
+2023 to 24,North West,Disadvantage,Non-Disadvantaged,27562,55214,15.444,86.518,B-,49.918
+2023 to 24,Yorkshire and The Humber,Disadvantage,Non-Disadvantaged,19674,41347,14.329,83.049,C+,47.583
+2019 to 20,South West,Disadvantage,Unknown disadvantaged status,402,1524,14.762,56.468,C+,26.378
+2019 to 20,South East,Disadvantage,Unknown disadvantaged status,879,2898,22.33,62.912,B-,30.331
+2019 to 20,West Midlands,Disadvantage,Unknown disadvantaged status,415,2381,17.276,74.699,B-,17.43
+2019 to 20,London,Disadvantage,Unknown disadvantaged status,608,4952,21.56,70.066,B,12.278
+2019 to 20,North West,Disadvantage,Unknown disadvantaged status,254,2364,22.857,73.228,B,10.745
+2019 to 20,Yorkshire and The Humber,Disadvantage,Unknown disadvantaged status,247,1532,25.62,53.846,B-,16.123
+2019 to 20,East of England,Disadvantage,Unknown disadvantaged status,242,1712,29.143,76.86,B,14.136
+2019 to 20,East Midlands,Disadvantage,Unknown disadvantaged status,198,1271,25.714,59.091,C+,15.578
+2019 to 20,North East,Disadvantage,Unknown disadvantaged status,78,1180,25.0,41.026,B-,6.61
+2020 to 21,North East,Disadvantage,Unknown disadvantaged status,72,706,22.222,48.611,B,10.198
+2020 to 21,West Midlands,Disadvantage,Unknown disadvantaged status,391,1552,22.867,85.934,B,25.193
+2020 to 21,South East,Disadvantage,Unknown disadvantaged status,742,2094,24.694,63.747,B,35.435
+2020 to 21,North West,Disadvantage,Unknown disadvantaged status,242,1623,33.714,80.579,B,14.911
+2020 to 21,Yorkshire and The Humber,Disadvantage,Unknown disadvantaged status,200,941,27.083,54.5,B-,21.254
+2020 to 21,South West,Disadvantage,Unknown disadvantaged status,368,1125,24.742,59.783,B,32.711
+2020 to 21,East of England,Disadvantage,Unknown disadvantaged status,210,1033,25.974,80.476,B,20.329
+2020 to 21,East Midlands,Disadvantage,Unknown disadvantaged status,198,738,23.009,62.121,B-,26.829
+2020 to 21,London,Disadvantage,Unknown disadvantaged status,479,3310,26.822,74.113,B,14.471
+2021 to 22,Yorkshire and The Humber,Disadvantage,Unknown disadvantaged status,134,1063,22.124,91.791,B-,12.606
+2021 to 22,London,Disadvantage,Unknown disadvantaged status,391,3677,21.875,82.353,B-,10.634
+2021 to 22,East Midlands,Disadvantage,Unknown disadvantaged status,100,787,21.429,90.0,B-,12.706
+2021 to 22,North East,Disadvantage,Unknown disadvantaged status,55,785,26.19,72.727,B-,7.006
+2021 to 22,West Midlands,Disadvantage,Unknown disadvantaged status,351,1792,26.909,85.47,B,19.587
+2021 to 22,North West,Disadvantage,Unknown disadvantaged status,203,1900,25.949,82.759,B-,10.684
+2021 to 22,South West,Disadvantage,Unknown disadvantaged status,222,1213,19.251,91.892,B,18.302
+2021 to 22,South East,Disadvantage,Unknown disadvantaged status,580,2309,18.103,87.241,B-,25.119
+2021 to 22,East of England,Disadvantage,Unknown disadvantaged status,186,1271,23.684,87.097,B-,14.634
+2022 to 23,Yorkshire and The Humber,Disadvantage,Unknown disadvantaged status,156,1240,14.953,74.359,C+,12.581
+2022 to 23,South East,Disadvantage,Unknown disadvantaged status,658,2560,13.646,79.787,B-,25.703
+2022 to 23,London,Disadvantage,Unknown disadvantaged status,499,4040,17.452,77.555,C+,12.351
+2022 to 23,North West,Disadvantage,Unknown disadvantaged status,251,2167,18.905,86.853,B-,11.583
+2022 to 23,East Midlands,Disadvantage,Unknown disadvantaged status,131,857,11.009,89.313,C+,15.286
+2022 to 23,South West,Disadvantage,Unknown disadvantaged status,282,1403,15.0,82.624,B-,20.1
+2022 to 23,North East,Disadvantage,Unknown disadvantaged status,77,810,6.25,72.727,C+,9.506
+2022 to 23,West Midlands,Disadvantage,Unknown disadvantaged status,438,2036,13.636,82.648,C+,21.513
+2022 to 23,East of England,Disadvantage,Unknown disadvantaged status,247,1460,16.588,89.879,C+,16.918
+2023 to 24,North East,Disadvantage,Unknown disadvantaged status,135,1105,17.045,66.667,C+,12.217
+2023 to 24,West Midlands,Disadvantage,Unknown disadvantaged status,520,2605,11.346,76.731,C+,19.962
+2023 to 24,East Midlands,Disadvantage,Unknown disadvantaged status,253,1279,14.674,79.447,C+,19.781
+2023 to 24,South West,Disadvantage,Unknown disadvantaged status,425,1664,12.195,71.059,C,25.541
+2023 to 24,South East,Disadvantage,Unknown disadvantaged status,993,3440,14.0,69.184,C+,28.866
+2023 to 24,East of England,Disadvantage,Unknown disadvantaged status,357,1963,16.605,80.672,C+,18.186
+2023 to 24,London,Disadvantage,Unknown disadvantaged status,701,4726,15.942,80.029,B-,14.833
+2023 to 24,North West,Disadvantage,Unknown disadvantaged status,339,2628,17.045,82.301,B-,12.9
+2023 to 24,Yorkshire and The Humber,Disadvantage,Unknown disadvantaged status,282,1583,15.517,68.44,C+,17.814

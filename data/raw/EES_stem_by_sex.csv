@@ -1502,15 +1502,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2019 to 20,North East,Female,Computer Science,1,14,0.271
 2019 to 20,London,Female,Computer Science,1,87,0.387
 2019 to 20,Yorkshire and The Humber,Female,Computer Science,1,18,0.155
-2019 to 20,East of England,Male,Zero Maths/Science subjects,0,5430,45.085
-2019 to 20,West Midlands,Male,Zero Maths/Science subjects,0,3942,40.443
-2019 to 20,East Midlands,Male,Zero Maths/Science subjects,0,3241,42.967
-2019 to 20,South West,Male,Zero Maths/Science subjects,0,3856,42.988
-2019 to 20,South East,Male,Zero Maths/Science subjects,0,8527,45.815
-2019 to 20,North West,Male,Zero Maths/Science subjects,0,5459,43.602
-2019 to 20,North East,Male,Zero Maths/Science subjects,0,1809,47.122
-2019 to 20,London,Male,Zero Maths/Science subjects,0,6922,39.296
-2019 to 20,Yorkshire and The Humber,Male,Zero Maths/Science subjects,0,3893,45.368
 2019 to 20,East of England,Male,Maths & Further Maths & Chemistry & Physics & Computer Science,5,4,0.033
 2019 to 20,West Midlands,Male,Maths & Further Maths & Chemistry & Physics & Computer Science,5,3,0.031
 2019 to 20,East Midlands,Male,Maths & Further Maths & Chemistry & Physics & Computer Science,5,2,0.027
@@ -1592,15 +1583,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2019 to 20,North East,Male,Computer Science,1,96,2.501
 2019 to 20,London,Male,Computer Science,1,343,1.947
 2019 to 20,Yorkshire and The Humber,Male,Computer Science,1,188,2.191
-2019 to 20,East of England,All,Zero Maths/Science subjects,0,14883,55.694
-2019 to 20,West Midlands,All,Zero Maths/Science subjects,0,12054,52.191
-2019 to 20,East Midlands,All,Zero Maths/Science subjects,0,9282,53.452
-2019 to 20,South West,All,Zero Maths/Science subjects,0,11132,54.031
-2019 to 20,South East,All,Zero Maths/Science subjects,0,22798,55.121
-2019 to 20,North West,All,Zero Maths/Science subjects,0,15634,54.285
-2019 to 20,North East,All,Zero Maths/Science subjects,0,5162,57.273
-2019 to 20,London,All,Zero Maths/Science subjects,0,19676,49.059
-2019 to 20,Yorkshire and The Humber,All,Zero Maths/Science subjects,0,11377,56.269
 2019 to 20,East of England,All,Maths & Further Maths & Chemistry & Physics & Computer Science,5,4,0.015
 2019 to 20,West Midlands,All,Maths & Further Maths & Chemistry & Physics & Computer Science,5,5,0.022
 2019 to 20,East Midlands,All,Maths & Further Maths & Chemistry & Physics & Computer Science,5,2,0.012
@@ -1637,15 +1619,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2019 to 20,North East,All,Maths & Biology & Physics,3,37,0.411
 2019 to 20,London,All,Maths & Biology & Physics,3,219,0.546
 2019 to 20,Yorkshire and The Humber,All,Maths & Biology & Physics,3,77,0.381
-2019 to 20,East of England,Female,Zero Maths/Science subjects,0,9453,64.398
-2019 to 20,West Midlands,Female,Zero Maths/Science subjects,0,8112,60.769
-2019 to 20,East Midlands,Female,Zero Maths/Science subjects,0,6041,61.505
-2019 to 20,South West,Female,Zero Maths/Science subjects,0,7276,62.546
-2019 to 20,South East,Female,Zero Maths/Science subjects,0,14271,62.735
-2019 to 20,North West,Female,Zero Maths/Science subjects,0,10175,62.5
-2019 to 20,North East,Female,Zero Maths/Science subjects,0,3353,64.805
-2019 to 20,London,Female,Zero Maths/Science subjects,0,12754,56.705
-2019 to 20,Yorkshire and The Humber,Female,Zero Maths/Science subjects,0,7484,64.307
 2019 to 20,East of England,Male,Maths & Biology & Physics,3,100,0.83
 2019 to 20,West Midlands,Male,Maths & Biology & Physics,3,113,1.159
 2019 to 20,East Midlands,Male,Maths & Biology & Physics,3,77,1.021
@@ -3041,15 +3014,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2020 to 21,South East,Female,Further Maths & Biology & Chemistry & Computer Science,4,0,0.0
 2020 to 21,East of England,Female,Further Maths & Biology & Chemistry & Computer Science,4,0,0.0
 2020 to 21,East Midlands,Female,Further Maths & Biology & Chemistry & Computer Science,4,0,0.0
-2020 to 21,North East,Male,Zero Maths/Science subjects,0,1809,48.01
-2020 to 21,London,Male,Zero Maths/Science subjects,0,6769,37.307
-2020 to 21,South West,Male,Zero Maths/Science subjects,0,4082,43.306
-2020 to 21,West Midlands,Male,Zero Maths/Science subjects,0,4203,40.282
-2020 to 21,North West,Male,Zero Maths/Science subjects,0,5423,43.506
-2020 to 21,Yorkshire and The Humber,Male,Zero Maths/Science subjects,0,3846,44.314
-2020 to 21,South East,Male,Zero Maths/Science subjects,0,8732,44.526
-2020 to 21,East of England,Male,Zero Maths/Science subjects,0,5535,44.927
-2020 to 21,East Midlands,Male,Zero Maths/Science subjects,0,3194,41.823
 2020 to 21,North East,All,Further Maths & Chemistry & Physics & Computer Science,4,0,0.0
 2020 to 21,London,All,Further Maths & Chemistry & Physics & Computer Science,4,0,0.0
 2020 to 21,South West,All,Further Maths & Chemistry & Physics & Computer Science,4,0,0.0
@@ -3068,15 +3032,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2020 to 21,South East,All,Biology & Chemistry & Physics & Computer Science,4,0,0.0
 2020 to 21,East of England,All,Biology & Chemistry & Physics & Computer Science,4,0,0.0
 2020 to 21,East Midlands,All,Biology & Chemistry & Physics & Computer Science,4,1,0.006
-2020 to 21,North East,Female,Zero Maths/Science subjects,0,3290,65.382
-2020 to 21,London,Female,Zero Maths/Science subjects,0,13052,56.198
-2020 to 21,South West,Female,Zero Maths/Science subjects,0,7251,62.144
-2020 to 21,West Midlands,Female,Zero Maths/Science subjects,0,7961,59.159
-2020 to 21,North West,Female,Zero Maths/Science subjects,0,10386,61.866
-2020 to 21,Yorkshire and The Humber,Female,Zero Maths/Science subjects,0,7333,62.977
-2020 to 21,South East,Female,Zero Maths/Science subjects,0,14674,62.047
-2020 to 21,East of England,Female,Zero Maths/Science subjects,0,9518,63.585
-2020 to 21,East Midlands,Female,Zero Maths/Science subjects,0,6029,59.746
 2020 to 21,North East,Male,Further Maths & Chemistry & Physics & Computer Science,4,0,0.0
 2020 to 21,London,Male,Further Maths & Chemistry & Physics & Computer Science,4,0,0.0
 2020 to 21,South West,Male,Further Maths & Chemistry & Physics & Computer Science,4,0,0.0
@@ -3122,15 +3077,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2020 to 21,South East,Male,Further Maths & Biology & Chemistry & Computer Science,4,0,0.0
 2020 to 21,East of England,Male,Further Maths & Biology & Chemistry & Computer Science,4,0,0.0
 2020 to 21,East Midlands,Male,Further Maths & Biology & Chemistry & Computer Science,4,0,0.0
-2020 to 21,North East,All,Zero Maths/Science subjects,0,5099,57.943
-2020 to 21,London,All,Zero Maths/Science subjects,0,19821,47.913
-2020 to 21,South West,All,Zero Maths/Science subjects,0,11333,53.726
-2020 to 21,West Midlands,All,Zero Maths/Science subjects,0,12164,50.915
-2020 to 21,North West,All,Zero Maths/Science subjects,0,15809,54.042
-2020 to 21,Yorkshire and The Humber,All,Zero Maths/Science subjects,0,11179,55.007
-2020 to 21,South East,All,Zero Maths/Science subjects,0,23406,54.104
-2020 to 21,East of England,All,Zero Maths/Science subjects,0,15053,55.161
-2020 to 21,East Midlands,All,Zero Maths/Science subjects,0,9223,52.025
 2020 to 21,North East,All,Chemistry & Computer Science,2,2,0.023
 2020 to 21,London,All,Chemistry & Computer Science,2,19,0.046
 2020 to 21,South West,All,Chemistry & Computer Science,2,6,0.028
@@ -4346,15 +4292,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2021 to 22,South East,Female,Maths & Chemistry & Computer Science,3,18,0.072
 2021 to 22,East Midlands,Female,Maths & Chemistry & Computer Science,3,11,0.104
 2021 to 22,South West,Female,Maths & Chemistry & Computer Science,3,2,0.016
-2021 to 22,London,Male,Zero Maths/Science subjects,0,7627,38.501
-2021 to 22,North West,Male,Zero Maths/Science subjects,0,6069,44.853
-2021 to 22,West Midlands,Male,Zero Maths/Science subjects,0,4628,41.848
-2021 to 22,East of England,Male,Zero Maths/Science subjects,0,6183,46.777
-2021 to 22,Yorkshire and The Humber,Male,Zero Maths/Science subjects,0,4281,45.562
-2021 to 22,North East,Male,Zero Maths/Science subjects,0,2004,49.42
-2021 to 22,South East,Male,Zero Maths/Science subjects,0,9940,47.111
-2021 to 22,East Midlands,Male,Zero Maths/Science subjects,0,3589,42.398
-2021 to 22,South West,Male,Zero Maths/Science subjects,0,4357,44.596
 2021 to 22,London,Male,Maths & Biology & Computer Science,3,32,0.162
 2021 to 22,North West,Male,Maths & Biology & Computer Science,3,10,0.074
 2021 to 22,West Midlands,Male,Maths & Biology & Computer Science,3,27,0.244
@@ -4373,15 +4310,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2021 to 22,South East,All,Maths & Biology & Physics,3,191,0.415
 2021 to 22,East Midlands,All,Maths & Biology & Physics,3,103,0.539
 2021 to 22,South West,All,Maths & Biology & Physics,3,102,0.463
-2021 to 22,London,Female,Zero Maths/Science subjects,0,13954,56.482
-2021 to 22,North West,Female,Zero Maths/Science subjects,0,11143,62.433
-2021 to 22,West Midlands,Female,Zero Maths/Science subjects,0,8654,60.302
-2021 to 22,East of England,Female,Zero Maths/Science subjects,0,10417,63.928
-2021 to 22,Yorkshire and The Humber,Female,Zero Maths/Science subjects,0,7959,64.482
-2021 to 22,North East,Female,Zero Maths/Science subjects,0,3664,66.996
-2021 to 22,South East,Female,Zero Maths/Science subjects,0,15803,63.542
-2021 to 22,East Midlands,Female,Zero Maths/Science subjects,0,6450,60.694
-2021 to 22,South West,Female,Zero Maths/Science subjects,0,7656,62.564
 2021 to 22,London,Female,Maths & Further Maths & Chemistry & Physics & Computer Science,5,1,0.004
 2021 to 22,North West,Female,Maths & Further Maths & Chemistry & Physics & Computer Science,5,0,0.0
 2021 to 22,West Midlands,Female,Maths & Further Maths & Chemistry & Physics & Computer Science,5,0,0.0
@@ -4436,15 +4364,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2021 to 22,South East,Male,Further Maths & Chemistry,2,9,0.043
 2021 to 22,East Midlands,Male,Further Maths & Chemistry,2,0,0.0
 2021 to 22,South West,Male,Further Maths & Chemistry,2,1,0.01
-2021 to 22,London,All,Zero Maths/Science subjects,0,21581,48.48
-2021 to 22,North West,All,Zero Maths/Science subjects,0,17212,54.852
-2021 to 22,West Midlands,All,Zero Maths/Science subjects,0,13282,52.271
-2021 to 22,East of England,All,Zero Maths/Science subjects,0,16600,56.246
-2021 to 22,Yorkshire and The Humber,All,Zero Maths/Science subjects,0,12240,56.304
-2021 to 22,North East,All,Zero Maths/Science subjects,0,5668,59.513
-2021 to 22,South East,All,Zero Maths/Science subjects,0,25743,56.001
-2021 to 22,East Midlands,All,Zero Maths/Science subjects,0,10039,52.582
-2021 to 22,South West,All,Zero Maths/Science subjects,0,12013,54.587
 2021 to 22,London,All,Chemistry & Physics,2,73,0.164
 2021 to 22,North West,All,Chemistry & Physics,2,48,0.153
 2021 to 22,West Midlands,All,Chemistry & Physics,2,34,0.134
@@ -5768,15 +5687,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2022 to 23,East of England,Female,Computer Science,1,54,0.338
 2022 to 23,North East,Female,Computer Science,1,20,0.37
 2022 to 23,West Midlands,Female,Computer Science,1,65,0.45
-2022 to 23,East Midlands,Male,Zero Maths/Science subjects,0,3965,44.646
-2022 to 23,South West,Male,Zero Maths/Science subjects,0,4661,45.795
-2022 to 23,North West,Male,Zero Maths/Science subjects,0,6573,46.743
-2022 to 23,Yorkshire and The Humber,Male,Zero Maths/Science subjects,0,4463,46.388
-2022 to 23,South East,Male,Zero Maths/Science subjects,0,10383,47.642
-2022 to 23,London,Male,Zero Maths/Science subjects,0,7959,38.481
-2022 to 23,East of England,Male,Zero Maths/Science subjects,0,6377,47.101
-2022 to 23,North East,Male,Zero Maths/Science subjects,0,2047,49.242
-2022 to 23,West Midlands,Male,Zero Maths/Science subjects,0,4759,42.082
 2022 to 23,East Midlands,Male,Maths & Further Maths & Chemistry & Physics & Computer Science,5,2,0.023
 2022 to 23,South West,Male,Maths & Further Maths & Chemistry & Physics & Computer Science,5,1,0.01
 2022 to 23,North West,Male,Maths & Further Maths & Chemistry & Physics & Computer Science,5,2,0.014
@@ -5795,15 +5705,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2022 to 23,East of England,All,Maths & Biology & Physics,3,115,0.39
 2022 to 23,North East,All,Maths & Biology & Physics,3,43,0.45
 2022 to 23,West Midlands,All,Maths & Biology & Physics,3,107,0.416
-2022 to 23,East Midlands,Female,Zero Maths/Science subjects,0,6637,61.42
-2022 to 23,South West,Female,Zero Maths/Science subjects,0,7682,63.315
-2022 to 23,North West,Female,Zero Maths/Science subjects,0,11300,62.732
-2022 to 23,Yorkshire and The Humber,Female,Zero Maths/Science subjects,0,8243,64.278
-2022 to 23,South East,Female,Zero Maths/Science subjects,0,16009,63.435
-2022 to 23,London,Female,Zero Maths/Science subjects,0,13884,55.176
-2022 to 23,East of England,Female,Zero Maths/Science subjects,0,10135,63.487
-2022 to 23,North East,Female,Zero Maths/Science subjects,0,3595,66.476
-2022 to 23,West Midlands,Female,Zero Maths/Science subjects,0,8682,60.125
 2022 to 23,East Midlands,Male,Further Maths & Chemistry & Physics & Computer Science,4,0,0.0
 2022 to 23,South West,Male,Further Maths & Chemistry & Physics & Computer Science,4,0,0.0
 2022 to 23,North West,Male,Further Maths & Chemistry & Physics & Computer Science,4,0,0.0
@@ -5849,15 +5750,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2022 to 23,East of England,Male,Biology & Chemistry & Computer Science,3,16,0.118
 2022 to 23,North East,Male,Biology & Chemistry & Computer Science,3,6,0.144
 2022 to 23,West Midlands,Male,Biology & Chemistry & Computer Science,3,28,0.248
-2022 to 23,East Midlands,All,Zero Maths/Science subjects,0,10602,53.853
-2022 to 23,South West,All,Zero Maths/Science subjects,0,12343,55.322
-2022 to 23,North West,All,Zero Maths/Science subjects,0,17874,55.724
-2022 to 23,Yorkshire and The Humber,All,Zero Maths/Science subjects,0,12706,56.609
-2022 to 23,South East,All,Zero Maths/Science subjects,0,26392,56.116
-2022 to 23,London,All,Zero Maths/Science subjects,0,21843,47.644
-2022 to 23,East of England,All,Zero Maths/Science subjects,0,16512,55.967
-2022 to 23,North East,All,Zero Maths/Science subjects,0,5642,58.986
-2022 to 23,West Midlands,All,Zero Maths/Science subjects,0,13441,52.2
 2022 to 23,East Midlands,All,Maths & Further Maths & Chemistry & Physics & Computer Science,5,2,0.01
 2022 to 23,South West,All,Maths & Further Maths & Chemistry & Physics & Computer Science,5,1,0.004
 2022 to 23,North West,All,Maths & Further Maths & Chemistry & Physics & Computer Science,5,2,0.006
@@ -7820,15 +7712,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2023 to 24,South West,All,Maths & Further Maths & Chemistry,3,66,0.297
 2023 to 24,South East,All,Maths & Further Maths & Chemistry,3,90,0.188
 2023 to 24,London,All,Maths & Further Maths & Chemistry,3,190,0.405
-2023 to 24,North West,Female,Zero Maths/Science subjects,0,11116,62.094
-2023 to 24,Yorkshire and The Humber,Female,Zero Maths/Science subjects,0,8177,63.953
-2023 to 24,North East,Female,Zero Maths/Science subjects,0,3487,64.383
-2023 to 24,West Midlands,Female,Zero Maths/Science subjects,0,8695,58.905
-2023 to 24,East of England,Female,Zero Maths/Science subjects,0,10387,63.085
-2023 to 24,East Midlands,Female,Zero Maths/Science subjects,0,6676,60.307
-2023 to 24,South West,Female,Zero Maths/Science subjects,0,7596,62.596
-2023 to 24,South East,Female,Zero Maths/Science subjects,0,16111,62.939
-2023 to 24,London,Female,Zero Maths/Science subjects,0,13823,54.25
 2023 to 24,North West,All,Further Maths & Chemistry & Physics,3,0,0.0
 2023 to 24,Yorkshire and The Humber,All,Further Maths & Chemistry & Physics,3,0,0.0
 2023 to 24,North East,All,Further Maths & Chemistry & Physics,3,0,0.0
@@ -7901,15 +7784,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2023 to 24,South West,Female,Maths & Further Maths & Computer Science,3,16,0.132
 2023 to 24,South East,Female,Maths & Further Maths & Computer Science,3,59,0.23
 2023 to 24,London,Female,Maths & Further Maths & Computer Science,3,68,0.267
-2023 to 24,North West,Male,Zero Maths/Science subjects,0,6203,43.475
-2023 to 24,Yorkshire and The Humber,Male,Zero Maths/Science subjects,0,4377,44.025
-2023 to 24,North East,Male,Zero Maths/Science subjects,0,1933,45.795
-2023 to 24,West Midlands,Male,Zero Maths/Science subjects,0,4611,40.373
-2023 to 24,East of England,Male,Zero Maths/Science subjects,0,6204,44.772
-2023 to 24,East Midlands,Male,Zero Maths/Science subjects,0,3526,40.32
-2023 to 24,South West,Male,Zero Maths/Science subjects,0,4467,44.153
-2023 to 24,South East,Male,Zero Maths/Science subjects,0,9999,45.132
-2023 to 24,London,Male,Zero Maths/Science subjects,0,7635,35.656
 2023 to 24,North West,Female,Further Maths & Physics & Computer Science,3,0,0.0
 2023 to 24,Yorkshire and The Humber,Female,Further Maths & Physics & Computer Science,3,0,0.0
 2023 to 24,North East,Female,Further Maths & Physics & Computer Science,3,0,0.0
@@ -7982,15 +7856,6 @@ time_period,region_name,characteristic_sex,sub_name_comb,num_maths_science,num_e
 2023 to 24,South West,Male,Maths & Further Maths & Computer Science,3,89,0.88
 2023 to 24,South East,Male,Maths & Further Maths & Computer Science,3,222,1.002
 2023 to 24,London,Male,Maths & Further Maths & Computer Science,3,245,1.144
-2023 to 24,North West,All,Zero Maths/Science subjects,0,17319,53.836
-2023 to 24,Yorkshire and The Humber,All,Zero Maths/Science subjects,0,12554,55.236
-2023 to 24,North East,All,Zero Maths/Science subjects,0,5420,56.242
-2023 to 24,West Midlands,All,Zero Maths/Science subjects,0,13306,50.819
-2023 to 24,East of England,All,Zero Maths/Science subjects,0,16591,54.716
-2023 to 24,East Midlands,All,Zero Maths/Science subjects,0,10202,51.486
-2023 to 24,South West,All,Zero Maths/Science subjects,0,12063,54.211
-2023 to 24,South East,All,Zero Maths/Science subjects,0,26110,54.677
-2023 to 24,London,All,Zero Maths/Science subjects,0,21458,45.759
 2023 to 24,North West,Male,Further Maths & Physics & Computer Science,3,0,0.0
 2023 to 24,Yorkshire and The Humber,Male,Further Maths & Physics & Computer Science,3,0,0.0
 2023 to 24,North East,Male,Further Maths & Physics & Computer Science,3,0,0.0

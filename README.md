@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/tPsjfIAZ)
 
-# Do certain Regions of England lag in Higher Education Performance compared to others?
+# Do certain Regions of England lag in Further Education Performance compared to others?
 
-This project will look on a Regional Scale at the disparities in Higher Education (16-18 Studies), focusing on Retention of students, breakdown by certain Characteristics and in particular a deeper dive into STEM uptake within the A level cohort.
+This project will look on a Regional Scale at the disparities in Further Education (16-18 Studies), focusing on Retention of students, breakdown by certain Characteristics and in particular a deeper dive into STEM uptake within the A level cohort.
 
 ## 🎯 Project Overview
 
@@ -81,7 +81,7 @@ The database schema and table structures are documented in `NB02_Database_Design
 
 Have a look at this Github hosted website that documents my findings in an easily digestable way: [Project Website](https://lse-me204.github.io/me204-2025-project-tkar9901/).
 
-Or you are welcome to look through the `NB03_Data_Analysis.ipynb` notebook to see a more detailed look through all my EDA and Analysis steps.
+Or you are welcome to look through the `NB03_Data_Analysis.ipynb` notebook to see a more detailed look through all my EDA and Visualisation steps.
 
 ## 🚩 Verification
 
